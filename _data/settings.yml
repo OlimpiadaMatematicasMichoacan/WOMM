@@ -9,7 +9,7 @@ description: this is meta description
 email: olimpiada.omm@gmail.com
 phone: +52 4433223500 ext. 1230
 address: Facultad de Ciencias Físico Matemáticas, UMNSH
-copyright: "Designed by [Rodrigo Cortez](https://roicort.github.io) Boilerplate by ThemeFisher <br> Made with ❤️ with Jekyll  <br> Copyright &copy; 2021 "
+copyright: "Designed by Rodrigo Cortez - Boilerplate by ThemeFisher <br> Made with ❤️ with Jekyll  <br> Copyright &copy; 2021 "
 
 menu:
 - {name: OMM, link: '/omm'}
