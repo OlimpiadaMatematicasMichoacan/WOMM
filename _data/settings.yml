@@ -1,0 +1,303 @@
+#-------------------------------
+# General Site Settings
+
+title: OMM
+logo: 
+author: Rodrigo Cortez
+description: this is meta description
+
+email: olimpiada.omm@gmail.com
+phone: +52 4433223500 ext. 1230
+address: Facultad de Ciencias Físico Matemáticas, UMNSH
+copyright: "Designed by [Rodrigo Cortez](https://roicort.github.io) Boilerplate by ThemeFisher <br> Made with ❤️ with Jekyll  <br> Copyright &copy; 2021 "
+
+menu:
+- {name: OMM, link: '/omm'}
+- {name: OMMEB, link: '/ommeb'}
+- {name: Acerca, link: '/acerca'}
+- {name: Noticias, link: '/noticias'}
+- {name: Recursos, link: '/recursos'}
+
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+google-analytics: # UA-XXXXXX-X
+
+
+#-------------------------------
+# Comment Section (Disqus)
+
+disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Hero Section
+
+hero:
+  hero-title: Olimpiada <br> Michoacana <br> de Matemáticas
+
+social:
+- {icon: "ti-facebook", link: "#"}
+- {icon: "ti-instagram", link: "#"}
+- {icon: "ti-dribbble", link: "#"}
+- {icon: "ti-twitter", link: "#"}
+
+
+#-------------------------------
+# About (Section and Page)
+
+# About Section
+blurb:
+  El objetivo de la OMM es promover el estudio de las matemáticas en forma creativa, alejándose del estudio tradicional que promueve la memorización y mecanización, y buscando desarrollar el razonamiento y la imaginación de los jóvenes.
+
+blurb-btn-link: '/acerca'
+blurb-btn-name: Más
+
+# Work Process Section
+work-process:
+  - title : "Research and Plan"
+    icon : "assets/images/icons/plan.png"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    
+  - title : "Design and Develop"
+    icon : "assets/images/icons/design.png"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    
+  - title : "Deliver"
+    icon : "assets/images/icons/print.png"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+
+# My Team Section
+team:
+  - title : "Jack Schenziwe"
+    image : "assets/images/team/member-1.png"
+    designation : "Project Manager"
+    
+  - title : "Julias Carlie"
+    image : "assets/images/team/member-2.png"
+    designation : "Web Developer"
+    
+  - title : "John Doe"
+    image : "assets/images/team/member-3.png"
+    designation : "Designer"
+
+
+#-------------------------------
+# Stats Section
+
+stats-title: Stats
+stats:
+- {name: Web Design, color: '#fdb157', value: '90%'}
+- {name: Logo Design, color: '#9473e6', value: '60%'}
+- {name: After Effects, color: '#bdecf6', value: '80%'}
+- {name: Web App, color: '#ffbcaa', value: '70%'}
+
+
+#-------------------------------
+# Events Section
+
+events:
+- {name: Registro, icon: 'icon-1.png', date: 'Marzo 2021', organization: 'Online'}
+- {name: Eliminatorias, icon: 'icon-2.png', date: 'Abril 2021', organization: 'ENES Morelia'}
+- {name: Final, icon: 'icon-3.png', date: 'Mayo 2021', organization: 'UMICH'}
+
+
+#-------------------------------
+# Archivements Section
+
+archivement:
+- {name: Se inauguran las primeras OMM, date: '1986', organization: 'CIMAT'}
+- {name: Miguel Raggi se hace cargo, date: '2021', organization: 'UMSNH'}
+- {name: Hacemos una página bien chida, date: '2021', organization: 'Mi Casa'}
+- {name: Resolvemos el analfabetismo matemático, date: '2022', organization: 'Planeta Tierra'}
+
+
+#-------------------------------
+# Services Section
+
+services-title: Services
+services:
+- {
+    name: Estudiantes,
+    icon: ti-palette,
+    description: 'Impulsamos a los estudiantes para que logren todas sus metras',
+    active: # Add true to select section
+  }
+- {
+    name: Ciencia,
+    icon: ti-vector,
+    description: 'Impulsamos el pensamiento científico y el pensamiento crítico',
+    active: true # Add true to select section
+  }
+- {
+    name: Amor,
+    icon: ti-panel,
+    description: 'Las matematicas tambien nos conectan entre nosotros.',
+    active: # Add true to select section
+  }
+
+
+
+#-------------------------------
+# Portfolio (Section and Page)
+
+# Portfolio Home Section
+portfolio-home-items:
+  - image : "assets/images/portfolio/item-1.png"
+    url: "#"
+    
+  - image : "assets/images/portfolio/item-2.png"
+    url: "#"
+    
+  - image : "assets/images/portfolio/item-3.png"
+    url: "#"
+    
+  - image : "assets/images/portfolio/item-4.png"
+    url: "#"
+    
+  - image : "assets/images/portfolio/item-5.png"
+    url: "#"
+
+
+# Portfolio Page
+portfolio-label:
+- {
+    title : "Problemas",
+    type : "design"
+  }
+- {
+    title : "Examenes deamentis",
+    type : "branding"
+  }
+- {
+    title : "Juegos",
+    type : "illustration"
+  }
+
+portfolio-items:
+  - image : "assets/images/portfolio/item-1.png"
+    url: "#"
+    portfolio-type:
+     - type: "design"
+     - type: "illustration"
+      
+  - image : "assets/images/portfolio/item-2.png"
+    url: "#"
+    portfolio-type:
+      - type: "branding"
+      
+  - image : "assets/images/portfolio/item-3.png"
+    url: "#"
+    portfolio-type:
+      - type: "illustration"
+      
+  - image : "assets/images/portfolio/item-6.png"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+      - type: "branding"
+      
+  - image : "assets/images/portfolio/item-8.png"
+    url: "#"
+    portfolio-type:
+      - type: "illustration"
+      
+  - image : "assets/images/portfolio/item-5.png"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+      
+  - image : "assets/images/portfolio/item-1.png"
+    url: "#"
+    portfolio-type:
+      - type: "branding"
+      
+  - image : "assets/images/portfolio/item-3.png"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+      - type: "illustration"
+      - type: "branding"
+      
+  - image : "assets/images/portfolio/item-7.png"
+    url: "#"
+    portfolio-type:
+      - type: "illustration"
+
+
+#-------------------------------
+# Testimonials Section
+
+testimonial-items:
+  - name: "Sigrid Solbakk"
+    image: "assets/images/testimonial/client-1.png"
+    designation : "CEO, Funder"
+    content : "No les voy a mentir, la olimpiada cambió mi vida."
+    
+  - name: "Evgenia Medvedeva"
+    image: "assets/images/testimonial/client-1.png"
+    designation : "CEO, Funder"
+    content : "La verdad me confundí pensando que esta era una olimpiada de atletismo, pero la verdad las matemáticas estuvieron mejores."
+    
+  - name: "Sara Alarcón"
+    image: "assets/images/testimonial/client-1.png"
+    designation : "CEO, Funder"
+    content : "Estuvo chido, 10 de 10."
+    
+  - name: "Paulina Delgado"
+    image: "assets/images/testimonial/client-1.png"
+    designation: "CEO, Funder"
+    content: "No sé como terminé en este evento, pero lo volvería a hacer. Estuvo padre se los recomiendo."
+    
+  - name: "Verónica Luviano"
+    image: "assets/images/testimonial/client-1.png"
+    designation: "CEO, Funder"
+    content: "Nada mal la verdad, estuvo muy chido."
+
+
+#-------------------------------
+# Client Slider Section
+
+client-slider-items:
+  - logo: "assets/images/clients-logo/unam.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/enes.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/umich.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/unam.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/enes.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/umich.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/unam.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/enes.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/umich.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/unam.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/enes.png"
+    url: "#"
+    
+  - logo: "assets/images/clients-logo/umich.png"
+    url: "#"

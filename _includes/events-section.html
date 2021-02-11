@@ -1,0 +1,21 @@
+{% if site.data.settings.events %}
+<!-- experience -->
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-around">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-title">Próximos Eventos</h2>
+      </div>
+      {% for event in site.data.settings.events %}
+      <div class="col-lg-3 col-md-4 text-center">
+        <img src="{{ site.baseurl }}/assets/images/experience/{{ event.icon }}" alt="{{ site.data.settings.experience-title }} icon">
+        <p class="mb-0">{{ event.date }}</p>
+        <h4>{{ event.name }}</h4>
+        <h6 class="text-light">{{ event.organization }}</h6>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<!-- ./experience -->
+{% endif %}
