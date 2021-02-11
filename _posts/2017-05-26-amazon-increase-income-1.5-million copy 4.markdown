@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Cinetíficos descubren que ella no te ama.
+title:  Científicos descubren que ella no te ama.
 date:   2018-05-26 13:05:55 +0300
 image:  /assets/images/blog/post-3.jpg
 author: uixgeek
