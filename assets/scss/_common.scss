@@ -107,7 +107,7 @@ a:hover {
 }
 
 .bg-primary {
-  background: $primary-color !important;
+  background: linear-gradient(180deg, $primary-color, $secondary-color) !important;
 }
 
 .bg-gray{
