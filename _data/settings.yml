@@ -9,7 +9,7 @@ description:  Olimpiada Michoacana de Matemáticas
 email: olimpiada.omm@gmail.com
 phone: +52 4433223500 ext. 1230
 address: Facultad de Ciencias Físico Matemáticas, UMNSH. Morelia, Michoacán.
-copyright: "Designed by <a href='https://roicort.github.io'>Rodrigo Cortez</a> - Boilerplate by <a href='https://google.com'>ThemeFisher</a> <br> Made with ❤️ with <a href='https://google.com'>Jekyll</a>  <br> Copyright &copy; 2021"
+copyright: "Designed by <a href='https://roicort.github.io'>Rodrigo Cortez</a> - Boilerplate by <a href='https://google.com'>ThemeFisher</a> <br> Made with ❤️ in Morelia <br> Copyright &copy; 2021"
 
 menu:
 - {name: OMM, link: '/omm'}
