@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Esta no es una noticia, estoy encerrado en la imprenta y esta es la única manera de comunicarme. Ayuda!!
+title:  Esta no es una noticia, estoy atrapado en la imprenta y esta es la única manera de comunicarme. Ayuda!!
 date:   2017-05-26 12:05:55 +0300
 image:  /assets/images/blog/post-4.jpg
 author: uixgeek
