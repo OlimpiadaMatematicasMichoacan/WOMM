@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Chisme genérico
+title:  Chisme genérico que a nadie le importa
 date:   2019-05-26 14:05:55 +0300
 image:  /assets/images/blog/post-2.jpg
 author: uixgeek
