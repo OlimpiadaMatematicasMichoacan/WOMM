@@ -4,12 +4,12 @@
 title: OMM
 logo: "assets/images/favicon.png"
 author: Rodrigo Cortez
-description: this is meta description
+description:  Olimpiada Michoacana de Matemáticas
 
 email: olimpiada.omm@gmail.com
 phone: +52 4433223500 ext. 1230
-address: Facultad de Ciencias Físico Matemáticas, UMNSH
-copyright: "Designed by Rodrigo Cortez - Boilerplate by ThemeFisher <br> Made with ❤️ with Jekyll  <br> Copyright &copy; 2021 "
+address: Facultad de Ciencias Físico Matemáticas, UMNSH. Morelia, Michoacán.
+copyright: "Designed by <a href="roicort.github.io">Rodrigo Cortez</a> - Boilerplate by <a href="google.com">ThemeFisher</a> <br> Made with ❤️ with <a href="google.com">Jekyll</a>  <br> Copyright &copy; 2021 "
 
 menu:
 - {name: OMM, link: '/omm'}
@@ -173,7 +173,7 @@ portfolio-label:
     type : "design"
   }
 - {
-    title : "Examenes deamentis",
+    title : "Examenes Deamentis",
     type : "branding"
   }
 - {
@@ -249,17 +249,17 @@ testimonial-items:
   - name: "Sara Alarcón"
     image: "assets/images/testimonial/client-1.png"
     designation : "CEO, Funder"
-    content : "Estuvo chido, 10 de 10."
+    content : "Estuvo súper chevere, 15 de 10."
     
   - name: "Paulina Delgado"
     image: "assets/images/testimonial/client-1.png"
     designation: "CEO, Funder"
-    content: "No sé como terminé en este evento, pero lo volvería a hacer. Estuvo padre se los recomiendo."
+    content: "No sé como terminé en este evento, pero volvería a participar! Me gustó mucho!"
     
   - name: "Verónica Luviano"
     image: "assets/images/testimonial/client-1.png"
     designation: "CEO, Funder"
-    content: "Nada mal la verdad, estuvo muy chido."
+    content: "Nada mal la verdad, que página tan padre la del evento btw."
 
 
 #-------------------------------
