@@ -24,10 +24,9 @@ blockquote > p {
 
   strong {
     font-family: $secondary-font;
-    font-size: 22px;
+    font-size: inherit;
     font-weight: normal;
     color: $text-color-dark;
-    display: inherit;
     line-height: 1.5;
   }
 }
