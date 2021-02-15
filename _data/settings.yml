@@ -15,7 +15,6 @@ menu:
 - {name: OMM, link: '/omm'}
 - {name: OMMEB, link: '/ommeb'}
 - {name: Acerca, link: '/acerca'}
-- {name: Convocatoria, link: '/convocatoria'}
 - {name: Noticias, link: '/noticias'}
 - {name: Recursos, link: '/recursos'}
 
