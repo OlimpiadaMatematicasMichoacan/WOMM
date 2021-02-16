@@ -285,49 +285,49 @@ testimonial-items:
 
 client-slider-items:
   - logo: "assets/images/clients-logo/enes.png"
-    url: "www.enesmorelia.unam.mx"
+    url: "https://www.enesmorelia.unam.mx"
     
   - logo: "assets/images/clients-logo/umich.png"
-    url: "www.umich.mx"
+    url: "https://www.umich.mx"
     
   - logo: "assets/images/clients-logo/ccm.jpg"
-    url: "www.matmor.unam.mx"
+    url: "https://www.matmor.unam.mx"
     
   - logo: "assets/images/clients-logo/smm.png"
-    url: "www.smm.org.mx"
+    url: "https://www.smm.org.mx"
     
   - logo: "assets/images/clients-logo/enes.png"
-    url: "www.enesmorelia.unam.mx"
+    url: "https://www.enesmorelia.unam.mx"
     
   - logo: "assets/images/clients-logo/umich.png"
-    url: "www.umich.mx"
+    url: "https://www.umich.mx"
     
   - logo: "assets/images/clients-logo/unam.png"
-    url: "www.unam.mx"
+    url: "https://www.unam.mx"
     
   - logo: "assets/images/clients-logo/smm.png"
-    url: "www.smm.org.mx"
+    url: "https://www.smm.org.mx"
     
   - logo: "assets/images/clients-logo/ccm.jpg"
-    url: "www.matmor.unam.mx"
+    url: "https://www.matmor.unam.mx"
     
   - logo: "assets/images/clients-logo/enes.png"
-    url: "www.enesmorelia.unam.mx"
+    url: "https://www.enesmorelia.unam.mx"
     
   - logo: "assets/images/clients-logo/umich.png"
-    url: "www.umich.mx"
+    url: "https://www.umich.mx"
     
   - logo: "assets/images/clients-logo/smm.png"
-    url: "www.smm.org.mx"
+    url: "https://www.smm.org.mx"
     
   - logo: "assets/images/clients-logo/unam.png"
-    url: "www.unam.mx"
+    url: "https://www.unam.mx"
     
   - logo: "assets/images/clients-logo/ccm.jpg"
-    url: "www.matmor.unam.mx"
+    url: "https://www.matmor.unam.mx"
     
   - logo: "assets/images/clients-logo/enes.png"
-    url: "www.enesmorelia.unam.mx"
+    url: "https://www.enesmorelia.unam.mx"
     
   - logo: "assets/images/clients-logo/smm.png"
-    url: "www.smm.org.mx"
+    url: "https://www.smm.org.mx"
