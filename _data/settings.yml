@@ -265,22 +265,22 @@ services:
 
 testimonial-items:
   - name: "Manuel Alejandro Espinoza"
-    image: "assets/images/team/prima.jpg"
+    image: "assets/images/testimonial/client1.png"
     designation : "Ex-olímpico y entrenador de la delegación"
     content : "La olimpiada cambió mi vida."
     
   - name: "Héctor de la Rosa"
-    image: "assets/images/team/hector.jpg"
+    image: "assets/images/testimonial/client2.png"
     designation : "Ex-olímpico, cofundador de la OMMEB en Michoacán"
     content : "La verdad me confundí pensando que esta era una olimpiada de atletismo, pero las matemáticas estuvieron mejores."
     
   - name: "Alondra Juárez"
-    image: "assets/images/team/alondra.jpg"
+    image: "assets/images/testimonial/client3.png"
     designation : "Ex-olímpica, cofundadora de la OMMEB en Michoacán"
     content : "Estuvo súper, 5 estrellas."
 
   - name: "Margarita Pérez"
-    image: "assets/images/team/alondra.png"
+    image: "assets/images/testimonial/client4.png"
     designation : "Ex-olímpica"
     content : "Muy buenos entrenamientos, no sabía que las matemáticas eran tan divertidas."
 
