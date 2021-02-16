@@ -67,7 +67,13 @@ Claro que sí. Te recomendamos usar el tiempo intermedio para [prepararte](/prep
 ##### Muy bien, me convencieron. ¿Cómo me preparo para el examen eliminatorio?
 ¡Muy buena actitud! La recomendación es practicar resolviendo ejercicios. Al registrarte, puedes [hacer un examen de práctica](/registro). También, aquí hay [recursos para prepararte](/preparate)
 
+##### Tengo otra duda.
+Escríbenos a [olimpiada.omm@gmail.com](mailto:olimpiada.omm@gmail.com).
 
-Somos una organización sin fines de lucro, todos somos voluntarios interesados en aportar nuestro granito de arena a la educación.
 
-Las decisiones del jurado son inapelables.
+
+<span style="color:green">Somos una organización sin fines de lucro. Somos voluntarios interesados en aportar nuestro granito de arena a la educación matemática en Michoacán.</span>
+
+<span style="color:magenta">Las decisiones del jurado son inapelables.</span>
+
+
