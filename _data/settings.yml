@@ -7,17 +7,18 @@ author: Rodrigo Cortez
 description:  Olimpiada Michoacana de Matemáticas
 
 email: olimpiada.omm@gmail.com
-phone: +52 4433223500 ext. 1230
-address: Facultad de Ciencias Físico Matemáticas, UMNSH. Morelia, Michoacán.
+#phone: +52 4433223500 ext. 1230
+address: Escuela Nacional de Estudios Superiores, Oficina 48, Edificio de Investigación.
 copyright: "Designed by <a href='https://roicort.github.io'>Rodrigo Cortez</a> - Boilerplate by <a href='https://google.com'>ThemeFisher</a> <br> Made with ❤️ in Morelia <br> Copyright &copy; 2021"
 
 menu:
-- {name: OMM, link: '/omm'}
-- {name: OMMEB, link: '/ommeb'}
-- {name: Acerca, link: '/acerca'}
 - {name: Convocatoria, link: '/convocatoria'}
+#- {name: OMM, link: '/omm'}
+#- {name: OMMEB, link: '/ommeb'}
+- {name: Acerca, link: '/acerca'}
 - {name: Noticias, link: '/noticias'}
-- {name: Recursos, link: '/recursos'}
+- {name: Prepárate, link: 'https://www.ommenlinea.org/'}
+- {name: Registro, link: '/registro'}
 
 
 #-------------------------------
@@ -28,7 +29,7 @@ menu:
 
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
-google-analytics: # UA-XXXXXX-X
+google-analytics: G-RQ5FK6LMMN
 
 
 #-------------------------------
@@ -44,10 +45,10 @@ hero:
   hero-title: Olimpiada <br> Michoacana <br> de Matemáticas
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
+#- {icon: "ti-facebook", link: "#"}
+#- {icon: "ti-instagram", link: "#"}
+#- {icon: "ti-dribbble", link: "#"}
+#- {icon: "ti-twitter", link: "#"}
 
 
 #-------------------------------
@@ -55,39 +56,64 @@ social:
 
 # About Section
 blurb:
-  El objetivo de la OMM es promover el estudio de las matemáticas en forma creativa, alejándose del estudio tradicional que promueve la memorización y mecanización, y buscando desarrollar el razonamiento y la imaginación de los jóvenes.
+  El objetivo de la Olimpiada de Matemáticas es promover el estudio de las matemáticas en forma creativa, lógica y divertida, buscando desarrollar el razonamiento y la imaginación de los jóvenes.
 
 blurb-btn-link: '/acerca'
 blurb-btn-name: Más
 
 # Work Process Section
 work-process:
-  - title : "Research and Plan"
-    icon : "assets/images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  - title : "OMM"
+    icon : "assets/images/icons/favicon.png"
+    content : "Olimpiada Michoacana de Matemáticas: Desde pequeños hasta 2do de preparatoria o equivalente."
     
-  - title : "Design and Develop"
-    icon : "assets/images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  - title : "OMMEB"
+    icon : "assets/images/icons/logo-2.png"
+    content : "Olimpiada Michoacana de Matemáticas para Educación Básica: Desde 4to de primaria hasta 2do de secundaria."
     
-  - title : "Deliver"
-    icon : "assets/images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
 
 # My Team Section
 team:
-  - title : "Jack Schenziwe"
-    image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
+  - title : "Miguel Raggi"
+    image : "assets/images/team/miguel.jpg"
+    designation : "Delegado, Profesor ENES, ex-olímpico"
     
-  - title : "Julias Carlie"
-    image : "assets/images/team/member-2.png"
-    designation : "Web Developer"
+  - title : "María del Río"
+    image : "assets/images/team/maria.jpg"
+    designation : "Codelegada, Coordinadora Físico-Matemáticas ENES"
     
-  - title : "John Doe"
-    image : "assets/images/team/member-3.png"
-    designation : "Designer"
+  - title : "Manuel Alejandro Espinoza"
+    image : "assets/images/team/prima.jpg"
+    designation : "Estudiante Doctoral CCM, ex-olímpico"
+    
+  - title : "María Luisa Pérez"
+    image : "assets/images/team/malu.jpg"
+    designation : "Profesora UMSNH"
+    
+  - title : "Luis Miguel García"
+    image : "assets/images/team/luismiguel.jpg"
+    designation : "Profesor ENES, ex-olímpico"
+    
+  - title : "Rodrigo Cortez"
+    image : "assets/images/team/rodrigo.jpg"
+    designation : "Estudiante LTICs ENES, web designer"
+    
+  - title : "Alondra Juárez"
+    image : "assets/images/team/alondra.jpg"
+    designation : "Estudiante Arte y Diseño ENES, ex-olímpica"
+    
+  - title : "Ismael Olvera"
+    image : "assets/images/team/ismael.jpg"
+    designation : "Estudiante LTICs ENES"
+
+    
+  - title : "Eric Pauli"
+    image : "assets/images/team/eric.jpg"
+    designation : "Posdoc en Centro de Ciencias Matemáticas"
+    
+  - title : "Jazmín López"
+    image : "assets/images/team/jazmin.jpg"
+    designation : "Estudiante LTICs ENES"
 
 
 #-------------------------------
@@ -105,19 +131,20 @@ stats:
 # Events Section
 
 events:
-- {name: Registro, icon: 'icon-1.png', date: 'Marzo 2021', organization: 'Online'}
-- {name: Eliminatorias, icon: 'icon-2.png', date: 'Abril 2021', organization: 'ENES Morelia'}
-- {name: Final, icon: 'icon-3.png', date: 'Mayo 2021', organization: 'UMICH'}
+- {name: Eliminatoria Primera Vuelta, icon: 'logo-1.png', date: '20-21 Marzo 2021', organization: 'Online'}
+- {name: Eliminatoria Segunda Vuelta, icon: 'logo-2.png', date: '3-4 Abril 2021', organization: 'Online'}
+#- {name: Semifinal OMM, icon: 'icon-2.png', date: 'Abril 2021', organization: 'ENES Morelia'}
+#- {name: Final OMM, icon: 'icon-3.png', date: 'Mayo 2021', organization: 'UMICH'}
 
 
 #-------------------------------
 # Archivements Section
 
-archivement:
-- {name: Se inauguran las primeras OMM, date: '1986', organization: 'CIMAT'}
-- {name: Miguel Raggi se hace cargo, date: '2021', organization: 'UMSNH'}
-- {name: Hacemos una página bien chida, date: '2021', organization: 'Mi Casa'}
-- {name: Resolvemos el analfabetismo matemático, date: '2022', organization: 'Planeta Tierra'}
+#archivement:
+#- {name: Se inauguran las primeras OMM, date: '1986', organization: 'CIMAT'}
+#- {name: Miguel Raggi se hace cargo, date: '2021', organization: 'UMSNH'}
+#- {name: Hacemos una página bien chida, date: '2021', organization: 'Mi Casa'}
+#- {name: Resolvemos el analfabetismo matemático, date: '2022', organization: 'Planeta Tierra'}
 
 
 #-------------------------------
@@ -132,15 +159,15 @@ services:
     active: # Add true to select section
   }
 - {
-    name: Ciencia,
+    name: Matemáticas,
     icon: ti-vector,
-    description: 'Impulsamos el pensamiento científico y el pensamiento crítico',
+    description: 'Fortalecemos el pensamiento científico y el pensamiento crítico',
     active: true # Add true to select section
   }
 - {
-    name: Amor,
+    name: Comunidad olímpica,
     icon: ti-panel,
-    description: 'Las matematicas tambien nos conectan entre nosotros.',
+    description: 'Las matematicas tambien nos conectan.',
     active: # Add true to select section
   }
 
@@ -237,68 +264,70 @@ portfolio-items:
 # Testimonials Section
 
 testimonial-items:
-  - name: "Sigrid Solbakk"
-    image: "assets/images/testimonial/client-1.png"
-    designation : "CEO, Funder"
-    content : "No les voy a mentir, la olimpiada cambió mi vida."
+  - name: "Manuel Alejandro Espinoza"
+    image: "assets/images/testimonial/prima.jpg"
+    designation : "Ex-olímpico y entrenador de la delegación"
+    content : "La olimpiada cambió mi vida."
     
-  - name: "Evgenia Medvedeva"
-    image: "assets/images/testimonial/client-1.png"
-    designation : "CEO, Funder"
+  - name: "Héctor de la Rosa"
+    image: "assets/images/testimonial/hector.jpg"
+    designation : "Ex-olímpico, cofundador de la OMMEB en Michoacán"
     content : "La verdad me confundí pensando que esta era una olimpiada de atletismo, pero las matemáticas estuvieron mejores."
     
-  - name: "Sara Alarcón"
-    image: "assets/images/testimonial/client-1.png"
-    designation : "CEO, Funder"
+  - name: "Alondra Juárez"
+    image: "assets/images/testimonial/alondra.png"
+    designation : "Ex-olímpica, cofundadora de la OMMEB en Michoacán"
     content : "Estuvo súper chevere, 15 de 10."
-    
-  - name: "Paulina Delgado"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "No sé como terminé en este evento, pero volvería a participar! Me gustó mucho!"
-    
-  - name: "Verónica Luviano"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Nada mal la verdad, que página tan padre la del evento btw."
 
 
 #-------------------------------
 # Client Slider Section
 
 client-slider-items:
-  - logo: "assets/images/clients-logo/unam.png"
-    url: "#"
-    
   - logo: "assets/images/clients-logo/enes.png"
-    url: "#"
+    url: "www.enesmorelia.unam.mx"
     
   - logo: "assets/images/clients-logo/umich.png"
-    url: "#"
+    url: "www.umich.mx"
     
-  - logo: "assets/images/clients-logo/unam.png"
-    url: "#"
+  - logo: "assets/images/clients-logo/ccm.jpg"
+    url: "www.matmor.unam.mx"
     
-  - logo: "assets/images/clients-logo/enes.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/umich.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/unam.png"
-    url: "#"
+  - logo: "assets/images/clients-logo/smm.png"
+    url: "www.smm.org.mx"
     
   - logo: "assets/images/clients-logo/enes.png"
-    url: "#"
+    url: "www.enesmorelia.unam.mx"
     
   - logo: "assets/images/clients-logo/umich.png"
-    url: "#"
+    url: "www.umich.mx"
     
   - logo: "assets/images/clients-logo/unam.png"
-    url: "#"
+    url: "www.unam.mx"
+    
+  - logo: "assets/images/clients-logo/smm.png"
+    url: "www.smm.org.mx"
+    
+  - logo: "assets/images/clients-logo/ccm.jpg"
+    url: "www.matmor.unam.mx"
     
   - logo: "assets/images/clients-logo/enes.png"
-    url: "#"
+    url: "www.enesmorelia.unam.mx"
     
   - logo: "assets/images/clients-logo/umich.png"
-    url: "#"
+    url: "www.umich.mx"
+    
+  - logo: "assets/images/clients-logo/smm.png"
+    url: "www.smm.org.mx"
+    
+  - logo: "assets/images/clients-logo/unam.png"
+    url: "www.unam.mx"
+    
+  - logo: "assets/images/clients-logo/ccm.jpg"
+    url: "www.matmor.unam.mx"
+    
+  - logo: "assets/images/clients-logo/enes.png"
+    url: "www.enesmorelia.unam.mx"
+    
+  - logo: "assets/images/clients-logo/smm.png"
+    url: "www.smm.org.mx"
