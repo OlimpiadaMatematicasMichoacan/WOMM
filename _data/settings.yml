@@ -150,26 +150,26 @@ events:
 #-------------------------------
 # Services Section
 
-services-title: Services
-services:
-- {
-    name: Estudiantes,
-    icon: ti-palette,
-    description: 'Impulsamos a los estudiantes para que logren todas sus metras',
-    active: # Add true to select section
-  }
-- {
-    name: Matemáticas,
-    icon: ti-vector,
-    description: 'Fortalecemos el pensamiento científico y el pensamiento crítico',
-    active: true # Add true to select section
-  }
-- {
-    name: Comunidad olímpica,
-    icon: ti-panel,
-    description: 'Las matematicas tambien nos conectan.',
-    active: # Add true to select section
-  }
+#services-title: Services
+#services:
+#- {
+    #name: Entrenamientos,
+    #icon: ti-palette,
+    #description: 'Impulsamos a los estudiantes para que logren todas sus metas',
+    #active: # Add true to select section
+  #}
+#- {
+    #name: Matemáticas,
+    #icon: ti-vector,
+    #description: 'Fortalecemos el pensamiento científico y el pensamiento crítico',
+    #active: true # Add true to select section
+  #}
+#- {
+    #name: Comunidad olímpica,
+    #icon: ti-panel,
+    #description: 'Las matematicas tambien nos conectan.',
+    #active: # Add true to select section
+  #}
 
 
 
