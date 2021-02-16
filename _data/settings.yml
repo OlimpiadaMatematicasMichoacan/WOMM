@@ -177,87 +177,87 @@ services:
 # Portfolio (Section and Page)
 
 # Portfolio Home Section
-portfolio-home-items:
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
+#portfolio-home-items:
+  #- image : "assets/images/portfolio/item-1.png"
+    #url: "#"
     
-  - image : "assets/images/portfolio/item-2.png"
-    url: "#"
+  #- image : "assets/images/portfolio/item-2.png"
+    #url: "#"
     
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
+  #- image : "assets/images/portfolio/item-3.png"
+    #url: "#"
     
-  - image : "assets/images/portfolio/item-4.png"
-    url: "#"
+  #- image : "assets/images/portfolio/item-4.png"
+    #url: "#"
     
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
+  #- image : "assets/images/portfolio/item-5.png"
+    #url: "#"
 
 
 # Portfolio Page
-portfolio-label:
-- {
-    title : "Problemas",
-    type : "design"
-  }
-- {
-    title : "Examenes Deamentis",
-    type : "branding"
-  }
-- {
-    title : "Juegos",
-    type : "illustration"
-  }
+#portfolio-label:
+#- {
+    #title : "Problemas",
+    #type : "design"
+  #}
+#- {
+    #title : "Examenes Deamentis",
+    #type : "branding"
+  #}
+#- {
+    #title : "Juegos",
+    #type : "illustration"
+  #}
 
-portfolio-items:
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-     - type: "design"
-     - type: "illustration"
+#portfolio-items:
+  #- image : "assets/images/portfolio/item-1.png"
+    #url: "#"
+    #portfolio-type:
+     #- type: "design"
+     #- type: "illustration"
       
-  - image : "assets/images/portfolio/item-2.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
+  #- image : "assets/images/portfolio/item-2.png"
+    #url: "#"
+    #portfolio-type:
+      #- type: "branding"
       
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+  #- image : "assets/images/portfolio/item-3.png"
+    #url: "#"
+    #portfolio-type:
+      #- type: "illustration"
       
-  - image : "assets/images/portfolio/item-6.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "branding"
+  #- image : "assets/images/portfolio/item-6.png"
+    #url: "#"
+    #portfolio-type:
+      #- type: "design"
+      #- type: "branding"
       
-  - image : "assets/images/portfolio/item-8.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+  #- image : "assets/images/portfolio/item-8.png"
+    #url: "#"
+    #portfolio-type:
+      #- type: "illustration"
       
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
+  #- image : "assets/images/portfolio/item-5.png"
+    #url: "#"
+    #portfolio-type:
+      #- type: "design"
       
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
+  #- image : "assets/images/portfolio/item-1.png"
+    #url: "#"
+    #portfolio-type:
+      #- type: "branding"
       
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
+  #- image : "assets/images/portfolio/item-3.png"
+    #url: "#"
+    #portfolio-type:
+      #- type: "design"
+      #- type: "illustration"
+      #- type: "branding"
       
-  - image : "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+  #- image : "assets/images/portfolio/item-7.png"
+    #url: "#"
+    #portfolio-type:
+      #- type: "illustration"
 
 
 #-------------------------------
@@ -265,19 +265,24 @@ portfolio-items:
 
 testimonial-items:
   - name: "Manuel Alejandro Espinoza"
-    image: "assets/images/testimonial/prima.jpg"
+    image: "assets/images/team/prima.jpg"
     designation : "Ex-olímpico y entrenador de la delegación"
     content : "La olimpiada cambió mi vida."
     
   - name: "Héctor de la Rosa"
-    image: "assets/images/testimonial/hector.jpg"
+    image: "assets/images/team/hector.jpg"
     designation : "Ex-olímpico, cofundador de la OMMEB en Michoacán"
     content : "La verdad me confundí pensando que esta era una olimpiada de atletismo, pero las matemáticas estuvieron mejores."
     
   - name: "Alondra Juárez"
-    image: "assets/images/testimonial/alondra.png"
+    image: "assets/images/team/alondra.jpg"
     designation : "Ex-olímpica, cofundadora de la OMMEB en Michoacán"
-    content : "Estuvo súper chevere, 15 de 10."
+    content : "Estuvo súper, 5 estrellas."
+
+  - name: "Margarita Pérez"
+    image: "assets/images/team/alondra.png"
+    designation : "Ex-olímpica"
+    content : "Muy buenos entrenamientos, no sabía que las matemáticas eran tan divertidas."
 
 
 #-------------------------------
