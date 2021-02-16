@@ -22,7 +22,7 @@ Tendrás dos oportunidades de presentar la primera fase del concurso y así avan
 - <span style="color:green">Segunda vuelta</span> del examen eliminatorio: 3 y 4 de abril
 
 
-[Regístrate aquí](liga al moodle).
+[Regístrate aquí](/registro).
 
 La Olimpiada de Matemáticas tiene como objetivo promover el aprendizaje de las matemáticas de una manera creativa, lógica y divertida.
 
@@ -56,7 +56,7 @@ De material, puedes utilizar lápices, plumas, colores, hojas, regla y compás s
 El examen es individual y no se permite ayuda externa de ningún tipo. Idealmente durante el examen no deberás tener comunicación con otras personas.
 
 ##### Si NO avancé/no me registré en la primera vuelta, ¿puedo participar en la segunda vuelta?
-Claro que sí. Te recomendamos usar el tiempo intermedio para [prepararte](liga a preparate).
+Claro que sí. Te recomendamos usar el tiempo intermedio para [prepararte](/preparate).
 
 ##### ¿Y qué tal si avancé en la primera vuelta?
 ¡Felicidades! No es necesario participar en la segunda vuelta si avanzaste en la primera. Si lo quieres presentar como práctica, adelante. Tu calificación o avance no se verán afectados.
@@ -65,7 +65,7 @@ Claro que sí. Te recomendamos usar el tiempo intermedio para [prepararte](liga 
 ¡Por supuesto! Si avanzas en el eliminatorio de la OMMEB, te invitaremos a presentar el examen de la OMM.
 
 ##### Muy bien, me convencieron. ¿Cómo me preparo para el examen eliminatorio?
-¡Muy buena actitud! La recomendación es practicar resolviendo ejercicios. Al registrarte, puedes [hacer un examen de práctica](liga a moodle). También, aquí hay [recursos para prepararte](liga a prepárate)
+¡Muy buena actitud! La recomendación es practicar resolviendo ejercicios. Al registrarte, puedes [hacer un examen de práctica](/registro). También, aquí hay [recursos para prepararte](/preparate)
 
 
 Somos una organización sin fines de lucro, todos somos voluntarios interesados en aportar nuestro granito de arena a la educación.

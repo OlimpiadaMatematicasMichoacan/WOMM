@@ -17,7 +17,7 @@ menu:
 #- {name: OMMEB, link: '/ommeb'}
 - {name: Acerca, link: '/acerca'}
 - {name: Noticias, link: '/noticias'}
-- {name: Prepárate, link: 'https://www.ommenlinea.org/'}
+- {name: Prepárate, link: '/preparate'}
 - {name: Registro, link: '/registro'}
 
 
