@@ -150,26 +150,29 @@ events:
 #-------------------------------
 # Services Section
 
-#services-title: Services
-#services:
-#- {
-    #name: Entrenamientos,
-    #icon: ti-palette,
-    #description: 'Impulsamos a los estudiantes para que logren todas sus metas',
-    #active: # Add true to select section
-  #}
-#- {
-    #name: Matemáticas,
+services-title: Problemas de Ejemplo
+services:
+
+- {
+    name: '<img src="assets/images/problemas/tablaSumas.png" width=95%>',
     #icon: ti-vector,
-    #description: 'Fortalecemos el pensamiento científico y el pensamiento crítico',
-    #active: true # Add true to select section
-  #}
-#- {
-    #name: Comunidad olímpica,
+    description: 'A mi tabla de sumas le cayó tinta encima. ¿Qué número debe ir en lugar de la estrella?',
+    active:  true # Add true to select section
+  }
+  
+- {
+    name: '<img src="assets/images/problemas/cubosPagina.png" width=95%>',
+    #icon: 'assets/images/problemas/cubosPagina.png',
+    description: '¿Cuántos cubitos más deben agregarse para formar un cubo más grande?',
+    active:  # Add true to select section
+  }
+  
+- {
+    name: '<img src="assets/images/problemas/pentagono.png" width=95%>',
     #icon: ti-panel,
-    #description: 'Las matematicas tambien nos conectan.',
-    #active: # Add true to select section
-  #}
+    description: '¿Qué porcentaje del pentágono está sombreado?',
+    active: true # Add true to select section
+  }
 
 
 
@@ -194,7 +197,7 @@ events:
     #url: "#"
 
 
-# Portfolio Page
+## Portfolio Page
 #portfolio-label:
 #- {
     #title : "Problemas",
