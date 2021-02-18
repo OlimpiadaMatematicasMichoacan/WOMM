@@ -4,7 +4,7 @@ title: Convocatoria
 ---
 La Escuela Nacional de Estudios Superiores, unidad Morelia, convoca a la
 #### Olimpiada Mexicana de Matemáticas en Michoacán (OMM)
-y la 
+y a la 
 #### Olimpiada Mexicana de Matemáticas de Educación Básica en Michoacán (OMMEB)
 
 Podrán participar estudiantes inscritos en cualquier institución de educación **pública** o **privada** del estado de Michoacán.
@@ -26,7 +26,7 @@ Tendrás dos oportunidades de presentar la primera fase del concurso y así avan
 
 La Olimpiada de Matemáticas tiene como objetivo promover el aprendizaje de las matemáticas de una manera creativa, lógica y divertida.
 
-Existe la falsa creencia de que las matemáticas sólo le sirven a aquellos interesados en estudiar disciplinas que tradicionalmente se asocian con la ciencia e ingeniería, pero esto no podría estar más alejado de la realidad. Todas las áreas del conocimiento, e incluso tu vida cotidiana, prosperarán con un poco más de razonamiento lógico, creatividad y pensamiento crítico. La Olimpiada de Matemáticas aspira a fortalecer estas habilidades en la sociedad.
+Existe la falsa creencia de que las matemáticas sólo le sirven a aquellos interesados en estudiar disciplinas que tradicionalmente se asocian con la ciencia e ingeniería, pero esto está muy alejado de la realidad. Todas las áreas del conocimiento, e incluso tu vida cotidiana, prosperarán con un poco más de razonamiento lógico, creatividad y pensamiento crítico. La Olimpiada de Matemáticas aspira a fortalecer estas habilidades en la sociedad.
 
 ### <span style="color:green">Preguntas frecuentes</span>
 
@@ -39,9 +39,9 @@ Puedes presentar el examen eliminatorio sin presentar documentación. Si avanzas
 ##### ¿Cuándo me avisarán y qué ocurrirá en caso de lograr avanzar a la siguiente etapa? 
 Unos días después de que concluya el examen los resultados aparecerán en la misma página y te enviaremos un correo electrónico.
 
-Posteriormente, recibirás en tu correo una liga de invitación al entrenamiento para prepararte. Por la situación actual, todos los entrenamientos se realizarán de manera virtual.
+Posteriormente recibirás en tu correo una liga de invitación al entrenamiento para prepararte. Por la situación actual, todos los entrenamientos se realizarán de manera virtual.
 
-Además, una vez que recibamos los documentos mencionados anteriormente de tu parte, te enviaremos un diploma.
+Además te enviaremos un diploma, una vez que recibamos tus documentos.
 
 ##### ¿Es gratis participar?
 Sí.
