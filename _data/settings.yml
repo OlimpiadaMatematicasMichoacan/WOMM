@@ -301,11 +301,8 @@ client-slider-items:
   - logo: "assets/images/clients-logo/umich.png"
     url: "https://www.umich.mx"
     
-  - logo: "assets/images/clients-logo/ccm.jpg"
+  - logo: "assets/images/clients-logo/ccm.png"
     url: "https://www.matmor.unam.mx"
     
   - logo: "assets/images/clients-logo/smm.png"
     url: "https://www.smm.org.mx"
-    
-  - logo: "assets/images/clients-logo/enes.png"
-    url: "https://www.enesmorelia.unam.mx"
