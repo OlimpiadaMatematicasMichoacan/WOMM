@@ -306,3 +306,7 @@ client-slider-items:
     
   - logo: "assets/images/clients-logo/smm.png"
     url: "https://www.smm.org.mx"
+
+  - logo: "assets/images/clients-logo/unam.png"
+    url: "https://www.unam.mx"
+    
