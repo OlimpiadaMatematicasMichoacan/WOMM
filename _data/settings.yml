@@ -279,7 +279,7 @@ testimonial-items:
   - name: "Moisés Pelayo"
     image: "assets/images/testimonial/client5.png"
     designation : "Ex-olímpico"
-    content : "La olimpiada es la segunda mejor cosa que me ha pasado... <br>Y la primera han sido las personas que conocí ahí"
+    content : "La olimpiada es la segunda mejor cosa que me ha pasado... <br>la primera es las personas que ahí conocí."
 
   - name: "Manuel Alejandro Espinoza"
     image: "assets/images/testimonial/client1.png"
@@ -289,17 +289,17 @@ testimonial-items:
   - name: "Margarita Godínez"
     image: "assets/images/testimonial/client2.png"
     designation : "Ex-olímpica"
-    content : "La verdad me confundí pensando que esta era una olimpiada de atletismo, pero las matemáticas estuvieron mejores"
+    content : "La verdad me confundí pensando que esta era una olimpiada de atletismo, pero las matemáticas estuvieron mejores."
     
   - name: "Hugo Gómez"
     image: "assets/images/testimonial/client4.png"
     designation : "Ex-olímpico"
-    content : "Es una experiencia que cambia tu visión de las matemáticas como nunca las podrás ver en la escuela"
+    content : "Es una experiencia que cambia tu visión de las matemáticas como nunca las podrás ver en la escuela."
 
   - name: "Nicolás Valdovinos"
     image: "assets/images/testimonial/client6.png"
     designation : "Ex-olímpico"
-    content : "Un lugar lleno de nuevos retos y personas emocionantes"
+    content : "Un lugar lleno de nuevos retos y personas emocionantes."
     
 #-------------------------------
 # Client Slider Section
