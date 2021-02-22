@@ -21,8 +21,7 @@ Tendrás dos oportunidades de presentar la primera fase del concurso y así avan
 - <span style="color:green">Primera vuelta</span> del examen eliminatorio: 20 y 21 de marzo
 - <span style="color:green">Segunda vuelta</span> del examen eliminatorio: 3 y 4 de abril
 
-
-[Regístrate aquí](https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php).
+<a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php" class="btn btn-xs btn-primary">Regístrate aquí</a>
 
 La Olimpiada de Matemáticas tiene como objetivo promover el aprendizaje de las matemáticas de una manera creativa, lógica y divertida.
 
