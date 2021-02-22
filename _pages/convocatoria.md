@@ -2,7 +2,7 @@
 layout: pageformat
 title: Convocatoria
 ---
-La Escuela Nacional de Estudios Superiores, unidad Morelia, convoca a la
+La Escuela Nacional de Estudios Superiores (UNAM), unidad Morelia, convoca a la
 #### Olimpiada Mexicana de Matemáticas en Michoacán (OMM)
 y a la 
 #### Olimpiada Mexicana de Matemáticas de Educación Básica en Michoacán (OMMEB)
