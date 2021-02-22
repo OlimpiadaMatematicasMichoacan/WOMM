@@ -7,13 +7,13 @@ title: Prepárate
 
 Aquí encontrarás algunos materiales que puedes usar para prepararte para el examen.
 
-La recomendación es primero [registrarte](/registro) y posteriormente realizar los exámenes de práctica que vienen en el sistema, para familiarizarte con el material y con el sistema.
+Si es la primera vez que participas en las olimpiadas, te recomendamos  [registrarte](/registro) y resolver los exámenes de práctica que vienen en el sistema, para familiarizarte con este tipo de problemas.
 
-#### <span style="color:green">Los exámenes de práctica no cuentan para la selección.</span>
+Y no te preocupes, <span style="color:green">los exámenes de práctica no cuentan para la selección.</span>
 
-Posteriormente, te recomendamos encontrar material en otros sitios, como:
+Posteriormente, para prepararte mejor te recomendamos encontrar material en otros sitios, como:
 
 - [La página oficial de la Olimpiada Mexicana de Matemáticas](https://www.ommenlinea.org/)
-- [Antígua página de la Olimpiada en Michoacán](http://ichi.fismat.umich.mx/omm/recursos/)
+- [Antígua página de la Olimpiada Matemática en Michoacán](http://ichi.fismat.umich.mx/omm/recursos/)
 - [brilliant.org](https://brilliant.org)
 - [Khan Academy](https://www.khanacademy.org/)
