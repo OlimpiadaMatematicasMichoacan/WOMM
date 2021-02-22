@@ -3,6 +3,6 @@ layout: pageformat
 title: Registro
 ---
 
-El registro aún no está listo. ¡Estamos trabajando en ello!
+El registro **ya está listo:
 
-### Vuelve pronto!!
+### [Regístrate aquí](https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php)
