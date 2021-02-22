@@ -1,13 +1,63 @@
 <!-- hero area -->
 
+<style>
+
+#arrow a {
+  padding-top: 60px;
+}
+#arrow a span {
+  position: absolute;
+  top: 80px;
+  left: 50%;
+  width: 24px;
+  height: 24px;
+  border-left: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  -webkit-animation: sdb04 2s infinite;
+  animation: sdb04 2s infinite;
+  box-sizing: border-box;
+}
+@-webkit-keyframes sdb04 {
+  0% {
+    -webkit-transform: rotate(-45deg) translate(0, 0);
+  }
+  20% {
+    -webkit-transform: rotate(-45deg) translate(-10px, 10px);
+  }
+  40% {
+    -webkit-transform: rotate(-45deg) translate(0, 0);
+  }
+}
+@keyframes sdb04 {
+  0% {
+    transform: rotate(-45deg) translate(0, 0);
+  }
+  20% {
+    transform: rotate(-45deg) translate(-10px, 10px);
+  }
+  40% {
+    transform: rotate(-45deg) translate(0, 0);
+  }
+}
+
+</style>
+
 <section class="hero-area bg-primary" id="element">
-  <div class="container" id="element2">
+  <div class="container">
     <div class="row">
       <div class="col-lg-11 mx-auto mt-3">
         <h1 class="text-white font-tertiary">{{ site.data.settings.hero.hero-title }}</h1>
       </div>
     </div>
   </div>
+
+  <section id="arrow">
+    <a href="#about"><span></span></a>
+  </section>
+
+
   <!-- 
   <div class="layer-bg w-100">
     <img class="img-fluid w-100" src="{{ site.baseurl }}/assets/images/illustrations/leaf-bg.png" alt="bg-shape">
@@ -37,16 +87,26 @@
     <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-cyan-2.png" alt="bg-shape">
   </div>
   -->
-  <!-- social icon -->
+  <!-- social icon 
+  
   <ul class="list-unstyled ml-5 mt-3 py-5 position-relative zindex-1">
     {% for social in site.data.settings.social %}
     <li class="mb-4"><a class="text-white" href="{{ social.link }}"><i class="{{ social.icon }}"></i></a></li>
     {% endfor %}
   </ul>
-  <!-- /social icon -->
+  /social icon -->
 </section>
-<!-- /hero area -->
 
+<script>
+  $(function() {
+  $('a').on('click', function(e) {
+    e.preventDefault();
+    $('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top}, 500, 'linear');
+  });
+});
+</script>
+
+<!-- /hero area -->
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
