@@ -22,7 +22,7 @@ Tendrás dos oportunidades de presentar la primera fase del concurso y así avan
 - <span style="color:green">Segunda vuelta</span> del examen eliminatorio: 3 y 4 de abril
 
 
-[Regístrate aquí](/registro).
+[Regístrate aquí](https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php).
 
 La Olimpiada de Matemáticas tiene como objetivo promover el aprendizaje de las matemáticas de una manera creativa, lógica y divertida.
 
@@ -65,7 +65,7 @@ Claro que sí. Te recomendamos usar el tiempo intermedio para [prepararte](/prep
 ¡Por supuesto! Si avanzas en el eliminatorio de la OMMEB, te invitaremos a presentar el examen de la OMM.
 
 ##### Muy bien, me convencieron. ¿Cómo me preparo para el examen eliminatorio?
-¡Muy buena actitud! La recomendación es practicar resolviendo ejercicios. Al registrarte, puedes [hacer un examen de práctica](/registro). También, aquí hay [recursos para prepararte](/preparate)
+¡Muy buena actitud! La recomendación es practicar resolviendo ejercicios. Al registrarte, puedes [hacer un examen de práctica](https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php) (¡incluyen soluciones!). También, aquí hay algunos [recursos externos para prepararte](/preparate)
 
 ##### Tengo otra duda.
 Escríbenos a [olimpiada.omm@gmail.com](mailto:olimpiada.omm@gmail.com).
