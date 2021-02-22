@@ -7,7 +7,7 @@
 }
 #arrow a span {
   position: absolute;
-  top: 80px;
+  top: 6em;
   left: 50%;
   width: 24px;
   height: 24px;
@@ -99,7 +99,7 @@
 
 <script>
   $(function() {
-  $('a').on('click', function(e) {
+  $('a[href*=#]').on('click', function(e) {
     e.preventDefault();
     $('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top}, 500, 'linear');
   });
