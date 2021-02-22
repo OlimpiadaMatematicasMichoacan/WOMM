@@ -131,8 +131,8 @@ stats:
 # Events Section
 
 events:
-- {name: Examen Eliminatorio Primera Vuelta, icon: 'logo-1.png', date: '20-21 Marzo 2021', organization: 'Online'}
-- {name: Examen Eliminatorio Segunda Vuelta, icon: 'logo-2.png', date: '3-4 Abril 2021', organization: 'Online'}
+- {name: Examen Eliminatorio Primera Vuelta, icon: 'logo-1.png', date: '20-21 Marzo 2021', organization: '¡Totalmente virtual!<br><a href="registro">¡Regístrate ya!</a>'}
+- {name: Examen Eliminatorio Segunda Vuelta, icon: 'logo-2.png', date: '3-4 Abril 2021', organization: '¡Totalmente virtual!<br><a href="registro">¡Regístrate ya!</a>'}
 #- {name: Semifinal OMM, icon: 'icon-2.png', date: 'Abril 2021', organization: 'ENES Morelia'}
 #- {name: Final OMM, icon: 'icon-3.png', date: 'Mayo 2021', organization: 'UMICH'}
 
@@ -267,6 +267,16 @@ services:
 # Testimonials Section
 
 testimonial-items:
+  - name: "Alondra Juárez"
+    image: "assets/images/testimonial/client3.png"
+    designation : "Ex-olímpica, cofundadora de la OMMEB en Michoacán"
+    content : "Aprendía más en dos meses de olímpica que en un año de escuela."
+
+  - name: "Moisés Pelayo"
+    image: "assets/images/testimonial/client5.png"
+    designation : "Ex-olímpico"
+    content : "La olimpiada es la segunda mejor cosa que me ha pasado... <br>Y la primera han sido las personas que conocí ahí."
+
   - name: "Manuel Alejandro Espinoza"
     image: "assets/images/testimonial/client1.png"
     designation : "Ex-olímpico y entrenador de la delegación"
@@ -277,17 +287,11 @@ testimonial-items:
     designation : "Ex-olímpico, cofundador de la OMMEB en Michoacán"
     content : "La verdad me confundí pensando que esta era una olimpiada de atletismo, pero las matemáticas estuvieron mejores."
     
-  - name: "Alondra Juárez"
-    image: "assets/images/testimonial/client3.png"
-    designation : "Ex-olímpica, cofundadora de la OMMEB en Michoacán"
-    content : "Aprendía más en dos meses de olímpica que en un año de escuela."
-
   - name: "Margarita Pérez"
     image: "assets/images/testimonial/client4.png"
     designation : "Ex-olímpica"
     content : "Muy buenos entrenamientos, no sabía que las matemáticas eran tan divertidas."
-
-
+    
 #-------------------------------
 # Client Slider Section
 
@@ -300,12 +304,12 @@ client-slider-items:
     
   - logo: "assets/images/clients-logo/umich.png"
     url: "https://www.umich.mx"
+
+  - logo: "assets/images/clients-logo/enes.png"
+    url: "https://www.enesmorelia.unam.mx"
     
   - logo: "assets/images/clients-logo/ccm.png"
     url: "https://www.matmor.unam.mx"
     
-  - logo: "assets/images/clients-logo/smm.png"
-    url: "https://www.smm.org.mx"
-    
-  - logo: "assets/images/clients-logo/unam.png" #Important!
-    url: "https://www.unam.mx" #Se necesita esta cantidad de Logos para que funcione el carrousel.
+  - logo: "assets/images/clients-logo/smm.png" #Important!
+    url: "https://www.smm.org.mx" #Se necesita esta cantidad de Logos para que funcione el carrousel.
