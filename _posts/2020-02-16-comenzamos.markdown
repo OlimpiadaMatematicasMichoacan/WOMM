@@ -7,4 +7,4 @@ author: Miguel Raggi
 tags:   OMM, OMMEB
 ---
 
-Sale la convocatoria de la OMM y la OMMEB en Michoacán.
+Está disponible la [convocatoria](/convocatoria) de la OMM y la OMMEB en Michoacán. ¡Ayúdanos a difundirla!
