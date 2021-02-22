@@ -306,3 +306,6 @@ client-slider-items:
     
   - logo: "assets/images/clients-logo/smm.png"
     url: "https://www.smm.org.mx"
+    
+  - logo: "assets/images/clients-logo/unam.png" #Important!
+    url: "https://www.unam.mx" #Se necesita esta cantidad de Logos para que funcione el carrousel.
