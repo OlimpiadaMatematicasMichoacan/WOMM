@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Registro
+date:   2020-02-16 10:05:55 +0300
+image:  /assets/images/blog/registro.png
+author: Miguel Raggi
+tags:   OMM, OMMEB
+---
+
+Ya está listo el [registro](/register) para todos los niveles!! [Prepárate](/preparate) antes del examen!
