@@ -114,6 +114,10 @@ team:
   - title : "Jazmín López"
     image : "assets/images/team/jazmin.jpg"
     designation : "Estudiante LTICs ENES"
+    
+  - title : "Ahtziri "
+    image : "assets/images/team/ahtziri.jpg"
+    designation : "Miembro honorario del comité. Ex-delegado de Michoacán"
 
 
 #-------------------------------
@@ -275,22 +279,27 @@ testimonial-items:
   - name: "Moisés Pelayo"
     image: "assets/images/testimonial/client5.png"
     designation : "Ex-olímpico"
-    content : "La olimpiada es la segunda mejor cosa que me ha pasado... <br>Y la primera han sido las personas que conocí ahí."
+    content : "La olimpiada es la segunda mejor cosa que me ha pasado... <br>Y la primera han sido las personas que conocí ahí"
 
   - name: "Manuel Alejandro Espinoza"
     image: "assets/images/testimonial/client1.png"
     designation : "Ex-olímpico y entrenador de la delegación"
     content : "La olimpiada cambió mi vida."
     
-  - name: "Héctor de la Rosa"
+  - name: "Margarita Godínez"
     image: "assets/images/testimonial/client2.png"
-    designation : "Ex-olímpico, cofundador de la OMMEB en Michoacán"
-    content : "La verdad me confundí pensando que esta era una olimpiada de atletismo, pero las matemáticas estuvieron mejores."
-    
-  - name: "Margarita Pérez"
-    image: "assets/images/testimonial/client4.png"
     designation : "Ex-olímpica"
-    content : "Muy buenos entrenamientos, no sabía que las matemáticas eran tan divertidas."
+    content : "La verdad me confundí pensando que esta era una olimpiada de atletismo, pero las matemáticas estuvieron mejores"
+    
+  - name: "Hugo Gómez"
+    image: "assets/images/testimonial/client4.png"
+    designation : "Ex-olímpico"
+    content : "Es una experiencia que cambia tu visión de las matemáticas como nunca las podrás ver en la escuela"
+
+  - name: "Nicolás Valdovinos"
+    image: "assets/images/testimonial/client6.png"
+    designation : "Ex-olímpico"
+    content : "Un lugar lleno de nuevos retos y personas emocionantes"
     
 #-------------------------------
 # Client Slider Section
