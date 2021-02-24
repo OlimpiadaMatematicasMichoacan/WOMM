@@ -17,7 +17,7 @@ Y no te preocupes, <span style="color:green">los exámenes de práctica no cuent
         <br>
         </p><ul class="list-group list-group-horizontal">
             <li class="list-group-item"><a href="https://www.ommenlinea.org/">La página oficial de la Olimpiada Mexicana de Matemáticas</a></li>
-            <li class="list-group-item"><a href="http://ichi.fismat.umich.mx/omm/recursos/">Antígua página de la Olimpiada Matemática en Michoacán</a></li>
+            <li class="list-group-item"><a href="http://shi.matmor.unam.mx/omm/recursos/">Antígua página de la Olimpiada Mexicana de Matemáticas</a>, que tiene muchos recursos para prepararte.</li>
             <li class="list-group-item"><a href="https://brilliant.org">Brilliant.org</a></li>
             <li class="list-group-item"><a href="https://www.khanacademy.org/">Khan Academy</a></li>
         </ul>
