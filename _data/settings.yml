@@ -135,8 +135,8 @@ stats:
 # Events Section
 
 events:
-- {name: Examen Eliminatorio Primera Vuelta, icon: 'logo-1.png', date: '20-21 Marzo 2021', organization: '¡Totalmente virtual!<br><a href="registro">¡Regístrate ya!</a>'}
-- {name: Examen Eliminatorio Segunda Vuelta, icon: 'logo-2.png', date: '3-4 Abril 2021', organization: '¡Totalmente virtual!<br><a href="registro">¡Regístrate ya!</a>'}
+- {name: Examen Eliminatorio Primera Vuelta, icon: 'logo-1.png', date: '20-21 Marzo 2021', organization: '¡Totalmente virtual!<br><a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">¡Regístrate ya!</a>'}
+- {name: Examen Eliminatorio Segunda Vuelta, icon: 'logo-2.png', date: '3-4 Abril 2021', organization: '¡Totalmente virtual!<br><a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">¡Regístrate ya!</a>'}
 #- {name: Semifinal OMM, icon: 'icon-2.png', date: 'Abril 2021', organization: 'ENES Morelia'}
 #- {name: Final OMM, icon: 'icon-3.png', date: 'Mayo 2021', organization: 'UMICH'}
 
