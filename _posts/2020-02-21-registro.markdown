@@ -7,4 +7,4 @@ author: Miguel Raggi
 tags:   OMM, OMMEB
 ---
 
-Ya está listo el [registro](/registro) para todos los niveles!! [Prepárate](/preparate) antes del examen!
+Ya está listo el [registro](https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php) para todos los niveles!! [Prepárate](/preparate) antes del examen!
