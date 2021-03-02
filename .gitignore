@@ -5,3 +5,4 @@ _site/
 .jekyll-metadata
 assets/.DS_Store
 .DS_Store
+_pages/.DS_Store

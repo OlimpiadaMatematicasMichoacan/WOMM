@@ -45,8 +45,8 @@ hero:
   hero-title: Olimpiada <br> Michoacana <br> de Matemáticas
 
 social:
-#- {icon: "ti-facebook", link: "#"}
-#- {icon: "ti-instagram", link: "#"}
+- {icon: "ti-facebook", link: "https://www.facebook.com/olimpiadamichoacanadematematicas"}
+- {icon: "ti-instagram", link: "https://www.facebook.com/olimpiadamichoacanadematematicas"}
 #- {icon: "ti-dribbble", link: "#"}
 #- {icon: "ti-twitter", link: "#"}
 
