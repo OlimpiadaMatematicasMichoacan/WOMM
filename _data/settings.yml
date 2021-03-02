@@ -161,21 +161,21 @@ services:
     name: '<img src="assets/images/problemas/tablaSumas.png" width=95%>',
     #icon: ti-vector,
     description: 'A mi tabla de sumas le cayó tinta encima. ¿Qué número debe ir en lugar de la estrella?',
-    active:  true # Add true to select section
+    active:  false # Add true to select section
   }
   
 - {
     name: '<img src="assets/images/problemas/cubosPagina.png" width=95%>',
     #icon: 'assets/images/problemas/cubosPagina.png',
     description: '¿Cuántos cubitos más deben agregarse para formar un cubo más grande?',
-    active:  # Add true to select section
+    active:  false # Add true to select section
   }
   
 - {
     name: '<img src="assets/images/problemas/pentagono.png" width=95%>',
     #icon: ti-panel,
     description: '¿Qué porcentaje del pentágono está sombreado?',
-    active: true # Add true to select section
+    active: false # Add true to select section
   }
 
 
