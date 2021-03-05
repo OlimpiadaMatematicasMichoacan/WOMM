@@ -67,6 +67,10 @@ Claro que sí. Te recomendamos usar el tiempo intermedio para [prepararte](/prep
 ##### Muy bien, me convencieron. ¿Cómo me preparo para el examen eliminatorio?
 ¡Muy buena actitud! La recomendación es practicar resolviendo ejercicios. Al registrarte, puedes [hacer un examen de práctica](https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php) (¡incluyen soluciones!). También, aquí hay algunos [recursos externos para prepararte](/preparate)
 
+#### Quiero ayudarles a hacerle difusión al evento. ¿Cómo?
+
+¡Muchas gracias! En [póster](/poster) puedes encontrar propaganda para enviar a tus contactos, familiares, etc.
+
 ##### Tengo otra duda.
 Escríbenos a [olimpiada.omm@gmail.com](mailto:olimpiada.omm@gmail.com).
 
