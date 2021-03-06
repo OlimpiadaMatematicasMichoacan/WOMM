@@ -13,13 +13,13 @@ Y no te preocupes, <span style="color:green">los exámenes de práctica no cuent
 
 <div class="p-3 mb-5 bg-white rounded">
         <strong><i class="fas fa-award" aria-hidden="true"></i>Posteriormente, para prepararte mejor te recomendamos encontrar material en otros sitios, como:</strong>
-        <p>
-        <br>
-        </p><ul class="list-group list-group-horizontal">
-            <li class="list-group-item"><a href="https://www.ommenlinea.org/">La página oficial de la Olimpiada Mexicana de Matemáticas</a></li>
-            <li class="list-group-item"><a href="http://shi.matmor.unam.mx/omm/recursos/">Antígua página de la Olimpiada Mexicana de Matemáticas</a>, que tiene muchos recursos para prepararte. Busca tu nivel!</li>
-            <li class="list-group-item"><a href="https://brilliant.org">Brilliant.org</a></li>
-            <li class="list-group-item"><a href="https://www.khanacademy.org/">Khan Academy</a></li>
+        <p><br></p>
+        <ul class="list-group list-group-horizontal">
+            <li class="list-group-item"><a href="https://www.ommenlinea.org/">La página oficial de la Olimpiada Mexicana de Matemáticas.</a></li>
+            <li class="list-group-item"><a href="http://shi.matmor.unam.mx/omm/recursos/">Antígua página de la Olimpiada Mexicana de Matemáticas</a>, que tiene muchos recursos para prepararte. Busca tu nivel.</li>
+            <li class="list-group-item"><a href="http://shi.matmor.unam.mx/omm/recursos/canguro/previos/">Exámenes del canguro matemático</a> <span style="color:red">(Recomendado)</span></li>
+            <li class="list-group-item"><a href="https://brilliant.org">Brilliant.org</a> con problemas (en inglés)</li>
+            <li class="list-group-item"><a href="https://www.khanacademy.org/">Khan Academy</a> para estudiar los conceptos básicos.</li>
         </ul>
         <p></p>
 </div>
