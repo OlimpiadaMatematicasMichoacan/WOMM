@@ -31,7 +31,7 @@ Existe la falsa creencia de que las matemáticas sólo le sirven a aquellos inte
 ### <span style="color:green">Preguntas frecuentes</span>
 
 ##### ¿Qué conocimientos necesito para resolver el examen?
-Los conocimientos básicos que adquiriste en la escuela son suficientes, porque los problemas de los primeros exámenes se resuelven usando <span style="color:green">ingenio</span> y <span style="color:orange">creatividad</span>, no técnica.
+Los primeros exámenes se resuelven usando <span style="color:green">ingenio</span> y <span style="color:orange">lógica</span> más que técnica.
 
 En el entrenamiento te daremos los conocimientos necesarios para resolver los exámenes de las siguientes fases.
 
@@ -67,20 +67,20 @@ Claro que sí. Te recomendamos usar el tiempo intermedio para [prepararte](/prep
 ¡Felicidades! No es necesario participar en la segunda vuelta si avanzaste en la primera. Si lo quieres presentar como práctica, adelante. Tu calificación o avance no se verán afectados.
 
 ##### ¿Puedo participar en la OMM y en alguno de los niveles de la OMMEB al mismo tiempo?
-¡Por supuesto! Si avanzas en el eliminatorio de la OMMEB, te invitaremos a presentar el examen de la OMM.
+¡Claro! Al avanzar en el examen eliminatorio de tu nivel, automáticamente avanzarás en el examen eliminatorio de la OMM. Te recomendamos practicar para ambas olimpiadas, pero no te desanimes si lo ves difícil, pues los exámenes de la OMM están diseñados para participantes más avanzados en escolaridad.
 
 ##### Muy bien, me convencieron. ¿Cómo me preparo para el examen eliminatorio?
 ¡Muy buena actitud! La recomendación es practicar resolviendo ejercicios. Al registrarte, puedes [hacer un examen de práctica](https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php) (¡incluyen soluciones!). También, aquí hay algunos [recursos externos para prepararte](/preparate)
 
 
-#### Quiero ayudarles a hacerle difusión al evento. ¿Cómo?
+##### Quiero ayudarles a hacerle difusión al evento. ¿Cómo?
 
 ¡Muchas gracias! En [póster](/poster) puedes encontrar propaganda para enviar a tus contactos, familiares, etc.
 
 ##### Tengo otra duda.
 Escríbenos a [olimpiada.omm@gmail.com](mailto:olimpiada.omm@gmail.com).
 
-
+<p> &nbsp; </p>
 
 <span style="color:green">Somos una organización sin fines de lucro. Somos voluntarios interesados en aportar nuestro granito de arena a la educación matemática en Michoacán.</span>
 
