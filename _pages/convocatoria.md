@@ -30,6 +30,11 @@ Existe la falsa creencia de que las matemáticas sólo le sirven a aquellos inte
 
 ### <span style="color:green">Preguntas frecuentes</span>
 
+##### ¿Qué conocimientos necesito para resolver el examen?
+Los conocimientos básicos que adquiriste en la escuela son suficientes, porque los problemas de los primeros exámenes se resuelven usando <span style="color:green">ingenio</span> y <span style="color:orange">creatividad</span>, no técnica.
+
+En el entrenamiento te daremos los conocimientos necesarios para resolver los exámenes de las siguientes fases.
+
 ##### ¿Cuánto dura el examen eliminatorio?
 Dependiendo del nivel, el examen durará entre 1 y 2 horas. Tú decides a qué hora iniciar. Te recomendamos apartar el tiempo suficiente para resolver el examen.
 
@@ -66,6 +71,7 @@ Claro que sí. Te recomendamos usar el tiempo intermedio para [prepararte](/prep
 
 ##### Muy bien, me convencieron. ¿Cómo me preparo para el examen eliminatorio?
 ¡Muy buena actitud! La recomendación es practicar resolviendo ejercicios. Al registrarte, puedes [hacer un examen de práctica](https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php) (¡incluyen soluciones!). También, aquí hay algunos [recursos externos para prepararte](/preparate)
+
 
 #### Quiero ayudarles a hacerle difusión al evento. ¿Cómo?
 
