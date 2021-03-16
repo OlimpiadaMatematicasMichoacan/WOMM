@@ -15,9 +15,9 @@ menu:
 - {name: Convocatoria, link: '/convocatoria'}
 - {name: Acerca, link: '/acerca'}
 - {name: Póster, link: '/poster'}
-- {name: Noticias, link: '/noticias'}
+#- {name: Noticias, link: '/noticias'}
 - {name: Prepárate, link: '/preparate'}
-- {name: Registro, link: 'https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php'}
+- {name: Registro/Ingreso, link: 'https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php'}
 
 
 #-------------------------------
