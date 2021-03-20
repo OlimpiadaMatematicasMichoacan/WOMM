@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Registro
+date:   2020-03-20 22:15:55 +0300
+image:  /assets/images/blog/diamond.png
+author: Miguel Raggi
+tags:   OMM, OMMEB
+---
+
+Ya puedes [acceder al examen](https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php), pero debes registrarte primero!
