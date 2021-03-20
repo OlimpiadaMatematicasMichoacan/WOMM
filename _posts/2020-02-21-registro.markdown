@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Registro
-date:   2020-03-21 22:15:55 +0300
+date:   2020-02-21 22:15:55 +0300
 image:  /assets/images/blog/registro.png
 author: Miguel Raggi
 tags:   OMM, OMMEB

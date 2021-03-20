@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Registro
+title:  Comienza el examen!
 date:   2020-03-20 22:15:55 +0300
 image:  /assets/images/blog/diamond.png
 author: Miguel Raggi
