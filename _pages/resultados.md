@@ -53,7 +53,9 @@ De los 509 avanzaron 170 a la siguiente ronda, divididos de la siguiente manera:
   </tr>
 </table>
 
-Si presentaste el examen y no avanzaste (o incluso si no lo presentaste), no te preocupes: <span style="color:red">Todavía puedes [presentar](/registro) el examen del 3 y 4 de abril.</span>
+Si presentaste el examen, puedes [consultar tu calificación](https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php) y las soluciones del examen en el mismo sistema donde lo presentaste
+
+Si no avanzaste (incluso si no lo presentaste), no te preocupes: <span style="color:red">Todavía queda una [segunda oportunidad](https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php) el 3 y 4 de abril.</span>
 
 <style> 
 
