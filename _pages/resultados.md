@@ -3,7 +3,57 @@ layout: pageformat
 title: Resultados
 ---
 
-En esta eliminatorio participaron 509 estudiantes.
+En la primera vuelta del examen eliminatorio del 20 y 21 de marzo de 2021 participaron 509 estudiantes divididos en 4 niveles según grado escolar.
+
+De los 509 avanzaron 170 a la siguiente ronda, divididos de la siguiente manera:
+
+
+<table style="width:100%">
+  <tr>
+    <th>Nivel</th>
+    <th>Presentaron</th>
+    <th>Avanzaron</th>
+    <th>Puntaje mínimo para avanzar</th>
+    <th>Total Puntos Examen</th>
+  </tr>
+  <tr>
+    <td>OMMEB Nivel 1</td>
+    <td>72</td>
+    <td>44</td>
+    <td>7</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>OMMEB Nivel 2</td>
+    <td>81</td>
+    <td>33</td>
+    <td>6</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>OMMEB Nivel 3</td>
+    <td>44</td>
+    <td>17</td>
+    <td>8</td>
+    <td>12</td>
+  </tr>
+  <tr>
+    <td>OMM</td>
+    <td>312</td>
+    <td>76</td>
+    <td>10</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td><span style="color:green">Total</span></td>
+    <td><span style="color:green">509</span></td>
+    <td><span style="color:green">170</span></td>
+    <td> </td>
+    <td> </td>
+  </tr>
+</table>
+
+Si presentaste el examen y no avanzaste (o incluso si no lo presentaste), no te preocupes: <span style="color:red">Todavía puedes [presentar](/registro) el examen del 3 y 4 de abril.</span>
 
 <style> 
 
@@ -15,28 +65,13 @@ En esta eliminatorio participaron 509 estudiantes.
 </style>
 
 <br>
-## OMMEB
+#### Distribución de Calificaciones por examen
 <br>
 
 <iframe src="../assets/iframes/4-5Prim.html" class="plot"></iframe>
-* Total: 72 participantes 
-* Calificación aprobatoria: 7/10
-* Aprobados: 44
 
 <iframe src="../assets/iframes/6Prim-1Sec.html" class="plot"></iframe>
-* Total: 81 participantes
-* Calificación aprobatoria: 6/10
-* Aprobados:  33
 
 <iframe src="../assets/iframes/2Sec.html" class="plot"></iframe>
-* Total: 44 participantes
-* Calificación aprobatoria: 8/12
-* Aprobados: 17
 
-<br>
-## OMM
-<br>
 <iframe src="../assets/iframes/3Sec-2Pre.html" class="plot"></iframe>
-* Total: 312 participantes
-* Calificación aprobatoria: 10/15
-* Aprobados: 76
