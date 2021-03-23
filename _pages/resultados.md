@@ -45,9 +45,9 @@ De los 509 avanzaron 170 a la siguiente ronda, divididos de la siguiente manera:
     <td>15</td>
   </tr>
   <tr>
-    <td><span style="color:green">Total</span></td>
-    <td><span style="color:green">509</span></td>
-    <td><span style="color:green">170</span></td>
+    <td><span style="color:magenta">Total</span></td>
+    <td><span style="color:magenta">509</span></td>
+    <td><span style="color:magenta">170</span></td>
     <td> </td>
     <td> </td>
   </tr>
