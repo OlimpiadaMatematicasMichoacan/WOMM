@@ -3,13 +3,13 @@ layout: pageformat
 title: Resultados
 ---
 
-Presentaron en total 501 participantes
+Presentaron en total 501 participantes.
 
 <style> 
 
 .plot{
   width:100%;
-  height: 60vh;
+  height: 58vh;
   border-style: none;
 }
 </style>
@@ -19,15 +19,24 @@ Presentaron en total 501 participantes
 <br>
 
 <iframe src="../assets/iframes/4-5Prim.html" class="plot"></iframe>
-Total: 72 participantes 
+* Total: 72 participantes 
+* Calificación aprobatoria: 7/10
+* Aprobados: 44
 
 <iframe src="../assets/iframes/6Prim-1Sec.html" class="plot"></iframe>
-Total: 80 participantes
+* Total: 80 participantes
+* Calificación aprobatoria: 6/10
+* Aprobados:  33
 
 <iframe src="../assets/iframes/2Sec.html" class="plot"></iframe>
-Total: 41 participantes
+* Total: 41 participantes
+* Calificación aprobatoria: 8/12
+* Aprobados: 17
 
+<br>
 ## OMM
 <br>
 <iframe src="../assets/iframes/3Sec-2Pre.html" class="plot"></iframe>
-Total: 308 participantes
+* Total: 308 participantes
+* Calificación aprobatoria: 10/15
+* Aprobados: 76
