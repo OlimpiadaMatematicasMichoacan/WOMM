@@ -87,3 +87,10 @@ Escríbenos a [olimpiada.omm@gmail.com](mailto:olimpiada.omm@gmail.com).
 <span style="color:magenta">Las decisiones del jurado son inapelables.</span>
 
 
+### ¡Ayúdanos a darle difusión al evento!
+
+Puedes descargar e imprimir el [póster en formato pdf](assets/images/poster/poster.pdf).
+
+O si prefieres enviar sólo una imagen rápida:
+
+<a href="assets/images/poster/poster.jpg"><img src="assets/images/poster/poster.jpg" alt="póster" width="100%"></a>

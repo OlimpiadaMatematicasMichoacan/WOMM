@@ -3,7 +3,7 @@ layout: pageformat
 title: Resultados
 ---
 
-Presentaron en total 501 participantes.
+En esta eliminatorio participaron 501 estudiantes.
 
 <style> 
 
