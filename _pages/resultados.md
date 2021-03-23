@@ -12,4 +12,8 @@ title: Resultados
 }
 </style>
 
-<iframe src="../assets/iframes/plot.html" class="plot"></iframe>
+<iframe src="../assets/iframes/plot1.html" class="plot"></iframe>
+
+<iframe src="../assets/iframes/plot2.html" class="plot"></iframe>
+
+<iframe src="../assets/iframes/plot3.html" class="plot"></iframe>
