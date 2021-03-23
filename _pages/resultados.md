@@ -3,7 +3,7 @@ layout: pageformat
 title: Resultados
 ---
 
-En esta eliminatorio participaron 501 estudiantes.
+En esta eliminatorio participaron 509 estudiantes.
 
 <style> 
 
@@ -24,12 +24,12 @@ En esta eliminatorio participaron 501 estudiantes.
 * Aprobados: 44
 
 <iframe src="../assets/iframes/6Prim-1Sec.html" class="plot"></iframe>
-* Total: 80 participantes
+* Total: 81 participantes
 * Calificación aprobatoria: 6/10
 * Aprobados:  33
 
 <iframe src="../assets/iframes/2Sec.html" class="plot"></iframe>
-* Total: 41 participantes
+* Total: 44 participantes
 * Calificación aprobatoria: 8/12
 * Aprobados: 17
 
@@ -37,6 +37,6 @@ En esta eliminatorio participaron 501 estudiantes.
 ## OMM
 <br>
 <iframe src="../assets/iframes/3Sec-2Pre.html" class="plot"></iframe>
-* Total: 308 participantes
+* Total: 312 participantes
 * Calificación aprobatoria: 10/15
 * Aprobados: 76
