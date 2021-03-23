@@ -12,8 +12,10 @@ title: Resultados
 }
 </style>
 
-<iframe src="../assets/iframes/plot1.html" class="plot"></iframe>
+<iframe src="../assets/iframes/4-5Prim.html" class="plot"></iframe>
 
-<iframe src="../assets/iframes/plot2.html" class="plot"></iframe>
+<iframe src="../assets/iframes/6Prim-1Sec.html" class="plot"></iframe>
 
-<iframe src="../assets/iframes/plot3.html" class="plot"></iframe>
+<iframe src="../assets/iframes/2Sec.html" class="plot"></iframe>
+
+<iframe src="../assets/iframes/3Sec-2Pre.html" class="plot"></iframe>
