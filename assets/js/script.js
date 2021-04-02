@@ -136,7 +136,7 @@
         ]
     });
 
-    // Shuffle js filter and masonry
+    /* Shuffle js filter and masonry
     var Shuffle = window.Shuffle;
     var jQuery = window.jQuery;
 
@@ -152,6 +152,18 @@
         }
     });
 
-
+    */
 
 })(jQuery);
+
+window.watsonAssistantChatOptions = {
+    integrationID: "b466c1b5-3d78-4c8b-9f6b-da2e0f708dbb", // The ID of this integration.
+    region: "us-south", // The region your integration is hosted in.
+    serviceInstanceID: "a5f5eae5-59da-460c-8ddd-e68997d6a451", // The ID of your service instance.
+    onLoad: function(instance) { instance.render(); }
+  };
+setTimeout(function(){
+  const t=document.createElement('script');
+  t.src="https://web-chat.global.assistant.watson.appdomain.cloud/loadWatsonAssistantChat.js";
+  document.head.appendChild(t);
+});
