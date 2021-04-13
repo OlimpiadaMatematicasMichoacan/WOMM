@@ -135,8 +135,8 @@ stats:
 # Events Section
 
 events:
-- {name: Estatal Fase 2, icon: 'logo-3.png', date: '24-25 Abril 2021', organization: '¡Totalmente virtual!<br><a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">¡En el mismo sistema donde hiciste el primer examen!</a>'}
-- {name: Entrenamiento en Línea, icon: 'training.png', date: '7-24 Abril 2021', organization: '<a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">Si avanzaste, ¡ingresa al sistema ya!</a>'}
+- {name: Entrenamiento en Línea, icon: 'training.png', date: '7-24 Abril 2021', organization: 'Si avanzaste en la primera fase, <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">¡ingresa al sistema ya!</a><br><br>¡Supera tus límites!'}
+- {name: Estatal Fase 2, icon: 'logo-3.png', date: '24-25 Abril 2021', organization: 'En el <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">mismo sistema</a> donde fue el primer examen será el segundo.'}
 #- {name: Semifinal OMM, icon: 'icon-2.png', date: 'Abril 2021', organization: 'ENES Morelia'}
 #- {name: Final OMM, icon: 'icon-3.png', date: 'Mayo 2021', organization: 'UMICH'}
 
