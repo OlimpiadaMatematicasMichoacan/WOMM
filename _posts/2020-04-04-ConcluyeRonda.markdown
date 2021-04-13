@@ -7,4 +7,6 @@ author: Miguel Raggi
 tags:   OMM, OMMEB
 ---
 
-Acabó el examen eliminatorio de la Olimpiada en Michoacán! Puedes revisar tu resultado en la página donde hiciste el examen. Los resultados generales están en [resultados](resultados).
+Acabaron las dos rondas del examen eliminatorio de la Olimpiada en Michoacán!! Si participaste, puedes revisar tu calificación en la página donde hiciste el examen. Los resultados generales están en [resultados](resultados).
+
+¡Muchas felicidades a las personas que avanzaron!

@@ -1,0 +1,12 @@
+---
+layout: post
+title:  Acaba la primera vuelta
+date:   2020-03-20 22:15:55 +0300
+image:  /assets/images/blog/end.png
+author: Miguel Raggi
+tags:   OMM, OMMEB
+---
+
+Acabó la primera vuelta. ¡Hubo 509 participantes de todo Michoacán! Puedes ver estadísticas al respecto en [resultados](resultados). Si participaste, debes haber recibido un correo informándote de tu resultado.
+
+¡Muchas felicidades a las personas que avanzaron!
