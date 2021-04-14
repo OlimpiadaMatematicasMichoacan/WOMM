@@ -1,0 +1,85 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    
+      <meta charset="utf-8">
+      <title>Bokeh Plot</title>
+      
+      
+        
+          
+        
+        
+          
+        <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-2.3.0.min.js" integrity="sha384-HjagQp6T0/7bxYTAXbLotF1MLAGWmhkY5siA1Gc/pcEgvgRPtMsRn0gQtMwGKiw1" crossorigin="anonymous"></script>
+        <script type="text/javascript">
+            Bokeh.set_log_level("info");
+        </script>
+        
+      
+      
+    
+  </head>
+  
+  
+  <body>
+    
+      
+        
+          
+          
+            
+              <div class="bk-root" id="669f9b29-cf11-46fe-b1ea-f2c907fc7a0e" data-root-id="2454"></div>
+            
+          
+        
+      
+      
+        <script type="application/json" id="2585">
+          {"6dbd3204-438e-45fa-b7aa-29e4841cbe94":{"defs":[{"extends":null,"module":null,"name":"DataModel","overrides":[],"properties":[]}],"roots":{"references":[{"attributes":{},"id":"2485","type":"BasicTickFormatter"},{"attributes":{},"id":"2489","type":"AllLabels"},{"attributes":{"axis_label":null,"formatter":{"id":"2488"},"major_label_policy":{"id":"2489"},"ticker":{"id":"2470"},"visible":false},"id":"2469","type":"LinearAxis"},{"attributes":{"axis_label":null,"formatter":{"id":"2485"},"major_label_policy":{"id":"2486"},"ticker":{"id":"2466"},"visible":false},"id":"2465","type":"LinearAxis"},{"attributes":{"items":[{"id":"2494"}]},"id":"2493","type":"Legend"},{"attributes":{"axis":{"id":"2465"},"grid_line_color":null,"ticker":null},"id":"2468","type":"Grid"},{"attributes":{},"id":"2486","type":"AllLabels"},{"attributes":{"field":"angle","include_zero":true},"id":"2476","type":"CumSum"},{"attributes":{},"id":"2488","type":"BasicTickFormatter"},{"attributes":{"field":"angle"},"id":"2477","type":"CumSum"},{"attributes":{},"id":"2463","type":"LinearScale"},{"attributes":{"source":{"id":"2478"}},"id":"2483","type":"CDSView"},{"attributes":{"axis":{"id":"2469"},"dimension":1,"grid_line_color":null,"ticker":null},"id":"2472","type":"Grid"},{"attributes":{"end_angle":{"expr":{"id":"2477"}},"fill_alpha":{"value":0.1},"fill_color":{"field":"color"},"line_alpha":{"value":0.1},"line_color":{"value":"white"},"radius":{"value":0.4},"start_angle":{"expr":{"id":"2476"}},"x":{"value":0},"y":{"value":1}},"id":"2481","type":"Wedge"},{"attributes":{},"id":"2491","type":"Selection"},{"attributes":{},"id":"2470","type":"BasicTicker"},{"attributes":{},"id":"2459","type":"DataRange1d"},{"attributes":{"below":[{"id":"2465"}],"center":[{"id":"2468"},{"id":"2472"},{"id":"2493"}],"height":350,"left":[{"id":"2469"}],"renderers":[{"id":"2482"}],"title":{"id":"2455"},"toolbar":{"id":"2474"},"toolbar_location":null,"x_range":{"id":"2457"},"x_scale":{"id":"2461"},"y_range":{"id":"2459"},"y_scale":{"id":"2463"}},"id":"2454","subtype":"Figure","type":"Plot"},{"attributes":{"start":-0.5},"id":"2457","type":"Range1d"},{"attributes":{"data_source":{"id":"2478"},"glyph":{"id":"2480"},"hover_glyph":null,"muted_glyph":null,"nonselection_glyph":{"id":"2481"},"view":{"id":"2483"}},"id":"2482","type":"GlyphRenderer"},{"attributes":{"callback":null,"tooltips":"@Ciudad: @Paso"},"id":"2473","type":"HoverTool"},{"attributes":{"label":{"field":"Ciudad"},"renderers":[{"id":"2482"}]},"id":"2494","type":"LegendItem"},{"attributes":{"active_multi":null,"tools":[{"id":"2473"}]},"id":"2474","type":"Toolbar"},{"attributes":{"end_angle":{"expr":{"id":"2477"}},"fill_color":{"field":"color"},"line_color":{"value":"white"},"radius":{"value":0.4},"start_angle":{"expr":{"id":"2476"}},"x":{"value":0},"y":{"value":1}},"id":"2480","type":"Wedge"},{"attributes":{"data":{"Ciudad":["Morelia","L\u00e1zaro C\u00e1rdenas","Tanc\u00edtaro","Sahuayo","Ciudad Hidalgo","Apatzing\u00e1n","Zinap\u00e9cuaro","Huetamo","Zamora","Zit\u00e1cuaro","Uruapan","Contepec","Los Reyes","Ario de Rosales","Charapan","P\u00e1tzcuaro","Cher\u00e1n","Ocampo","Vicente Riva Palacio","Santa Ana Maya","Tuxpan","Pastor Ortiz","San Lucas","Santa Clara Del Cobre","Tzintzuntzan","Maravat\u00edo","Zacapu","Villamar","Yur\u00e9cuaro","Tlalpujahua","Ting\u00fcind\u00edn","Tingambato","Zimapan","Tac\u00e1mbaro","Singuio","Tuzantla","Aguililla","San Pedro J\u00e1cuaro","Macanal","Aquila","Chilchota","Churumuco","Coalcom\u00e1n","Cuitzeo","Guacamayas","La Barca","Ocumicho","San Felipe","Pamatacuaro","Patamban","Perib\u00e1n de Ramos","Purepero","Altamirano","Querendaro","San Antonio Villalong\u00edn","Puru\u00e1ndiro"],"Participo":[271,47,24,19,19,10,10,9,9,8,8,7,7,6,6,5,5,4,3,3,3,2,2,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],"Paso":[113,17,4,13,4,6,7,5,5,5,5,0,6,1,6,1,3,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,1,0,1,0,0,0,1,0,1,1,0,0,0,0],"angle":{"__ndarray__":"I8sJCsSKCkCiU39txfHfPz7Wd9C5EL4/E15h+ZZt2D8+1nfQuRC+P6/gWVyLjMY/dttolqJOyj/n5UoidMrCP+flSiJ0ysI/5+VKInTKwj/n5UoidMrCPwAAAAAAAAAAr+BZXIuMxj8+1nfQuRCeP6/gWVyLjMY/PtZ30LkQnj+v4Flci4y2PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPtZ30LkQnj8+1nfQuRCuPwAAAAAAAAAAPtZ30LkQnj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD7Wd9C5EJ4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPtZ30LkQnj8AAAAAAAAAAAAAAAAAAAAAPtZ30LkQnj8+1nfQuRCePwAAAAAAAAAAPtZ30LkQnj8AAAAAAAAAAD7Wd9C5EJ4/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPtZ30LkQnj8AAAAAAAAAAD7Wd9C5EJ4/PtZ30LkQnj8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==","dtype":"float64","order":"little","shape":[56]},"color":["#6541a4","#bfc03c","#754824","#3ce4c2","#569e14","#6b45bd","#f0312b","#b094b7","#6ed055","#e6dd6f","#a1edfa","#b638f0","#0e9c2c","#52ed5e","#e9eea6","#be0f3d","#004674","#4ffe15","#661e18","#083658","#1d1f70","#673a52","#025186","#18e247","#717b4f","#95b5c3","#813e1f","#ae91e2","#87d41c","#13116d","#cd3afd","#894b97","#9e5cc5","#69baeb","#fe9c7e","#f86e95","#ec2d0d","#33ffc9","#9a3b9b","#769107","#bd0196","#a40a4e","#6a1f3b","#5b9c35","#9aca70","#68bbcf","#8c6d27","#0f81da","#a9df39","#6f2644","#e11eca","#7e9923","#368407","#b5504e","#7ffd6a","#1db39e"],"index":[20,17,40,31,9,2,54,14,52,55,47,11,16,4,5,29,6,21,48,36,44,24,34,37,46,19,51,49,50,43,42,41,53,39,38,45,0,35,18,3,7,8,10,12,13,15,22,33,23,25,26,27,1,30,32,28]},"selected":{"id":"2491"},"selection_policy":{"id":"2492"}},"id":"2478","type":"ColumnDataSource"},{"attributes":{},"id":"2466","type":"BasicTicker"},{"attributes":{},"id":"2461","type":"LinearScale"},{"attributes":{"text":"\u00bfCu\u00e1ntos avanzaron a la siguiente ronda por Ciudad?"},"id":"2455","type":"Title"},{"attributes":{},"id":"2492","type":"UnionRenderers"}],"root_ids":["2454"]},"title":"Bokeh Application","version":"2.3.0"}}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            var fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  var docs_json = document.getElementById('2585').textContent;
+                  var render_items = [{"docid":"6dbd3204-438e-45fa-b7aa-29e4841cbe94","root_ids":["2454"],"roots":{"2454":"669f9b29-cf11-46fe-b1ea-f2c907fc7a0e"}}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    var attempts = 0;
+                    var timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        clearInterval(timer);
+                        embed_document(root);
+                      } else {
+                        attempts++;
+                        if (attempts > 100) {
+                          clearInterval(timer);
+                          console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                        }
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    
+  </body>
+  
+</html>
