@@ -11,132 +11,110 @@ En total el examen eliminatorio (ambas vueltas) fue presentado por 752 veces por
 <thead><tr><th title="Field #1">Escuela</th>
 <th title="Field #2">Ciudad</th>
 <th title="Field #3">Avanzaron</th>
-<th title="Field #4">Participaron</th>
 </tr></thead>
 <tbody><tr>
 <td>Colegio De Las Américas</td>
 <td>Morelia</td>
 <td align="right">14</td>
-<td align="right">18</td>
 </tr>
 <tr>
 <td>Colegio Interamericano De Sahuayo</td>
 <td>Sahuayo</td>
 <td align="right">13</td>
-<td align="right">18</td>
 </tr>
 <tr>
 <td>Instituto Cumbres</td>
 <td>Morelia</td>
 <td align="right">8</td>
-<td align="right">15</td>
 </tr>
 <tr>
 <td>Instituto Kipling</td>
 <td>Morelia</td>
 <td align="right">8</td>
-<td align="right">11</td>
 </tr>
 <tr>
 <td>Instituto Gestalt</td>
 <td>Morelia</td>
 <td align="right">7</td>
-<td align="right">15</td>
 </tr>
 <tr>
 <td>José María Morelos*</td>
 <td>Zinapécuaro</td>
 <td align="right">7</td>
-<td align="right">13</td>
 </tr>
 <tr>
 <td>José María Morelos*</td>
 <td>Morelia</td>
 <td align="right">6</td>
-<td align="right">8</td>
 </tr>
 <tr>
 <td>CECyTEM 05 Guacamayas</td>
 <td>Lázaro Cárdenas</td>
 <td align="right">5</td>
-<td align="right">19</td>
 </tr>
 <tr>
 <td>Colegio Huetamo</td>
 <td>Huetamo</td>
 <td align="right">5</td>
-<td align="right">9</td>
 </tr>
 <tr>
 <td>Tecnológico De Monterrey</td>
 <td>Morelia</td>
 <td align="right">5</td>
-<td align="right">7</td>
 </tr>
 <tr>
 <td>COBAEM Charapan</td>
 <td>Charapan</td>
 <td align="right">5</td>
-<td align="right">6</td>
 </tr>
 <tr>
 <td>Colegio Anglo</td>
 <td>Lázaro Cárdenas</td>
 <td align="right">4</td>
-<td align="right">6</td>
 </tr>
 <tr>
 <td>Colegio Educare</td>
 <td>Uruapan</td>
-<td align="right">4</td>
 <td align="right">4</td>
 </tr>
 <tr>
 <td>Instituto Valle De Tancítaro</td>
 <td>Tancítaro</td>
 <td align="right">3</td>
-<td align="right">25</td>
 </tr>
 <tr>
 <td>Instituto Ausubel</td>
 <td>Morelia</td>
 <td align="right">3</td>
-<td align="right">13</td>
 </tr>
 <tr>
-<td>Instituto Vasco De Quiroga</td>
+<td>Vasco De Quiroga</td>
 <td>Morelia</td>
 <td align="right">3</td>
-<td align="right">11</td>
 </tr>
 <tr>
 <td>COBAEM Apatzingán</td>
 <td>Apatzingán</td>
 <td align="right">3</td>
-<td align="right">5</td>
 </tr>
 <tr>
 <td>Instituto Innovación Segura</td>
 <td>Morelia</td>
 <td align="right">3</td>
-<td align="right">5</td>
 </tr>
 <tr>
 <td>Conservatorio De Las Rosas</td>
 <td>Morelia</td>
 <td align="right">3</td>
-<td align="right">4</td>
 </tr>
 <tr>
 <td>Instituto Harvard De Morelia</td>
 <td>Morelia</td>
 <td align="right">3</td>
-<td align="right">3</td>
 </tr>
 <tr>
 <td>Primaria Bilingüe Miguel Hidalgo</td>
 <td>Los Reyes</td>
-<td align="right">3</td>
 <td align="right">3</td>
 </tr>
 </tbody></table>
