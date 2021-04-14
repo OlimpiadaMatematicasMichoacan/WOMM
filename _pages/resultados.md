@@ -13,12 +13,12 @@ En total el examen eliminatorio (ambas vueltas) fue presentado por 752 veces por
 <th title="Field #3">Avanzaron</th>
 </tr></thead>
 <tbody><tr>
-<td>Colegio De Las Américas</td>
+<td>Colegio de Las Américas</td>
 <td>Morelia</td>
 <td align="right">14</td>
 </tr>
 <tr>
-<td>Colegio Interamericano De Sahuayo</td>
+<td>Colegio Interamericano de Sahuayo</td>
 <td>Sahuayo</td>
 <td align="right">13</td>
 </tr>
@@ -58,7 +58,7 @@ En total el examen eliminatorio (ambas vueltas) fue presentado por 752 veces por
 <td align="right">5</td>
 </tr>
 <tr>
-<td>Tecnológico De Monterrey</td>
+<td>Tecnológico de Monterrey</td>
 <td>Morelia</td>
 <td align="right">5</td>
 </tr>
@@ -78,7 +78,7 @@ En total el examen eliminatorio (ambas vueltas) fue presentado por 752 veces por
 <td align="right">4</td>
 </tr>
 <tr>
-<td>Instituto Valle De Tancítaro</td>
+<td>Instituto Valle de Tancítaro</td>
 <td>Tancítaro</td>
 <td align="right">3</td>
 </tr>
@@ -88,7 +88,7 @@ En total el examen eliminatorio (ambas vueltas) fue presentado por 752 veces por
 <td align="right">3</td>
 </tr>
 <tr>
-<td>Vasco De Quiroga</td>
+<td>Vasco de Quiroga</td>
 <td>Morelia</td>
 <td align="right">3</td>
 </tr>
@@ -103,12 +103,12 @@ En total el examen eliminatorio (ambas vueltas) fue presentado por 752 veces por
 <td align="right">3</td>
 </tr>
 <tr>
-<td>Conservatorio De Las Rosas</td>
+<td>Conservatorio de las Rosas</td>
 <td>Morelia</td>
 <td align="right">3</td>
 </tr>
 <tr>
-<td>Instituto Harvard De Morelia</td>
+<td>Instituto Harvard</td>
 <td>Morelia</td>
 <td align="right">3</td>
 </tr>
@@ -119,9 +119,9 @@ En total el examen eliminatorio (ambas vueltas) fue presentado por 752 veces por
 </tr>
 </tbody></table>
 
-Otras escuelas con participación destacada: Escuela Preparatoria Dr. Melchor Díaz Rubio (en Morelia), Escuela Primaria General Francisco J Mujica (en Zitácuaro), Jefferson Internacional (en Morelia), Comunidad Educativa Y Cultural Ivan Illich (en Morelia), Colegio Salesiano Colón (en Zamora), Lancaster (en Morelia), Colegio México Nuevo (en Morelia), Colegio Knowledge Quest (en Morelia), Colegio José Sixto Verduzco (en Zamora), Instituto Pedagógico Juan Amos Comenio (en Morelia), Instituto Octavio Paz Lozano (en Morelia), Colegio Jorhenguarhini (en Morelia), Liceo Michoacano (en Morelia), COBAEM Los Reyes (en Los Reyes), Preparatoria Gral Enrique Ramírez (en Lázaro Cárdenas), Universidad Latina De América (en Morelia), Miguel Hidalgo (en Morelia), COBAEM (en Cherán), Instituto Vasco De Quiroga (en Lázaro Cárdenas), Secundaria Técnica 11 (en Chilchota), Instituto Valladolid (en Morelia), Tec 49 Samuel Ramos (en Zitácuaro), Madero Y Pino Suárez (en Morelia), Telesecundaria 265 (en Zimapan), Instituto Villa (en Morelia), Instituto Morelos (en Uruapan), Técnica Numero 5 (en Apatzingán), Universidad Montrer (en Morelia), Vicente Riva Palacio (en Huetamo), Secundaria Federal No 3 José Rubén Romero (en Ciudad Hidalgo), Primaria Independencia (en Morelia), Intituto Honesverd (en Morelia), Maestro Justo Sierra (en Ario de Rosales), Primaria General Emiliano Zapata (en Charapan), 
-Jesús Romero Flores (en Morelia), Primaria Emiliano Zapata (en Apatzingán), Preparatoria General Enrique Ramírez (en Lázaro Cárdenas), Juana De Arco (en Coalcomán), Motolinia (en Morelia), Melchor Ocampo (en Morelia), Lazaro Cardenas Del Rio (en Cherán), Manuel Ávila Camacho (en Morelia), Antonio Barobsa Heldth (en Morelia), Escuela Secundaria Federal No 11 Simón Bolívar (en Morelia), Ignacio Zaragoza (en Morelia), Ignacio López Rayón (en Ciudad Hidalgo), COBAEM Santa Ana Maya (en Morelia), COBAEM Pastor Ortiz (en Zamora), COBAEM Aquila (en Aquila), COBAEM 18 (en Aguililla), COBAEM (en Pastor Ortiz), COBAEM (en Apatzingán), CECyTEM 19 Tzintzuntzan (en Tzintzuntzan), CECyTEM 17 Ciudad Hidalgo (en Ciudad Hidalgo), CECyTEM 08 (en San Lucas), CECyTEM 05 Guacamayas (en Guacamayas), CECyTEM 03 Tancítaro (en Tancítaro), CECyTEM 02 (en Peribán de Ramos), CECyTEM (en Lázaro Cárdenas), CBTis 162 (en Zitácuaro), Centro De Tecnológico Forestal No 6 (en Ciudad Hidalgo), Centro Educativo Morelia (en Morelia), Colegio Becker (en Morelia), Escuela Secundaria Federal Jaime Torres Bodet (en Lázaro Cárdenas), Ignacio Allende (en Lázaro Cárdenas), Himno Nacional (en Morelia), Escuela Secundaria Técnica 120 (en Morelia), Escuela Secundaria Técnica 104 Uruétaro (en Morelia), Escuela Secundaria Tecnica 164 (en Morelia), 
-CBTis 149 (en Morelia), Escuela Secundaria Federal Melchor Ocampo (en Pamatacuaro), Escuela Secundaria Federal Gildardo Magaña (en Purepero), Colegio Hispano Americano (en Morelia), Escuela Primaria Carmen Serdan (en Morelia), Escuela J Mariano Michelena (en Lázaro Cárdenas), Enrique García Gallegos (en Morelia), Colegio Silviano Carrillo (en Pátzcuaro), Colegio Patria De Cardenas (en Morelia), Colegio Lumena (en Zitácuaro), Villa Montessori (en Morelia), CECyTEM 12 Cuto De La Esperanza (en Morelia)
+Otras escuelas con participación destacada: Escuela Preparatoria Dr. Melchor Díaz Rubio (en Morelia), Escuela Primaria General Francisco J Mujica (en Zitácuaro), Jefferson Internacional (en Morelia), Comunidad Educativa Y Cultural Ivan Illich (en Morelia), Colegio Salesiano Colón (en Zamora), Lancaster (en Morelia), Colegio México Nuevo (en Morelia), Colegio Knowledge Quest (en Morelia), Colegio José Sixto Verduzco (en Zamora), Instituto Pedagógico Juan Amos Comenio (en Morelia), Instituto Octavio Paz Lozano (en Morelia), Colegio Jorhenguarhini (en Morelia), Liceo Michoacano (en Morelia), COBAEM Los Reyes (en Los Reyes), Preparatoria Gral Enrique Ramírez (en Lázaro Cárdenas), Universidad Latina de América (en Morelia), Miguel Hidalgo (en Morelia), COBAEM (en Cherán), Vasco de Quiroga (en Lázaro Cárdenas), Secundaria Técnica 11 (en Chilchota), Instituto Valladolid (en Morelia), Tec 49 Samuel Ramos (en Zitácuaro), Madero Y Pino Suárez (en Morelia), Telesecundaria 265 (en Zimapan), Instituto Villa (en Morelia), Instituto Morelos (en Uruapan), Técnica Numero 5 (en Apatzingán), Universidad Montrer (en Morelia), Vicente Riva Palacio (en Huetamo), Secundaria Federal No 3 José Rubén Romero (en Ciudad Hidalgo), Primaria Independencia (en Morelia), Intituto Honesverd (en Morelia), Maestro Justo Sierra (en Ario de Rosales), Primaria General Emiliano Zapata (en Charapan), 
+Jesús Romero Flores (en Morelia), Primaria Emiliano Zapata (en Apatzingán), Preparatoria General Enrique Ramírez (en Lázaro Cárdenas), Juana de Arco (en Coalcomán), Motolinia (en Morelia), Melchor Ocampo (en Morelia), Lazaro Cardenas Del Rio (en Cherán), Manuel Ávila Camacho (en Morelia), Antonio Barobsa Heldth (en Morelia), Escuela Secundaria Federal No 11 Simón Bolívar (en Morelia), Ignacio Zaragoza (en Morelia), Ignacio López Rayón (en Ciudad Hidalgo), COBAEM Santa Ana Maya (en Morelia), COBAEM Pastor Ortiz (en Zamora), COBAEM Aquila (en Aquila), COBAEM 18 (en Aguililla), COBAEM (en Pastor Ortiz), COBAEM (en Apatzingán), CECyTEM 19 Tzintzuntzan (en Tzintzuntzan), CECyTEM 17 Ciudad Hidalgo (en Ciudad Hidalgo), CECyTEM 08 (en San Lucas), CECyTEM 05 Guacamayas (en Guacamayas), CECyTEM 03 Tancítaro (en Tancítaro), CECyTEM 02 (en Peribán de Ramos), CECyTEM (en Lázaro Cárdenas), CBTis 162 (en Zitácuaro), Centro Tecnológico Forestal No 6 (en Ciudad Hidalgo), Centro Educativo Morelia (en Morelia), Colegio Becker (en Morelia), Escuela Secundaria Federal Jaime Torres Bodet (en Lázaro Cárdenas), Ignacio Allende (en Lázaro Cárdenas), Himno Nacional (en Morelia), Escuela Secundaria Técnica 120 (en Morelia), Escuela Secundaria Técnica 104 Uruétaro (en Morelia), Escuela Secundaria Tecnica 164 (en Morelia), 
+CBTis 149 (en Morelia), Escuela Secundaria Federal Melchor Ocampo (en Pamatacuaro), Escuela Secundaria Federal Gildardo Magaña (en Purepero), Colegio Hispano Americano (en Morelia), Escuela Primaria Carmen Serdan (en Morelia), Escuela J Mariano Michelena (en Lázaro Cárdenas), Enrique García Gallegos (en Morelia), Colegio Silviano Carrillo (en Pátzcuaro), Colegio Patria de Cárdenas (en Morelia), Colegio Lumena (en Zitácuaro), Villa Montessori (en Morelia), CECyTEM 12 Cuto de la Esperanza (en Morelia)
 
 (*) Hay muchas escuelas con el nombre de José María Morelos y no tenemos manera de identificarlas.
 
