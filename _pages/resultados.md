@@ -201,6 +201,8 @@ Si presentaste el examen, puedes [consultar tu calificación](https://registro.o
 ### Puntajes: Segunda vuelta
 En la segunda vuelta del examen eliminatorio del 3 y 4 de abril de 2021 participaron 238 estudiantes divididos en 4 niveles según grado escolar.
 
+Si presentaste el examen, puedes [consultar tu calificación](https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php) y las soluciones del examen en el mismo sistema donde lo presentaste.
+
 <style> 
 
 .plot{
