@@ -6,7 +6,7 @@ title: Resultados
 En total el examen eliminatorio (ambas vueltas) fue presentado por 752 veces por 563 estudiantes diferentes.
 
 ### Escuelas con participación muy destacada
-
+ 
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Escuela</th>
 <th title="Field #2">Ciudad</th>
