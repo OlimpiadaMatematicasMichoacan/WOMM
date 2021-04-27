@@ -22,7 +22,7 @@ Aquí están las tablas con los <span style="color:red">máximos puntajes por ni
 			<td>Ciudad</td>
 			<td>Escuela</td>
 			<td>Grado Escolar</td>
-			<td>Puntaje Fase 2</td>
+			<td>Puntaje Fase 2 (Máximo: 12)</td>
 		</tr>
 		<tr>
 			<td>F&aacute;tima Rangel</td>
@@ -72,7 +72,7 @@ Aquí están las tablas con los <span style="color:red">máximos puntajes por ni
 			<td>Ciudad</td>
 			<td>Escuela</td>
 			<td>Grado Escolar</td>
-			<td>Puntaje Fase 2</td>
+			<td>Puntaje Fase 2  (Máximo: 12)</td>
 		</tr>
 		<tr>
 			<td>Leonardo Zaid Almaraz Guti&eacute;rrez</td>
@@ -136,7 +136,7 @@ Aquí están las tablas con los <span style="color:red">máximos puntajes por ni
 			<td>Ciudad</td>
 			<td>Escuela</td>
 			<td>Grado Escolar</td>
-			<td>Puntaje Fase 2</td>
+			<td>Puntaje Fase 2 (Máximo: 14)</td>
 		</tr>
 		<tr>
 			<td>Dulce Paloma Romero D&iacute;az</td>
@@ -185,7 +185,7 @@ Aquí están las tablas con los <span style="color:red">máximos puntajes por ni
 			<td>Ciudad</td>
 			<td>Escuela</td>
 			<td>Grado Escolar</td>
-			<td>Puntaje Fase 2</td>
+			<td>Puntaje Fase 2 (Máximo: 15)</td>
 		</tr>
 		<tr>
 			<td>Miguel Rangel Castillo</td>
