@@ -96,7 +96,7 @@ Aquí están las tablas con los <span style="color:red">máximos puntajes por ni
 			<td>11</td>
 		</tr>
 		<tr>
-			<td>Susixu Pastelillos</td>
+			<td>Susi Guzmán</td>
 			<td>Morelia</td>
 			<td>Conservatorio De Las Rosas</td>
 			<td>1° secundaria</td>
