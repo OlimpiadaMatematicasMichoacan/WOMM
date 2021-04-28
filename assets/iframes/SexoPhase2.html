@@ -1,0 +1,85 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    
+      <meta charset="utf-8">
+      <title>Bokeh Plot</title>
+      
+      
+        
+          
+        
+        
+          
+        <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-2.3.0.min.js" integrity="sha384-HjagQp6T0/7bxYTAXbLotF1MLAGWmhkY5siA1Gc/pcEgvgRPtMsRn0gQtMwGKiw1" crossorigin="anonymous"></script>
+        <script type="text/javascript">
+            Bokeh.set_log_level("info");
+        </script>
+        
+      
+      
+    
+  </head>
+  
+  
+  <body>
+    
+      
+        
+          
+          
+            
+              <div class="bk-root" id="d6832b94-a6e7-45bb-8008-9c8a6bc89e23" data-root-id="2200"></div>
+            
+          
+        
+      
+      
+        <script type="application/json" id="2331">
+          {"d05c676d-e68f-4eeb-bf73-d645f3146b90":{"defs":[{"extends":null,"module":null,"name":"DataModel","overrides":[],"properties":[]}],"roots":{"references":[{"attributes":{"items":[{"id":"2240"}]},"id":"2239","type":"Legend"},{"attributes":{},"id":"2237","type":"Selection"},{"attributes":{},"id":"2231","type":"AllLabels"},{"attributes":{"source":{"id":"2224"}},"id":"2229","type":"CDSView"},{"attributes":{"text":"Avance a la 3\u00b0 fase (por Sexo)"},"id":"2201","type":"Title"},{"attributes":{"start":-0.5},"id":"2203","type":"Range1d"},{"attributes":{},"id":"2238","type":"UnionRenderers"},{"attributes":{"end_angle":{"expr":{"id":"2223"}},"fill_color":{"field":"color"},"line_color":{"value":"white"},"radius":{"value":0.4},"start_angle":{"expr":{"id":"2222"}},"x":{"value":0},"y":{"value":1}},"id":"2226","type":"Wedge"},{"attributes":{"axis":{"id":"2215"},"dimension":1,"grid_line_color":null,"ticker":null},"id":"2218","type":"Grid"},{"attributes":{},"id":"2232","type":"BasicTickFormatter"},{"attributes":{},"id":"2212","type":"BasicTicker"},{"attributes":{"axis_label":null,"formatter":{"id":"2232"},"major_label_policy":{"id":"2231"},"ticker":{"id":"2212"},"visible":false},"id":"2211","type":"LinearAxis"},{"attributes":{"axis_label":null,"formatter":{"id":"2235"},"major_label_policy":{"id":"2234"},"ticker":{"id":"2216"},"visible":false},"id":"2215","type":"LinearAxis"},{"attributes":{"active_multi":null,"tools":[{"id":"2219"}]},"id":"2220","type":"Toolbar"},{"attributes":{"data_source":{"id":"2224"},"glyph":{"id":"2226"},"hover_glyph":null,"muted_glyph":null,"nonselection_glyph":{"id":"2227"},"view":{"id":"2229"}},"id":"2228","type":"GlyphRenderer"},{"attributes":{},"id":"2234","type":"AllLabels"},{"attributes":{"end_angle":{"expr":{"id":"2223"}},"fill_alpha":{"value":0.1},"fill_color":{"field":"color"},"line_alpha":{"value":0.1},"line_color":{"value":"white"},"radius":{"value":0.4},"start_angle":{"expr":{"id":"2222"}},"x":{"value":0},"y":{"value":1}},"id":"2227","type":"Wedge"},{"attributes":{},"id":"2216","type":"BasicTicker"},{"attributes":{"field":"angle"},"id":"2223","type":"CumSum"},{"attributes":{},"id":"2235","type":"BasicTickFormatter"},{"attributes":{},"id":"2207","type":"LinearScale"},{"attributes":{},"id":"2209","type":"LinearScale"},{"attributes":{"field":"angle","include_zero":true},"id":"2222","type":"CumSum"},{"attributes":{"callback":null,"tooltips":"@Sexo: @count"},"id":"2219","type":"HoverTool"},{"attributes":{"label":{"field":"Sexo"},"renderers":[{"id":"2228"}]},"id":"2240","type":"LegendItem"},{"attributes":{"data":{"Sexo":["Hombre","Mujer","No binario","Prefiero no decirlo"],"angle":{"__ndarray__":"1Ly+oeNqC0BpIPutCJoFQDMUNREylro/MxQ1ETKWqj8=","dtype":"float64","order":"little","shape":[4]},"color":["#ea9209","#1f1a7e","#cd64cf","#c2ddf9"],"count":[66,52,2,1]},"selected":{"id":"2237"},"selection_policy":{"id":"2238"}},"id":"2224","type":"ColumnDataSource"},{"attributes":{"below":[{"id":"2211"}],"center":[{"id":"2214"},{"id":"2218"},{"id":"2239"}],"height":350,"left":[{"id":"2215"}],"renderers":[{"id":"2228"}],"title":{"id":"2201"},"toolbar":{"id":"2220"},"toolbar_location":null,"x_range":{"id":"2203"},"x_scale":{"id":"2207"},"y_range":{"id":"2205"},"y_scale":{"id":"2209"}},"id":"2200","subtype":"Figure","type":"Plot"},{"attributes":{},"id":"2205","type":"DataRange1d"},{"attributes":{"axis":{"id":"2211"},"grid_line_color":null,"ticker":null},"id":"2214","type":"Grid"}],"root_ids":["2200"]},"title":"Bokeh Application","version":"2.3.0"}}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            var fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  var docs_json = document.getElementById('2331').textContent;
+                  var render_items = [{"docid":"d05c676d-e68f-4eeb-bf73-d645f3146b90","root_ids":["2200"],"roots":{"2200":"d6832b94-a6e7-45bb-8008-9c8a6bc89e23"}}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    var attempts = 0;
+                    var timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        clearInterval(timer);
+                        embed_document(root);
+                      } else {
+                        attempts++;
+                        if (attempts > 100) {
+                          clearInterval(timer);
+                          console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                        }
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    
+  </body>
+  
+</html>
