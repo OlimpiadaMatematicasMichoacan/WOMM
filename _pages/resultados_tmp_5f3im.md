@@ -25,7 +25,7 @@ Aquí están las tablas con los <span style="color:red">máximos puntajes por ni
 			<td>Puntaje Fase 2 (Máximo: 12)</td>
 		</tr>
 		<tr>
-			<td>Fátima Rangel</td>
+			<td>Fátima Rangel Castillo</td>
 			<td>Morelia</td>
 			<td>-</td>
 			<td>4° primaria</td>
