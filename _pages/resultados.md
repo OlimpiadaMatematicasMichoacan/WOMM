@@ -25,7 +25,7 @@ Aquí están las tablas con los <span style="color:red">máximos puntajes por ni
 			<td>Puntaje Fase 2 (Máximo: 12)</td>
 		</tr>
 		<tr>
-			<td>Fátima Rangel Castillo</td>
+			<td>Fátima Valeria Rangel Castillo</td>
 			<td>Morelia</td>
 			<td>-</td>
 			<td>4° primaria</td>
@@ -188,7 +188,7 @@ Aquí están las tablas con los <span style="color:red">máximos puntajes por ni
 			<td>Puntaje Fase 2 (Máximo: 15)</td>
 		</tr>
 		<tr>
-			<td>Miguel Rangel Castillo</td>
+			<td>Miguel Enrique Rangel Castillo</td>
 			<td>Morelia</td>
 			<td>Instituto Vasco De Quiroga</td>
 			<td>3° secundaria</td>
