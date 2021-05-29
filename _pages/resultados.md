@@ -34,7 +34,7 @@ Los 5 mejores puntajes de cada nivel. Hubo más personas que avanzaron en cada f
 	}
 </style>
 <table class="results-table">
-<thead><tr class="tableizer-firstrow"><th>Nombre</th><th>Ciudad</th><th>Escuela</th><th>GradoEscolar</th><th>ExamenFase3</th></tr></thead><tbody>
+<thead><tr class="tableizer-firstrow"><th>Nombre</th><th>Ciudad</th><th>Escuela</th><th>Grado Escolar</th><th>Puntuación</th></tr></thead><tbody>
  <tr><td>José Abraham Chora Hernández</td><td>Morelia</td><td>Instituto Gestalt</td><td>4° primaria</td><td>7</td></tr>
  <tr><td>Ikna Nolc</td><td>Pátzcuaro</td><td>Colegio Silviano Carrillo</td><td>4° primaria</td><td>7</td></tr>
  <tr><td>Jorge Briant Martínez Jerónimo</td><td>Charapan</td><td>Primaria General Emiliano Zapata</td><td>5° primaria</td><td>6.5</td></tr>
@@ -64,7 +64,7 @@ Los 5 mejores puntajes de cada nivel. Hubo más personas que avanzaron en cada f
 	}
 </style>
 <table class="results-table">
-<thead><tr class="tableizer-firstrow"><th>Nombre</th><th>Ciudad</th><th>Escuela</th><th>GradoEscolar</th><th>ExamenFase3</th></tr></thead><tbody>
+<thead><tr class="tableizer-firstrow"><th>Nombre</th><th>Ciudad</th><th>Escuela</th><th>Grado Escolar</th><th>Puntuación</th></tr></thead><tbody>
  <tr><td>Alexa Gutiérrez Calvo</td><td>Morelia</td><td>Instituto Gestalt</td><td>6° primaria</td><td>10</td></tr>
  <tr><td>Susi Guzmán</td><td>Morelia</td><td>Conservatorio De Las Rosas</td><td>1° secundaria</td><td>10</td></tr>
  <tr><td>Francisco Granados Flores</td><td>Morelia</td><td>Instituto Kipling</td><td>6° primaria</td><td>9</td></tr>
@@ -92,7 +92,7 @@ Los 5 mejores puntajes de cada nivel. Hubo más personas que avanzaron en cada f
 	}
 </style>
 <table class="results-table">
-<thead><tr class="tableizer-firstrow"><th>Nombre</th><th>Ciudad</th><th>Escuela</th><th>GradoEscolar</th><th>ExamenFase3</th></tr></thead><tbody>
+<thead><tr class="tableizer-firstrow"><th>Nombre</th><th>Ciudad</th><th>Escuela</th><th>Grado Escolar</th><th>Puntuación</th></tr></thead><tbody>
  <tr><td>Jaziz Cortes Camiro</td><td>Morelia</td><td>Colegio De Las Américas</td><td>2° secundaria</td><td>10.7</td></tr>
  <tr><td>Dulce Paloma Romero Díaz</td><td>Huetamo</td><td>Colegio Huetamo</td><td>2° secundaria</td><td>9.9</td></tr>
  <tr><td>Juan Pablo García Sotelo</td><td>Morelia</td><td>Escuela Secundaria Federal No 11 Simón Bolívar</td><td>2° secundaria</td><td>8</td></tr>
@@ -121,7 +121,7 @@ Los 5 mejores puntajes de cada nivel. Hubo más personas que avanzaron en cada f
 	}
 </style>
 <table class="results-table">
-<thead><tr class="tableizer-firstrow"><th>Nombre</th><th>Ciudad</th><th>Escuela</th><th>GradoEscolar</th><th>ExamenFase3</th></tr></thead><tbody>
+<thead><tr class="tableizer-firstrow"><th>Nombre</th><th>Ciudad</th><th>Escuela</th><th>Grado Escolar</th><th>Puntuación</th></tr></thead><tbody>
  <tr><td>Alexis Uriel Aguilar Uribe</td><td>Apatzingán</td><td>COBAEM Apatzingán</td><td>2° año de preparatoria</td><td>13</td></tr>
  <tr><td>Rocio Barragán Mendoza</td><td>Los Reyes</td><td>COBAEM Los Reyes</td><td>2° año de preparatoria</td><td>13</td></tr>
  <tr><td>Bialy Calderón Magaña</td><td>Morelia</td><td>Instituto Harvard De Morelia</td><td>3° secundaria</td><td>13</td></tr>
