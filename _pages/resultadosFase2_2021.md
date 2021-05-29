@@ -3,8 +3,6 @@ layout: pageformat
 title: Resultados Fase 2 (2021)
 ---
 
-## Resultados de segunda fase
-
 Puedes ver las estadísticas de la [primera fase aquí](resultadosFase1_2021).
 
 <span style="color:green">Si participaste en la segunda fase (24 y 25 de abril), debiste recibir un correo con los resultados. Si no lo recibiste, comunícate con nosotros para saber si avanzaste.</span>

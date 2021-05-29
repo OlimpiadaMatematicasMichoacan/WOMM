@@ -3,8 +3,6 @@ layout: pageformat
 title: Resultados Fase 3 (2021)
 ---
 
-## Resultados de Tercera Fase
-
 Puedes ver las estadísticas de la [primera fase aquí](resultadosFase1_2021) y de la [segunda fase aquí](resultadosFase2_2021).
 
 <span style="color:green">Si participaste en la tercera fase (22 y 23 de mayo), debiste recibir un correo con los resultados. Si no lo recibiste, comunícate con nosotros para saber si avanzaste.</span>
