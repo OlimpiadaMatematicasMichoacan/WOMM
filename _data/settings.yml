@@ -18,7 +18,7 @@ menu:
 #- {name: Noticias, link: '/noticias'}
 - {name: Prepárate, link: '/preparate'}
 - {name: Resultados, link: '/resultados'}
-- {name: Ingreso, link: 'https://shi.matmor.unam.mx:8443/login/index.php'}
+- {name: Ingreso, link: 'https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php'}
 
 
 #-------------------------------
