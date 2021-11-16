@@ -23,7 +23,7 @@ Existe la falsa creencia de que las matemáticas sólo le sirven a aquellos inte
 
 ##### <strong><span style="color:red">Nota</span></strong>: En 2021 cambió considerablemente el proceso de la Olimpiada de Matemáticas con respecto a años anteriores.  
 
-Para participar en la Olimpiada de Matemáticas en Michoacán, deberás resolver un examen sencillo, con preguntas de ingenio. Te recomendamos [/preparate](prepararte) resolviendo ejercicios, acertijos, viendo videos, etc.  Participar es absolutamente gratuito y, honestamente, muy divertido.
+Para participar en la Olimpiada de Matemáticas en Michoacán, deberás resolver un examen sencillo, con preguntas de ingenio. Te recomendamos [prepararte](preparate) resolviendo ejercicios, acertijos, viendo videos, etc.  Participar es absolutamente gratuito y, honestamente, muy divertido.
 
 Una vez que logras resolver el examen, entrarás a un grupo de entrenamiento. Periódicamente se aplicarán exámenes para avanzar de grupo.
 
