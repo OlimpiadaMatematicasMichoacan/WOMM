@@ -16,7 +16,9 @@ Podrán participar estudiantes inscritos en cualquier institución de educación
 - <span style="color:green">Primera fecha:</span> 14, 15 y 16 de enero de 2022.
 - <span style="color:green">Segunda fecha:</span> mayo 2022. Fecha por confirmar.
 
-En ambas fechas puedes escoger qué día haces el examen de entre todas las opciones, y una vez que avanzas ya no es necesario presentar el examen inicial en una fecha posterior durante el mismo año.
+Si no avanzas en la primera fecha, puedes entrenar e intentarlo de nuevo en la segunda.
+
+En ambas fechas puedes escoger qué día haces el examen, y una vez que avanzas ya no es necesario presentar el examen inicial en una fecha posterior durante el mismo año. Los exámenes son diferentes, claro.
 
 ##### ¿Te interesa?
 
@@ -97,6 +99,8 @@ Además, queremos que todo el mundo tenga acceso a los entrenamientos básicos.
 
 Cada año, participamos (o participaremos) en los siguientes concursos:
 
+<span style="color:blue">Nota: </span> Los grados escolares mencionados son al momento del concurso. A veces hay que necesariamente comenzar uno o más años anteriores a eso con el proceso estatal para poder clasificar. Entre antes, mejor.
+
 - <strong><span style="color:magenta">[Junio] </span></strong><span style="color:blue">Concurso Nacional OMMEB en sus 3 niveles: </span>
 - - <span style="color:green">OMMEB Nivel I</span>: 4° y 5° de primaria
 - - <span style="color:green">OMMEB Nivel II</span>: 6° de primaria y 1° de secundaria
@@ -109,7 +113,7 @@ Cada año, participamos (o participaremos) en los siguientes concursos:
 
 Para participar en cualquiera de estos concursos, <strong>deberás avanzar en uno de los dos concursos de entrada que se hacen al año en Michoacán</strong>, y posterioremente, a través de exámenes periódicos, avanzar a los grupos altos, y finalmente, realizar un examen de selección.
 
-<span style="color:blue">Nota: </span> Los grados escolares mencionados son al momento del concurso. A veces hay que necesariamente comenzar uno o más años anteriores a eso con el proceso estatal para poder clasificar. Entre antes, mejor.
+
 
 ##### Quiero ayudarles a hacerle difusión al evento. ¿Cómo?
 
