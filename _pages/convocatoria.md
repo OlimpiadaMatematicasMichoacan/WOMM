@@ -42,10 +42,11 @@ Si logras resolver el examen entrarás a un grupo de entrenamiento, dependiendo 
 
 Los grupos son:
 
-- <img src="/assets/images/levels/baby.png" height=35> Genin (TODO: cambia esto)
-- <img src="/assets/images/levels/child.png" height=35> Chuunin
-- <img src="/assets/images/levels/adult.png" height=35> Jonin
-- <img src="/assets/images/levels/ninja.png" height=35> Kage
+- <img src="/assets/images/levels/baby.png" height=35> Charhaku (bebé/hermano menor)
+- <img src="/assets/images/levels/child.png" height=35> Uéenati (el que empieza)
+- <img src="/assets/images/levels/adult.png" height=35> Teruk'ati (el del medio)
+- <img src="/assets/images/levels/lotus.png" height=35> Orhepati (hermano mayor)
+- <img src="/assets/images/levels/ninja.png" height=35> Jorhentpiri (maestro)
 
 Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMMEB, femenil, etc.) se invitará al grupo Chuunin en adelante dentro de aquellas personas que puedan participar en dicho concurso a resolver un examen adicional para escoger a quienes representarán a Michoacán.
 
