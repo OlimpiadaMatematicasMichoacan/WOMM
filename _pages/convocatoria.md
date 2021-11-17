@@ -3,17 +3,26 @@ layout: pageformat
 title: Convocatoria
 ---
 
-El Comité Estatal de la Olimpiada de Michoacán convoca, a participar en la
-#### Olimpiada Mexicana de Matemáticas en Michoacán (OMM)
+El Comité Estatal de la Olimpiada de Matemáticas de Michoacán convoca a participar en la
+<center>
+<h4> Olimpiada Michoacana de Matemáticas</h4>
+<!-- <img src="assets/images/icons/logo-1.png" width=200> -->
+</center>
+en todos sus niveles, participando en el [curso abierto de entrenamiento](/registro) y presentando el examen inicial.
+<br>
 
-Podrán participar estudiantes inscritos en cualquier institución de educación **pública** o **privada** del estado de Michoacán. Los exámenes iniciales están pensados 
+Podrán participar estudiantes inscritos en cualquier institución de educación **pública** o **privada** del estado de Michoacán. Los exámenes iniciales están divididos en niveles que van <span style="color:green">desde 4° de primaria hasta 2° año de preparatoria</span> o equivalente. Cada año se aplicarán dos exámenes iniciales a todos los niveles.
 
-Cada año se aplicarán dos exámenes iniciales (todos los niveles). Puedes escoger qué día haces el examen de entre todas las opciones.
+- <span style="color:green">Primera fecha:</span> 14, 15 y 16 de enero de 2022.
+- <span style="color:green">Segunda fecha:</span> mayo 2022. Fecha por confirmar.
 
-- <span style="color:green">Primera vuelta:</span> 14, 15 y 16 de enero de 2022.
-- <span style="color:green">Segunda vuelta:</span> mayo 2022. Fecha por confirmar.
+En ambas fechas puedes escoger qué día haces el examen de entre todas las opciones, y una vez que avanzas ya no es necesario presentar el examen inicial en una fecha posterior durante el mismo año.
+
+##### ¿Te interesa?
 
 <center><a href="/registro" class="btn btn-xs btn-primary">Regístrate aquí</a></center>
+
+### <span style="color:green"> Objetivo</span>
 
 La Olimpiada de Matemáticas tiene como objetivo promover el aprendizaje de las matemáticas de una manera creativa, lógica y divertida.
 
@@ -21,15 +30,22 @@ Existe la falsa creencia de que las matemáticas sólo le sirven a aquellos inte
 
 ### <span style="color:green"> Proceso</span>
 
-##### <strong><span style="color:red">Nota</span></strong>: En 2021 cambió considerablemente el proceso de la Olimpiada de Matemáticas con respecto a años anteriores.  
+##### <strong><span style="color:red">Nota</span></strong>: Este año cambió considerablemente el proceso de la Olimpiada de Matemáticas con respecto a años anteriores.  
 
-Para participar en la Olimpiada de Matemáticas en Michoacán, deberás resolver un examen sencillo, con preguntas de ingenio. Te recomendamos [prepararte](preparate) resolviendo ejercicios, acertijos, viendo videos, etc.  Participar es absolutamente gratuito y, honestamente, muy divertido.
+Para participar en la Olimpiada de Matemáticas en Michoacán, deberás resolver un examen sencillo, con preguntas de ingenio. Te recomendamos [prepararte](/preparate) resolviendo ejercicios, acertijos, viendo videos, etc. 
 
-Una vez que logras resolver el examen, entrarás a un grupo de entrenamiento. Periódicamente se aplicarán exámenes para avanzar de grupo.
+Participar es absolutamente gratuito y, honestamente, muy divertido.
 
-Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMMEB, femenil, etc.) se invitará a los integrantes de los grupos intermedio-B y mayor que puedan participar en dicho concurso a resolver un examen adicional para escoger a quien representará a Michoacán en estos concursos.
+Si logras resolver el examen entrarás a un grupo de entrenamiento, dependiendo de tu nivel de conocimientos. Periódicamente se aplicarán exámenes para avanzar de grupo.
 
+Los grupos son:
 
+- <img src="/assets/images/levels/baby.png" height=35> Genin (TODO: cambia esto)
+- <img src="/assets/images/levels/child.png" height=35> Chuunin
+- <img src="/assets/images/levels/adult.png" height=35> Jonin
+- <img src="/assets/images/levels/ninja.png" height=35> Kage
+
+Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMMEB, femenil, etc.) se invitará al grupo Chuunin en adelante dentro de aquellas personas que puedan participar en dicho concurso a resolver un examen adicional para escoger a quienes representarán a Michoacán.
 
 
 ### <span style="color:green">Preguntas frecuentes</span>
@@ -58,14 +74,14 @@ Sí.
 ##### ¿Qué puedo utilizar durante el examen?
 De material, puedes utilizar lápices, plumas, colores, hojas, regla y compás si quieres. No está permitido usar transportador ni calculadora, pero no te preocupes, el examen está diseñado para que no haya necesidad (ni beneficio) de usar una calculadora.
 
-El examen es individual y no se permite ayuda externa de ningún tipo. Idealmente durante el examen no deberás tener comunicación con otras personas.
+El examen es individual y no se permite ayuda externa de ningún tipo. Idealmente, durante el examen no deberás tener comunicación con otras personas.
 
 ##### Muy bien, me convencieron. ¿Cómo me preparo para el examen inicial?
 ¡Muy buena actitud! La recomendación es practicar resolviendo ejercicios. Al registrarte, puedes [hacer un exámenes de práctica](/registro) (¡incluyen soluciones!). También, aquí hay algunos [recursos externos para prepararte](/preparate)
 
 ##### ¿En qué concursos externos participa Michoacán?
 
-Cada año, participamos o participaremos en los siguientes concursos. Los grados escolares mencionados son al momento del concurso. A veces hay que necesariamente comenzar uno o más años anteriores a eso con el proceso estatal.
+Cada año, participamos o participaremos en los siguientes concursos:
 
 - <strong><span style="color:magenta">[Junio] </span></strong><span style="color:blue">Concurso Nacional OMMEB en sus 3 niveles: </span>
 - - <span style="color:green">OMMEB Nivel I</span>: 4° y 5° de primaria
@@ -78,6 +94,8 @@ Cada año, participamos o participaremos en los siguientes concursos. Los grados
 - - <span style="color:green">Femenil Nivel II</span>: hasta 3° año de bachillerato
 
 Para participar en cualquiera de estos concursos, <strong>deberás avanzar en uno de los dos concursos de entrada que se hacen al año en Michoacán</strong>, y posterioremente, a través de exámenes periódicos, avanzar a los grupos altos, y finalmente, realizar un examen de selección.
+
+<span style="color:blue">Nota: </span> Los grados escolares mencionados son al momento del concurso. A veces hay que necesariamente comenzar uno o más años anteriores a eso con el proceso estatal para poder clasificar. Entre antes, mejor.
 
 ##### Quiero ayudarles a hacerle difusión al evento. ¿Cómo?
 
