@@ -77,15 +77,21 @@ De material, puedes utilizar lápices, plumas, colores, hojas, regla y compás s
 El examen es individual y no se permite ayuda externa de ningún tipo. Idealmente, durante el examen no deberás tener comunicación con otras personas.
 
 ##### Muy bien, me convencieron. ¿Cómo me preparo para el examen inicial?
-¡Muy buena actitud! La recomendación es practicar resolviendo ejercicios. Al registrarte, puedes [hacer un exámenes de práctica](/registro) (¡incluyen soluciones!). También, aquí hay algunos [recursos externos para prepararte](/preparate)
+¡Muy buena actitud! La recomendación es practicar resolviendo ejercicios. Al [registrarte](/registro), puedes hacer un exámenes de práctica (¡incluyen soluciones!) y un entrenamiento en video (con ejercicios) de algunos conceptos básicos. Aquí hay algunos [recursos para prepararte](/preparate).
 
-##### Este año, ¿cuál es la diferencia con la Olimpiada de Matemáticas en años anteriores?
+##### ¿Cuál es la diferencia de este año con los años anteriores?
 
 En años anteriores veíamos a la Olimpiada de Matemáticas en "fases", donde había un examen al final de cada fase y se eliminaba a quienes obtenían menores puntajes en cada examen.
 
-A partir de ahora, a modo de experimento, pensaremos en la Olimpiada de Matemáticas (en Michoacán) de forma "continua": hay algunos exámenes para ingresar, y dependiendo de tus resultados y experiencia te acomodaremos uno de varios grupos de entrenamiento. Periódicamente habrá exámenes y otras oportunidades para avanzar a un grupo superior. Los que no avancen no serán "eliminados", simplemente no avanzarán al siguiente nivel. Entrenaremos todo el año, y cuando tengamos que seleccionar a un grupo para que represenete a Michoacán en un examen nacional, tomaremos a quienes hayan tenido mejor desempeño durante los entrenamientos y exámenes selectivos.
+A partir de ahora, a modo de experimento, pensaremos en la Olimpiada de Matemáticas (en Michoacán) de forma "continua": hay algunos exámenes para ingresar, y dependiendo de tus resultados y experiencia te acomodaremos uno de varios grupos de entrenamiento. Periódicamente habrá exámenes y otras oportunidades para avanzar a un grupo superior. Los que no avancen no serán "eliminados", simplemente no avanzarán al siguiente nivel en esa ocasión. Entrenaremos todo el año, y cuando tengamos que seleccionar a un grupo para que represenete a Michoacán en un examen nacional, tomaremos a quienes hayan tenido mejor desempeño durante los entrenamientos y exámenes selectivos.
 
 La Olimpiada acaba para ti cuando ya no queden más concursos en los que participe Michoacán en donde cumplas los requisitos para concursar.
+
+##### ¿Por qué el cambio?
+
+Por muchas razones. Principalmente, queremos hacer énfasis en que todas las personas que participan en la Olimpiada son importantes para nosotros, y aunque la Olimpiada técnicamente es un concurso, el objetivo real es enseñar las matemáticas de manera divertida, creativa y lógica. Algo que no nos gustaba era que cuando alguien no avanzaba a la siguiente fase, ya no seguía entrenando y aprendiendo durante todo el periodo, así que cuando llegaba el año siguiente, ya había olvidado muchas cosas.
+
+Además, queremos que todo el mundo tenga acceso a los entrenamientos básicos.
 
 ##### ¿En qué concursos externos participa Michoacán?
 
