@@ -64,14 +64,14 @@ Puedes presentar el examen inicial sin presentar documentación. Si avanzas a la
 ##### ¿Cuándo me avisarán y qué ocurrirá en caso de lograr avanzar a la siguiente etapa? 
 Unos días después de que concluya el examen los resultados aparecerán en la misma página y te enviaremos un correo electrónico.
 
-Posteriormente recibirás en tu correo una liga de invitación al entrenamiento para prepararte. Por la situación actual, todos los entrenamientos se realizarán de manera virtual.
+Posteriormente recibirás en tu correo una liga de invitación a más entrenamientos y algunas actividades.
 
 Además te enviaremos un diploma, una vez que recibamos tus documentos.
 
 ##### ¿Es gratis participar?
 Sí.
 
-##### ¿Qué puedo utilizar durante el examen?
+##### ¿Qué material puedo utilizar durante el examen?
 De material, puedes utilizar lápices, plumas, colores, hojas, regla y compás si quieres. No está permitido usar transportador ni calculadora, pero no te preocupes, el examen está diseñado para que no haya necesidad (ni beneficio) de usar una calculadora.
 
 El examen es individual y no se permite ayuda externa de ningún tipo. Idealmente, durante el examen no deberás tener comunicación con otras personas.
@@ -79,9 +79,17 @@ El examen es individual y no se permite ayuda externa de ningún tipo. Idealment
 ##### Muy bien, me convencieron. ¿Cómo me preparo para el examen inicial?
 ¡Muy buena actitud! La recomendación es practicar resolviendo ejercicios. Al registrarte, puedes [hacer un exámenes de práctica](/registro) (¡incluyen soluciones!). También, aquí hay algunos [recursos externos para prepararte](/preparate)
 
+##### Este año, ¿cuál es la diferencia con la Olimpiada de Matemáticas en años anteriores?
+
+En años anteriores veíamos a la Olimpiada de Matemáticas en "fases", donde había un examen al final de cada fase y se eliminaba a quienes obtenían menores puntajes en cada examen.
+
+A partir de ahora, a modo de experimento, pensaremos en la Olimpiada de Matemáticas (en Michoacán) de forma "continua": hay algunos exámenes para ingresar, y dependiendo de tus resultados y experiencia te acomodaremos uno de varios grupos de entrenamiento. Periódicamente habrá exámenes y otras oportunidades para avanzar a un grupo superior. Los que no avancen no serán "eliminados", simplemente no avanzarán al siguiente nivel. Entrenaremos todo el año, y cuando tengamos que seleccionar a un grupo para que represenete a Michoacán en un examen nacional, tomaremos a quienes hayan tenido mejor desempeño durante los entrenamientos y exámenes selectivos.
+
+La Olimpiada acaba para ti cuando ya no queden más concursos en los que participe Michoacán en donde cumplas los requisitos para concursar.
+
 ##### ¿En qué concursos externos participa Michoacán?
 
-Cada año, participamos o participaremos en los siguientes concursos:
+Cada año, participamos (o participaremos) en los siguientes concursos:
 
 - <strong><span style="color:magenta">[Junio] </span></strong><span style="color:blue">Concurso Nacional OMMEB en sus 3 niveles: </span>
 - - <span style="color:green">OMMEB Nivel I</span>: 4° y 5° de primaria
@@ -99,16 +107,16 @@ Para participar en cualquiera de estos concursos, <strong>deberás avanzar en un
 
 ##### Quiero ayudarles a hacerle difusión al evento. ¿Cómo?
 
-¡Muchas gracias! En [póster](/poster) puedes encontrar propaganda para enviar a tus contactos, familiares, etc.
+¡Muchas gracias! En [esta liga](/poster) puedes encontrar propaganda para enviar a tus contactos, familiares, etc.
 
 ##### Tengo otra duda.
 Escríbenos a [olimpiada.omm@gmail.com](mailto:olimpiada.omm@gmail.com).
 
 <p> &nbsp; </p>
 
-<span style="color:green">Somos una organización sin fines de lucro. Somos voluntarios interesados en aportar nuestro granito de arena a la educación matemática en Michoacán.</span>
+<span style="color:blue">Somos una organización sin fines de lucro. Somos voluntarios interesados en aportar nuestro granito de arena a la educación matemática en Michoacán.</span>
 
-<span style="color:magenta">Las decisiones del jurado son inapelables.</span>
+<span style="color:green">Las decisiones del jurado son inapelables.</span>
 
 
 ### ¡Ayúdanos a darle difusión al evento!
