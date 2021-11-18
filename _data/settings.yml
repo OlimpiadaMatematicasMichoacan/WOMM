@@ -107,13 +107,13 @@ team:
     designation : "Estudiante LTICs ENES - IT Consultant"
 
     
-  #- title : "Eric Pauli"
-    #image : "assets/images/team/eric.jpg"
-    #designation : "Posdoc en Centro de Ciencias Matemáticas"
+  - title : "Eric Pauli"
+    image : "assets/images/team/eric.jpg"
+    designation : "Posdoc en Centro de Ciencias Matemáticas"
     
-  #- title : "Jazmín López"
-    #image : "assets/images/team/jazmin.jpg"
-    #designation : "Estudiante LTICs ENES"
+  - title : "Jazmín López"
+    image : "assets/images/team/jazmin.jpg"
+    designation : "Estudiante LTICs ENES"
     
   - title : "Ahtziri González"
     image : "assets/images/team/ahtziri.jpg"
