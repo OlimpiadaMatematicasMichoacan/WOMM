@@ -16,7 +16,7 @@ Si es la primera vez que participas en las olimpiadas, te recomendamos [registra
 
 Posteriormente, en el curso hay varias lecciones en video (acompañados de ejercicios y problemas) que enseñan algunos conceptos básicos que podrían ayudarte a pensar mejor.
 
-<center><a href="https://registro.olimpiadamatematicasmichoacan.org:8443/course/view.php?id=3" class="btn btn-xs btn-primary">Accede al curso aquí</a></center>
+<center><a href="https://registro.olimpiadamatematicasmichoacan.org:8443/course/view.php?id=8" class="btn btn-xs btn-primary">Accede al curso aquí</a></center>
 
 Al avanzar en el proceso de la Olimpiada, podrás acceder a entrenamientos y materiales más avanzados.
 

@@ -8,7 +8,7 @@ El Comité Estatal de la Olimpiada de Matemáticas de Michoacán convoca a parti
 <h4> Olimpiada Michoacana de Matemáticas</h4>
 <!-- <img src="assets/images/icons/logo-1.png" width=200> -->
 </center>
-en todos sus niveles, participando en el [curso abierto de entrenamiento](https://registro.olimpiadamatematicasmichoacan.org:8443/course/view.php?id=3) y presentando el examen inicial.
+en todos sus niveles, participando en el [curso abierto de entrenamiento](https://registro.olimpiadamatematicasmichoacan.org:8443/course/view.php?id=8) y presentando el examen inicial.
 <br>
 
 Podrán participar estudiantes inscritos en cualquier institución de educación **pública** o **privada** del estado de Michoacán. Los exámenes iniciales están divididos en niveles que van <span style="color:green">desde 4° de primaria hasta 2° año de preparatoria</span> o equivalente. Cada año se aplicarán dos exámenes iniciales a todos los niveles.
