@@ -1,6 +1,6 @@
 ---
 layout: pageformat
-title: Registro/Ingreso
+title: Registro
 ---
 
 <head>
@@ -14,10 +14,10 @@ title: Registro/Ingreso
 <center>
 
 <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/signup.php?" class="btn btn-xs btn-primary"><img src="assets/images/icons/signup.png" alt="" width="44" height="44"/>  Registro</a>
-
+<!--  
 <br><br>
 
-<a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php" class="btn btn-xs btn-primary"><img src="assets/images/icons/login.png" alt="" width="44" height="44"/>  Ingreso</a>
+<a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php" class="btn btn-xs btn-primary"><img src="assets/images/icons/login.png" alt="" width="44" height="44"/>  Ingreso</a> -->
 
 <br><br>
 

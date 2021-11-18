@@ -8,17 +8,18 @@ description:  Olimpiada Michoacana de Matemáticas
 
 email: olimpiada.omm@gmail.com
 #phone: +52 4433223500 ext. 1230
-#address: Escuela Nacional de Estudios Superiores Unidad Morelia, Oficina 49, Edificio de Investigación.
+address: Morelia, Michoacán.
 copyright: "Designed by <a href='https://roicort.github.io'>Rodrigo Cortez</a> - Boilerplate by <a href='https://google.com'>ThemeFisher</a> <br> Made with ❤️ in Morelia <br> Copyright &copy; 2021"
 
 menu:
 - {name: Acerca, link: '/acerca'}
-- {name: Convocatoria, link: '/convocatoria'}
+- {name: Prepárate, link: '/preparate'}
+- {name: Convocatoria & Registro, link: '/convocatoria'}
 #- {name: Póster, link: '/poster'}
 #- {name: Noticias, link: '/noticias'}
-- {name: Prepárate, link: '/preparate'}
 #- {name: Resultados, link: '/resultados'}
-- {name: <strong>Registro</strong>/<br><small>Ingreso</small>, link: '/registro'}
+#- {name: Registro, link: '/registro'}
+- {name: Plataforma, link: 'https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php'}
 
 
 #-------------------------------
@@ -105,7 +106,6 @@ team:
   - title : "Ismael Olvera"
     image : "assets/images/team/ismael.jpg"
     designation : "Estudiante LTICs ENES - IT Consultant"
-
     
   - title : "Eric Pauli"
     image : "assets/images/team/eric.jpg"

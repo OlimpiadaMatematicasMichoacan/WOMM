@@ -1,8 +1,6 @@
 <head>
   <meta charset="utf-8">
   
-  <meta name="theme-color" content="#3985a8">
-  
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.title }}{% endif %}</title>
 
   <!-- mobile responsive meta -->
@@ -21,6 +19,8 @@
   <!-- Main Stylesheet -->
   <link href="{{ '/assets/scss/style.css' | relative_url }}" rel="stylesheet">
 
+  <meta name="theme-color">
+
   <!--Favicon-->
   <link rel="shortcut icon" href="{{ '/assets/images/favicon.png' | relative_url }} " type="image/x-icon">
   <link rel="icon" href="{{ '/assets/images/favicon.png' | relative_url }} " type="image/x-icon">
@@ -30,4 +30,17 @@
     {% include google-analytics.html %}
   {% endif %}
 
+  <script>
+
+    window.onload = function get_body() {
+      body = document.getElementsByTagName('body')[0];
+      var style = getComputedStyle(body);
+      var bcol = style.getPropertyValue('--background-color'); 
+      console.log(bcol);
+      var metaThemeColor = document.querySelector("meta[name=theme-color]");
+      metaThemeColor.setAttribute("content", bcol);
+    }
+    </script>
+
 </head>
+

@@ -1,6 +1,7 @@
 body {
   background-color: $body-color;
   overflow-x: hidden;
+  --background-color: #{$primary-color};
 }
 
 ::selection {
@@ -105,6 +106,11 @@ a:hover {
 
 .d-unset {
   display: unset !important;
+}
+
+.bg-primary-hero {
+  background: linear-gradient(180deg, $primary-color, rgba( $primary-color, .1 )) !important;
+  height: 100vh;
 }
 
 .bg-primary {
