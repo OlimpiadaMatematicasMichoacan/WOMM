@@ -3,12 +3,23 @@ layout: pageformat
 title: Convocatoria
 ---
 
-El Comité Estatal de la Olimpiada de Matemáticas de Michoacán convoca a participar en la
+<style>
+  .center-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10vh;
+
+}
+</style>
+
+<br>
 <center>
-<h4> Olimpiada Michoacana de Matemáticas</h4>
-<!-- <img src="assets/images/icons/logo-1.png" width=200> -->
+<img src="assets/images/icons/logo-1.png" class="center-img">
+El Comité Estatal de la Olimpiada de Matemáticas de Michoacán convoca a participar en la
+<h3> Olimpiada Michoacana de Matemáticas</h3>
+en todos sus niveles, participando en el <a href='https://registro.olimpiadamatematicasmichoacan.org:8443/course/view.php?id=8'>curso abierto de entrenamiento</a> y presentando el examen inicial.
 </center>
-en todos sus niveles, participando en el [curso abierto de entrenamiento](https://registro.olimpiadamatematicasmichoacan.org:8443/course/view.php?id=8) y presentando el examen inicial.
 <br>
 
 Podrán participar estudiantes inscritos en cualquier institución de educación **pública** o **privada** del estado de Michoacán. Los exámenes iniciales están divididos en niveles que van <span style="color:green">desde 4° de primaria hasta 2° año de preparatoria</span> o equivalente. Cada año se aplicarán dos exámenes iniciales a todos los niveles.
@@ -54,18 +65,105 @@ Participar es absolutamente gratuito y, honestamente, muy divertido.
 
 Si logras resolver el examen entrarás a un grupo de entrenamiento, dependiendo de tu nivel de conocimientos. Periódicamente se aplicarán exámenes para avanzar de grupo.
 
-Los grupos son:
+ <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h3>Los grupos son:</h3>
+      </div>
 
-- <img src="/assets/images/levels/baby.png" height=35> Charhaku (bebé)
-- <img src="/assets/images/levels/child.png" height=35> Teruk'ati (del medio)
-<!-- - <img src="/assets/images/levels/adult.png" height=35> Teruk'ati (el del medio) -->
-<!-- - <img src="/assets/images/levels/adult.png" height=35> Orhepati (hermano mayor) -->
-- <img src="/assets/images/levels/ninja.png" height=35> Míteti (conocedor)
+      <div class="col-md-4 mb-4 mb-md-0">
+        <div class="card hover-shadow shadow">
+          <div class="card-body {% if service.active %}active-bg-primary{% endif %} text-center px-4 py-5">
+            <img src="/assets/images/levels/baby.png" height=50> 
+            <h4 class="mb-4">Charhaku</h4>
+            <p>Bebé</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4 mb-4 mb-md-0">
+        <div class="card hover-shadow shadow">
+          <div class="card-body {% if service.active %}active-bg-primary{% endif %} text-center px-4 py-5">
+            <img src="/assets/images/levels/child.png" height=50> 
+            <h4 class="mb-4">Teruk'ati</h4>
+            <p>Del Medio</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4 mb-4 mb-md-0">
+        <div class="card hover-shadow shadow">
+          <div class="card-body {% if service.active %}active-bg-primary{% endif %} text-center px-4 py-5">
+            <img src="/assets/images/levels/ninja.png" height=50>
+            <h4 class="mb-4">Míteti</h4>
+            <p>Conocedor</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
 
 Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMMEB, femenil, etc.) se invitará al grupo Teruk'ati en adelante dentro de aquellas personas que puedan participar en dicho concurso a resolver un examen adicional para escoger a quienes representarán a Michoacán.
 
 
 ### <span style="color:green">Preguntas frecuentes</span>
+
+<br>
+
+<details>
+<summary>¿Qué conocimientos necesito para resolver el examen?</summary>
+<p align="center"> 
+   Los primeros exámenes se resuelven usando <span style="color:green">ingenio</span> y <span style="color:orange">lógica</span> más que técnica.
+   En el entrenamiento te daremos los conocimientos necesarios para resolver los exámenes de las siguientes fases.
+</p>
+</details>
+
+<details>
+<summary>¿Cuánto dura el examen inicial?</summary>
+<p align="center"> 
+   Dependiendo del nivel, el examen durará entre 1 y 2 horas. Tú decides a qué hora iniciar y tu tiempo comienza a correr una vez iniciado. Te recomendamos apartar el tiempo suficiente para resolver el examen.
+</p>
+</details>
+
+<details>
+<summary>¿Qué documentos necesito presentar para participar?</summary>
+<p align="center"> 
+   Puedes presentar el examen inicial sin presentar documentación. Si avanzas a la siguiente etapa, te pediremos algún documento que compruebe tu fecha de nacimiento y una constancia de inscripción en alguna escuela de Michoacán antes de poder emitir tu diploma.
+</p>
+</details>
+
+<details>
+<summary>¿Cuándo me avisarán y qué ocurrirá en caso de lograr avanzar a la siguiente etapa? </summary>
+<p align="center"> 
+   Unos días después de que concluya el examen los resultados aparecerán en la misma página y te enviaremos un correo electrónico.
+
+   Posteriormente recibirás en tu correo una liga de invitación a más entrenamientos y algunas actividades.
+
+   Además te enviaremos un diploma, una vez que recibamos tus documentos.
+</p>
+</details>
+
+<details>
+<summary>¿Es gratis participar?</summary>
+<p align="center"> 
+   ¡Totalmente gratis!
+</p>
+</details>
+
+<details>
+<summary>¿Qué material puedo utilizar durante el examen?</summary>
+<p align="center"> 
+   De material, puedes utilizar lápices, plumas, colores, hojas, regla y compás si quieres. No está permitido usar transportador ni calculadora, pero no te preocupes, el examen está diseñado para que no haya necesidad (ni beneficio) de usar una calculadora.
+
+   El examen es individual y no se permite ayuda externa de ningún tipo. Idealmente, durante el examen no deberás tener comunicación con otras personas.
+</p>
+</details>
+
+<br>
+
+<!-- 
+
 
 ##### ¿Qué conocimientos necesito para resolver el examen?
 Los primeros exámenes se resuelven usando <span style="color:green">ingenio</span> y <span style="color:orange">lógica</span> más que técnica.
@@ -92,6 +190,8 @@ Sí.
 De material, puedes utilizar lápices, plumas, colores, hojas, regla y compás si quieres. No está permitido usar transportador ni calculadora, pero no te preocupes, el examen está diseñado para que no haya necesidad (ni beneficio) de usar una calculadora.
 
 El examen es individual y no se permite ayuda externa de ningún tipo. Idealmente, durante el examen no deberás tener comunicación con otras personas.
+
+-->
 
 ##### Muy bien, me convencieron. ¿Cómo me preparo para el examen inicial?
 ¡Muy buena actitud! La recomendación es practicar resolviendo ejercicios. Al [registrarte](/registro), puedes hacer un exámenes de práctica (¡incluyen soluciones!) y un entrenamiento en video (con ejercicios) de algunos conceptos básicos. Aquí hay algunos [recursos para prepararte](/preparate).
