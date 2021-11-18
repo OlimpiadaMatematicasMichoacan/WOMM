@@ -14,12 +14,12 @@ copyright: "Designed by <a href='https://roicort.github.io'>Rodrigo Cortez</a> -
 menu:
 - {name: Acerca, link: '/acerca'}
 - {name: Prepárate, link: '/preparate'}
-- {name: Convocatoria/<br><small>Registro</small>, link: '/convocatoria'}
+- {name: Convocatoria & Registro, link: '/convocatoria'}
 #- {name: Póster, link: '/poster'}
 #- {name: Noticias, link: '/noticias'}
 #- {name: Resultados, link: '/resultados'}
 #- {name: Registro, link: '/registro'}
-- {name: Ingreso a<br>Plataforma, link: 'https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php'}
+- {name: Plataforma, link: 'https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php'}
 
 
 #-------------------------------

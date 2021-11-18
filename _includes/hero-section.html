@@ -61,8 +61,8 @@ canvas {
   <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.min.js"></script>
 
 <script>
-let palette = ["#78d8f7cc", "#e07004cc", "#5f721bcc", "#f52701cc", "#dcdc00cc", "#a6be30cc", "#b11101cc", "#ffff00cc", "#12b612cc", "#2d13fdcc", "#0eacb4cc"];
 
+let palette = ["#4464a1", "#56a1c4", "#ee726b", "#ffc5c7", "#fef9c6", "#df5f50", "#5a3034", "#f5b800", "#ffcc4d", "#4b8a5f", "#e590b8"];
 
 function setup() {
 	var canvas = createCanvas(windowWidth, windowHeight);
@@ -79,7 +79,7 @@ function draw() {
 	let s = width/5;
 	
 	for (let x = 0; x < width; x += s) {
-    for (let y = 0; y < height*(3/4); y += s) {
+    for (let y = 0; y < height; y += s) {
 			if (random() < 1/2) {
 				makeTile(x, y, s/2);
 				makeTile(x+s/2, y, s/2);
