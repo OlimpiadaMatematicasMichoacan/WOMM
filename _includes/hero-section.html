@@ -5,8 +5,33 @@ canvas {
   position: absolute;
   z-index: -1 !important;
 }
+
+.arrow {
+  box-sizing: border-box;
+  height: 2.5vw;
+  width: 2.5vw;
+  border-style: solid;
+  border-color: white;
+  border-width: 0px 2px 2px 0px;
+  transform: rotate(45deg);
+  transition: border-width 150ms ease-in-out;
+}
+
+.arrow:hover {
+  border-bottom-width: 4px;
+  border-right-width: 4px;
+}
+
+.arrow-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 5em;
+}
 </style>
 
+
+<div id="full"></div>
 
   <div id="sketch-holder"></div>
   <section class="hero-area bg-primary-hero" id="element">
@@ -15,6 +40,11 @@ canvas {
         <div class="col-lg-11 mx-auto mt-0">
           <h1 class="text-white font-tertiary">{{ site.data.settings.hero.hero-title }}</h1>
         </div>
+      </div>
+      <div class="arrow-container">
+        <a data-scroll href="#about">
+          <div class="arrow"></div>
+        </a>
       </div>
     </div>
   
