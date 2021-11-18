@@ -5,11 +5,11 @@ title: Prepárate
 
 ##### En la Olimpiada de Matemáticas, los problemas se resuelven con <span style="color:green">ingenio</span>, <span style="color:orange">imaginación</span> y <span style="color:red">creatividad</span>, más que con técnicas.
 
-Aquí encontrarás algunos materiales que puedes usar para prepararte para el examen, o, si eres profesor, ayudar a tus alumnos a prepararse. No dudes en [contactarnos](mailto:olimpiada.omm@gmail.com) con cualquier duda.
-
 ##### Entrenar para la Olimpiada de Matemáticas significa, principalmente, intentar resolver problemas y acertijos matemáticos.
 
-Resolver muchos problemas, cada vez más difíciles, es la mejor manera de entrenar. ¿Dónde encuentras problemas? Aquí te damos algunas sugerencias.
+Resolver muchos problemas, cada vez más difíciles, es la mejor manera de entrenar. ¿Dónde encuentras problemas?
+
+Aquí encontrarás algunos materiales que puedes usar para prepararte para el examen, o, si eres profesor, ayudar a tus alumnos a prepararse. No dudes en [contactarnos](mailto:olimpiada.omm@gmail.com) con cualquier duda.
 
 ### Recursos en línea: Michoacán
 Si es la primera vez que participas en las olimpiadas, te recomendamos [registrarte](/registro) en el sistema de entrenamiento. Al registrarte, quedarás automáticamente inscrito en un <span style="color:red">curso</span> de preparación, en donde podrás resolver los exámenes de práctica, para familiarizarte con este tipo de problemas. ¡Incluye respuestas y soluciones! Vienen exámenes de práctica, así como exámenes iniciales del año anterior que puedes resolver para practicar.
