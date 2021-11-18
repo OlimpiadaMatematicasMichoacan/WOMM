@@ -7,3 +7,9 @@
 
 ![ScreenShot](ss.png)
  
+ Desarrollado en Jekyll y Ruby
+ 
+ Para hacer una build
+ 
+  * bundle install
+  * bundle exec jekyll build
