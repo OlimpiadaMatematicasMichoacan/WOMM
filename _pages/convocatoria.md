@@ -8,7 +8,7 @@ title: Convocatoria
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 10vh;
+  width: 20vh;
 
 }
 </style>
@@ -73,7 +73,7 @@ Si logras resolver el examen entrarás a un grupo de entrenamiento, dependiendo 
 
       <div class="col-md-4 mb-4 mb-md-0">
         <div class="card hover-shadow shadow">
-          <div class="card-body {% if service.active %}active-bg-primary{% endif %} text-center px-4 py-5">
+          <div class="card-body active-bg-primary text-center px-4 py-5">
             <img src="/assets/images/levels/baby.png" height=50> 
             <h4 class="mb-4">Charhaku</h4>
             <p>Bebé</p>
@@ -83,7 +83,7 @@ Si logras resolver el examen entrarás a un grupo de entrenamiento, dependiendo 
 
       <div class="col-md-4 mb-4 mb-md-0">
         <div class="card hover-shadow shadow">
-          <div class="card-body {% if service.active %}active-bg-primary{% endif %} text-center px-4 py-5">
+          <div class="card-body active-bg-primary text-center px-4 py-5">
             <img src="/assets/images/levels/child.png" height=50> 
             <h4 class="mb-4">Teruk'ati</h4>
             <p>Del Medio</p>
@@ -93,7 +93,7 @@ Si logras resolver el examen entrarás a un grupo de entrenamiento, dependiendo 
 
       <div class="col-md-4 mb-4 mb-md-0">
         <div class="card hover-shadow shadow">
-          <div class="card-body {% if service.active %}active-bg-primary{% endif %} text-center px-4 py-5">
+          <div class="card-body active-bg-primary text-center px-4 py-5">
             <img src="/assets/images/levels/ninja.png" height=50>
             <h4 class="mb-4">Míteti</h4>
             <p>Conocedor</p>
@@ -113,7 +113,7 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 
 <details>
 <summary>¿Qué conocimientos necesito para resolver el examen?</summary>
-<p align="center"> 
+<p> 
    Los primeros exámenes se resuelven usando <span style="color:green">ingenio</span> y <span style="color:orange">lógica</span> más que técnica.
    En el entrenamiento te daremos los conocimientos necesarios para resolver los exámenes de las siguientes fases.
 </p>
