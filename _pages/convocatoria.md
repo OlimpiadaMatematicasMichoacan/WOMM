@@ -25,11 +25,7 @@ En ambas fechas puedes escoger qué día haces el examen, y una vez que avanzas 
 <center>
 
 <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/signup.php?" class="btn btn btn-primary"><img src="assets/images/icons/signup.png" alt="" width="44" height="44"/>  Registro</a>
-<!--  
-<br><br>
-
-<a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php" class="btn btn btn-primary"><img src="assets/images/icons/login.png" alt="" width="44" height="44"/>  Ingreso</a> -->
-
+ 
 <br><br>
 
 <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/auth/oauth2/login.php?id=1&amp;wantsurl=%2F&amp;sesskey=PCMIfOnm5A" title="Google" class="btn btn-xs btn-primary">
@@ -37,6 +33,14 @@ En ambas fechas puedes escoger qué día haces el examen, y una vez que avanzas 
                                      Registro/Ingreso<br> <small>con Google</small>
                                 </a>
 
+</center>
+
+Si ya te registraste alguna vez (por ejemplo, al año pasado), no es necesario volver a llenar tus datos. Puedes ingresar a la plataforma de entrenamiento y aplicación de exámenes aquí:
+
+<center>
+<a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php" class="btn btn btn-primary"><img src="assets/images/icons/login.png" alt="" width="44" height="44"/>  Ingreso</a> 
+
+<br><br>
 </center>
 
 ### <span style="color:green"> Objetivo</span>
