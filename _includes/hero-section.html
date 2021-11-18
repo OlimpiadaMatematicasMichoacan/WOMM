@@ -1,164 +1,137 @@
 <!-- hero area -->
 
 <style>
+
 canvas {
   position: absolute;
   z-index: -1 !important;
 }
 
-.arrow {
-  box-sizing: border-box;
-  height: 2.5vw;
-  width: 2.5vw;
-  border-style: solid;
-  border-color: white;
-  border-width: 0px 2px 2px 0px;
-  transform: rotate(45deg);
-  transition: border-width 150ms ease-in-out;
-}
-
-.arrow:hover {
-  border-bottom-width: 4px;
-  border-right-width: 4px;
-}
-
-.arrow-container {
-  display: flex;
+.arrow a{
+  position: absolute;
   align-items: center;
-  justify-content: center;
-  padding-top: 5em;
+  left: 48.1%;
+  top: 80%;
+  transition: opacity .3s;
 }
-</style>
-
-
-<div id="full"></div>
-
-  <div id="sketch-holder"></div>
-  <section class="hero-area bg-primary-hero" id="element">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-11 mx-auto mt-0">
-          <h1 class="text-white font-tertiary">{{ site.data.settings.hero.hero-title }}</h1>
-        </div>
-      </div>
-      <div class="arrow-container">
-        <a data-scroll href="#about">
-          <div class="arrow"></div>
-        </a>
-      </div>
-    </div>
-  
-
-  
-    <!-- 
-    <div class="layer-bg w-100">
-      <img class="img-fluid w-100" src="{{ site.baseurl }}/assets/images/illustrations/leaf-bg.png" alt="bg-shape">
-    </div>
-    <div class="layer" id="l2">
-      <img src="{{ site.baseurl }}/assets/images/illustrations/dots-cyan.png" alt="bg-shape">
-    </div>
-    <div class="layer" id="l3">
-      <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-orange.png" alt="bg-shape">
-    </div>
-    <div class="layer" id="l4">
-      <img src="{{ site.baseurl }}/assets/images/illustrations/dots-orange.png" alt="bg-shape">
-    </div>
-    <div class="layer" id="l5">
-      <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-yellow.png" alt="bg-shape">
-    </div>
-    <div class="layer" id="l6">
-      <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-cyan.png" alt="bg-shape">
-    </div>
-    <div class="layer" id="l7">
-      <img src="{{ site.baseurl }}/assets/images/illustrations/dots-group-orange.png" alt="bg-shape">
-    </div>
-    <div class="layer" id="l8">
-      <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-pink-round.png" alt="bg-shape">
-    </div>
-    <div class="layer" id="l9">
-      <img src="{{ site.baseurl }}/assets/images/illustrations/leaf-cyan-2.png" alt="bg-shape">
-    </div>
-    -->
-    <!-- social icon  -->
-    
-    <ul class="list-unstyled ml-5 mt-3 py-5 position-relative zindex-1">
-      {% for social in site.data.settings.social %}
-      <li class="mb-4"><a class="text-white" href="{{ social.link }}"><i class="{{ social.icon }}"></i></a></li>
-      {% endfor %}
-    </ul>
-  </section>
-
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.min.js"></script>
-
-<script>
-
-let palette = ["#4464a1", "#56a1c4", "#ee726b", "#ffc5c7", "#fef9c6", "#df5f50", "#5a3034", "#f5b800", "#ffcc4d", "#4b8a5f", "#e590b8"];
-
-function setup() {
-	var canvas = createCanvas(windowWidth, windowHeight);
-  canvas.parent('sketch-holder');
-	noLoop();
-	noStroke();
+.arrow a:hover {
+  opacity: .5;
 }
 
-function windowResized() {
-  resizeCanvas(windowWidth, windowHeight);
+#type-one a {
+  padding-top: 60px;
+  color: #fff;
 }
-
-function draw() {
-	let s = width/5;
-	
-	for (let x = 0; x < width; x += s) {
-    for (let y = 0; y < height; y += s) {
-			if (random() < 1/2) {
-				makeTile(x, y, s/2);
-				makeTile(x+s/2, y, s/2);
-				makeTile(x, y+s/2, s/2);
-				makeTile(x+s/2, y+s/2, s/2);
-			} else {
-      	makeTile(x, y, s);
-			}
-		}
+#type-one a span {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: 24px;
+  height: 24px;
+  margin-left: -12px;
+  border-left: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  -webkit-animation: sdb04 2s infinite;
+  animation: sdb04 2s infinite;
+  box-sizing: border-box;
+}
+@-webkit-keyframes sdb04 {
+  0% {
+    -webkit-transform: rotate(-45deg) translate(0, 0);
+  }
+  20% {
+    -webkit-transform: rotate(-45deg) translate(-10px, 10px);
+  }
+  40% {
+    -webkit-transform: rotate(-45deg) translate(0, 0);
+  }
+}
+@keyframes sdb04 {
+  0% {
+    transform: rotate(-45deg) translate(0, 0);
+  }
+  20% {
+    transform: rotate(-45deg) translate(-10px, 10px);
+  }
+  40% {
+    transform: rotate(-45deg) translate(0, 0);
   }
 }
 
-function makeTile(x, y, s) {
-	shuffle(palette, true);
-	fill(palette[0]);
-	square(x, y, s);
-	push();
-	translate(x+s/2, y+s/2);
-	rotate(random([0, PI/2, PI, 3*PI/2]));
-	fill(palette[1]);
-	let r = floor(random(4));
-	if (r == 0) {
-		arc(-s/2, 0, s, s, -PI/2, PI/2);
-	} else if (r == 1) {
-		rect(-s/2, -s/2, s/2, s);
-	} else if (r == 2) {
-		triangle(-s/2, -s/2, s/2, -s/2, -s/2, s/2);
-	}
-	pop();
+#type-two a {
+  padding-top: 70px;
+  color: #fff;
 }
-</script>
+#type-two a span {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: 24px;
+  height: 24px;
+  margin-left: -12px;
+  border-left: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  -webkit-animation: sdb05 1.5s infinite;
+  animation: sdb05 1.5s infinite;
+  box-sizing: border-box;
+}
+@-webkit-keyframes sdb05 {
+  0% {
+    -webkit-transform: rotate(-45deg) translate(0, 0);
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    -webkit-transform: rotate(-45deg) translate(-20px, 20px);
+    opacity: 0;
+  }
+}
+@keyframes sdb05 {
+  0% {
+    transform: rotate(-45deg) translate(0, 0);
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    transform: rotate(-45deg) translate(-20px, 20px);
+    opacity: 0;
+  }
+}
+
+</style>
+
+<div id="sketch-holder"></div>
+
+<section class="hero-area bg-primary-hero" id="element">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-11 mx-auto mt-0">
+        <h1 class="text-white font-tertiary">{{ site.data.settings.hero.hero-title }}</h1>
+      </div>
+    </div>
+  </div>
+
+  <!-- social icon  -->
+
+  <div id="type-two" class="arrow">
+    <a href="#about"><span></span>aprende</a>
+  </div>
   
-  <!-- /hero area 
-  
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.waves.min.js"></script>
-  
-  <script>
-  VANTA.WAVES({
-    el: '#element',
-    mouseControls: true,
-    touchControls: true,
-    gyroControls: true,
-    scale: 1.00,
-    scaleMobile: 1.00,
-    waveSpeed: 0.90,
-    color: 0x733c8e,
-    zoom: 1.5
-  })
-  </script>
-   -->
+  <ul class="list-unstyled ml-5 mt-3 py-5 position-relative zindex-1">
+    {% for social in site.data.settings.social %}
+    <li class="mb-4"><a class="text-white" href="{{ social.link }}"><i class="{{ social.icon }}"></i></a></li>
+    {% endfor %}
+  </ul>
+    
+</section>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.min.js"></script>
+<script src="{{ '/assets/js/p5-background.js' | relative_url }}"></script>
