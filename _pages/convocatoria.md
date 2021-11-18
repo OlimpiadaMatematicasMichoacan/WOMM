@@ -48,7 +48,7 @@ Los grupos son:
 <!-- - <img src="/assets/images/levels/adult.png" height=35> Orhepati (hermano mayor) -->
 - <img src="/assets/images/levels/ninja.png" height=35> Míteti (conocedor)
 
-Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMMEB, femenil, etc.) se invitará al grupo Chuunin en adelante dentro de aquellas personas que puedan participar en dicho concurso a resolver un examen adicional para escoger a quienes representarán a Michoacán.
+Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMMEB, femenil, etc.) se invitará al grupo Teruk'ati en adelante dentro de aquellas personas que puedan participar en dicho concurso a resolver un examen adicional para escoger a quienes representarán a Michoacán.
 
 
 ### <span style="color:green">Preguntas frecuentes</span>
