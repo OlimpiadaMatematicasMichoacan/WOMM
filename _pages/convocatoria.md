@@ -86,7 +86,7 @@ Si logras resolver el examen entrarás a un grupo de entrenamiento, dependiendo 
         <div class="card-body active-bg-primary text-center px-4 py-5">
           <img src="/assets/images/levels/child.png" height=50> 
           <h4 class="mb-4">Teruk'ati</h4>
-          <p>Del Medio</p>
+          <p>Intermedio</p>
         </div>
       </div>
     </div>
