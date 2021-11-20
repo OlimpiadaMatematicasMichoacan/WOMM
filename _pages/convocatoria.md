@@ -65,44 +65,44 @@ Participar es absolutamente gratuito y, honestamente, muy divertido.
 
 Si logras resolver el examen entrarás a un grupo de entrenamiento, dependiendo de tu nivel de conocimientos. Periódicamente se aplicarán exámenes para avanzar de grupo.
 
- <div class="container">
-    <div class="row">
-      <div class="col-12 text-center">
-        <h3>Los grupos son:</h3>
-      </div>
-
-      <div class="col-md-4 mb-4 mb-md-0">
-        <div class="card hover-shadow shadow">
-          <div class="card-body active-bg-primary text-center px-4 py-5">
-            <img src="/assets/images/levels/baby.png" height=50> 
-            <h4 class="mb-4">Charhaku</h4>
-            <p>Bebé</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-md-4 mb-4 mb-md-0">
-        <div class="card hover-shadow shadow">
-          <div class="card-body active-bg-primary text-center px-4 py-5">
-            <img src="/assets/images/levels/child.png" height=50> 
-            <h4 class="mb-4">Teruk'ati</h4>
-            <p>Del Medio</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-md-4 mb-4 mb-md-0">
-        <div class="card hover-shadow shadow">
-          <div class="card-body active-bg-primary text-center px-4 py-5">
-            <img src="/assets/images/levels/ninja.png" height=50>
-            <h4 class="mb-4">Míteti</h4>
-            <p>Conocedor</p>
-          </div>
-        </div>
-      </div>
-
+<div class="container">
+  <div class="row">
+    <div class="col-12 text-center">
+      <h3>Los grupos son:</h3>
     </div>
+
+    <div class="col-md-4 mb-4 mb-md-0">
+      <div class="card hover-shadow shadow">
+        <div class="card-body active-bg-primary text-center px-4 py-5">
+          <img src="/assets/images/levels/baby.png" height=50> 
+          <h4 class="mb-4">Charhaku</h4>
+          <p>Bebé</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-4 mb-4 mb-md-0">
+      <div class="card hover-shadow shadow">
+        <div class="card-body active-bg-primary text-center px-4 py-5">
+          <img src="/assets/images/levels/child.png" height=50> 
+          <h4 class="mb-4">Teruk'ati</h4>
+          <p>Del Medio</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-md-4 mb-4 mb-md-0">
+      <div class="card hover-shadow shadow">
+        <div class="card-body active-bg-primary text-center px-4 py-5">
+          <img src="/assets/images/levels/ninja.png" height=50>
+          <h4 class="mb-4">Míteti</h4>
+          <p>Conocedor</p>
+        </div>
+      </div>
+    </div>
+    
   </div>
+</div>
 
 Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMMEB, femenil, etc.) se invitará al grupo Teruk'ati en adelante dentro de aquellas personas que puedan participar en dicho concurso a resolver un examen adicional para escoger a quienes representarán a Michoacán.
 
@@ -200,15 +200,23 @@ Cada año, participamos (o participaremos) en los siguientes concursos:
 
 <span style="color:blue">Nota: </span> Los grados escolares mencionados son al momento del concurso. A veces hay que necesariamente comenzar uno o más años anteriores a eso con el proceso estatal para poder clasificar. Entre antes, mejor.
 
-- <strong><span style="color:magenta">[Junio] </span></strong><span style="color:blue">Concurso Nacional OMMEB en sus 3 niveles: </span>
-- - <span style="color:green">OMMEB Nivel I</span>: 4° y 5° de primaria
-- - <span style="color:green">OMMEB Nivel II</span>: 6° de primaria y 1° de secundaria
-- - <span style="color:green">OMMEB Nivel III</span>: 2° de secundaria
-- <strong><span style="color:magenta">[Octubre] </span></strong><span style="color:blue">Olimpiada Regional de Matemáticas (región centro)</span>: 3° año de bachillerato (o equivalente, como 5° semestre).
-- <strong><span style="color:magenta">[Noviembre] </span></strong><span style="color:blue">Concurso Nacional OMM</span>: 3° año de bachillerato (o equivalente, como 5° semestre).
-- <strong><span style="color:magenta">[Enero-Febrero] </span></strong><span style="color:blue">Concurso Nacional Femenil OMM (temporal) </span> en sus 2 niveles:
-- - <span style="color:green">Femenil Nivel I</span>: hasta 1° año de bachillerato
-- - <span style="color:green">Femenil Nivel II</span>: hasta 3° año de bachillerato
+<strong><span style="color:magenta">[Junio] </span></strong><span style="color:blue">Concurso Nacional OMMEB en sus 3 niveles: </span>
+
+<ul>
+  <li><span style="color:green">OMMEB Nivel I</span>: 4° y 5° de primaria</li>
+  <li><span style="color:green">OMMEB Nivel II</span>: 6° de primaria y 1° de secundaria</li>
+  <li><span style="color:green">OMMEB Nivel III</span>: 2° de secundaria</li>
+</ul>
+
+<strong><span style="color:magenta">[Octubre] </span></strong><span style="color:blue">Olimpiada Regional de Matemáticas (región centro)</span>: 3° año de bachillerato (o equivalente, como 5° semestre).
+
+<strong><span style="color:magenta">[Noviembre] </span></strong><span style="color:blue">Concurso Nacional OMM</span>: 3° año de bachillerato (o equivalente, como 5° semestre).
+
+<strong><span style="color:magenta">[Enero-Febrero] </span></strong><span style="color:blue">Concurso Nacional Femenil OMM (temporal) </span> en sus 2 niveles:
+<ul>
+  <li><span style="color:green">Femenil Nivel I</span>: hasta 1° año de bachillerato</li>
+  <li><span style="color:green">Femenil Nivel II</span>: hasta 3° año de bachillerato</li>
+</ul>
 
 Para participar en cualquiera de estos concursos, <strong>deberás avanzar en uno de los dos concursos de entrada que se hacen al año en Michoacán</strong>, y posterioremente, a través de exámenes periódicos, avanzar a los grupos altos, y finalmente, realizar un examen de selección.
 </p>
