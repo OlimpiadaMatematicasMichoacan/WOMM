@@ -18,7 +18,7 @@ title: Convocatoria
 <img src="assets/images/icons/logo-1.png" class="center-img">
 El Comité Estatal de la Olimpiada de Matemáticas de Michoacán convoca a participar en la
 <h3> Olimpiada Michoacana de Matemáticas</h3>
-en todos sus niveles, participando en el <a href='https://registro.olimpiadamatematicasmichoacan.org:8443/course/view.php?id=8'>curso abierto de entrenamiento</a> y presentando el examen inicial.
+en todos sus niveles, asistiendo al <a href='https://registro.olimpiadamatematicasmichoacan.org:8443/course/view.php?id=8'>curso en línea de entrenamiento</a>, abierto para <strong>todo público</strong>, y presentando el examen inicial.
 </center>
 <br>
 
@@ -114,28 +114,27 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 <details>
 <summary>¿Qué conocimientos necesito para resolver el examen?</summary>
 <p> 
-   Los primeros exámenes se resuelven usando <span style="color:green">ingenio</span> y <span style="color:orange">lógica</span> más que técnica.
-   En el entrenamiento te daremos los conocimientos necesarios para resolver los exámenes de las siguientes fases.
+   Los primeros exámenes se resuelven usando <span style="color:green">ingenio</span> y <span style="color:orange">lógica</span> más que técnica. En el entrenamiento te daremos los conocimientos necesarios para resolver los exámenes de las siguientes fases.
 </p>
 </details>
 
 <details>
 <summary>¿Cuánto dura el examen inicial?</summary>
-<p align="center"> 
+<p> 
    Dependiendo del nivel, el examen durará entre 1 y 2 horas. Tú decides a qué hora iniciar y tu tiempo comienza a correr una vez iniciado. Te recomendamos apartar el tiempo suficiente para resolver el examen.
 </p>
 </details>
 
 <details>
 <summary>¿Qué documentos necesito presentar para participar?</summary>
-<p align="center"> 
+<p> 
    Puedes presentar el examen inicial sin presentar documentación. Si avanzas a la siguiente etapa, te pediremos algún documento que compruebe tu fecha de nacimiento y una constancia de inscripción en alguna escuela de Michoacán antes de poder emitir tu diploma.
 </p>
 </details>
 
 <details>
 <summary>¿Cuándo me avisarán y qué ocurrirá en caso de lograr avanzar a la siguiente etapa? </summary>
-<p align="center"> 
+<p> 
    Unos días después de que concluya el examen los resultados aparecerán en la misma página y te enviaremos un correo electrónico.
 
    Posteriormente recibirás en tu correo una liga de invitación a más entrenamientos y algunas actividades.
@@ -146,72 +145,57 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 
 <details>
 <summary>¿Es gratis participar?</summary>
-<p align="center"> 
+<p> 
    ¡Totalmente gratis!
 </p>
 </details>
 
 <details>
 <summary>¿Qué material puedo utilizar durante el examen?</summary>
-<p align="center"> 
+<p> 
    De material, puedes utilizar lápices, plumas, colores, hojas, regla y compás si quieres. No está permitido usar transportador ni calculadora, pero no te preocupes, el examen está diseñado para que no haya necesidad (ni beneficio) de usar una calculadora.
 
    El examen es individual y no se permite ayuda externa de ningún tipo. Idealmente, durante el examen no deberás tener comunicación con otras personas.
 </p>
 </details>
 
-<br>
-
-<!-- 
-
-
-##### ¿Qué conocimientos necesito para resolver el examen?
-Los primeros exámenes se resuelven usando <span style="color:green">ingenio</span> y <span style="color:orange">lógica</span> más que técnica.
-
-En el entrenamiento te daremos los conocimientos necesarios para resolver los exámenes de las siguientes fases.
-
-##### ¿Cuánto dura el examen inicial?
-Dependiendo del nivel, el examen durará entre 1 y 2 horas. Tú decides a qué hora iniciar y tu tiempo comienza a correr una vez iniciado. Te recomendamos apartar el tiempo suficiente para resolver el examen.
-
-##### ¿Qué documentos necesito presentar para participar?
-Puedes presentar el examen inicial sin presentar documentación. Si avanzas a la siguiente etapa, te pediremos algún documento que compruebe tu fecha de nacimiento y una constancia de inscripción en alguna escuela de Michoacán antes de poder emitir tu diploma.
-
-##### ¿Cuándo me avisarán y qué ocurrirá en caso de lograr avanzar a la siguiente etapa? 
-Unos días después de que concluya el examen los resultados aparecerán en la misma página y te enviaremos un correo electrónico.
-
-Posteriormente recibirás en tu correo una liga de invitación a más entrenamientos y algunas actividades.
-
-Además te enviaremos un diploma, una vez que recibamos tus documentos.
-
-##### ¿Es gratis participar?
-Sí.
-
-##### ¿Qué material puedo utilizar durante el examen?
-De material, puedes utilizar lápices, plumas, colores, hojas, regla y compás si quieres. No está permitido usar transportador ni calculadora, pero no te preocupes, el examen está diseñado para que no haya necesidad (ni beneficio) de usar una calculadora.
-
-El examen es individual y no se permite ayuda externa de ningún tipo. Idealmente, durante el examen no deberás tener comunicación con otras personas.
-
--->
-
-##### Muy bien, me convencieron. ¿Cómo me preparo para el examen inicial?
+<details>
+<summary>Muy bien, me convencieron. ¿Cómo me preparo para el examen inicial?</summary>
+<p>
 ¡Muy buena actitud! La recomendación es practicar resolviendo ejercicios. Al [registrarte](/registro), puedes hacer un exámenes de práctica (¡incluyen soluciones!) y un entrenamiento en video (con ejercicios) de algunos conceptos básicos. Aquí hay algunos [recursos para prepararte](/preparate).
+</p>
+</details>
 
-##### ¿Cuál es la diferencia de este año con los años anteriores?
-
+<details>
+<summary>
+¿Cuál es la diferencia de este año con los años anteriores?
+</summary>
+<p>
 En años anteriores veíamos a la Olimpiada de Matemáticas en "fases", donde había un examen al final de cada fase y se eliminaba a quienes obtenían menores puntajes en cada examen.
 
 A partir de ahora, a modo de experimento, pensaremos en la Olimpiada de Matemáticas (en Michoacán) de forma "continua": hay algunos exámenes para ingresar, y dependiendo de tus resultados y experiencia te acomodaremos uno de varios grupos de entrenamiento. Periódicamente habrá exámenes y otras oportunidades para avanzar a un grupo superior. Los que no avancen no serán "eliminados", simplemente no avanzarán al siguiente nivel en esa ocasión. Entrenaremos todo el año, y cuando tengamos que seleccionar a un grupo para que represenete a Michoacán en un examen nacional, tomaremos a quienes hayan tenido mejor desempeño durante los entrenamientos y exámenes selectivos.
 
 La Olimpiada acaba para ti cuando ya no queden más concursos en los que participe Michoacán en donde cumplas los requisitos para concursar.
 
-##### ¿Por qué el cambio?
+</p>
+</details>
 
+<details>
+<summary>
+¿Por qué el cambio?
+</summary>
+<p>
 Por muchas razones. Principalmente, queremos hacer énfasis en que todas las personas que participan en la Olimpiada son importantes para nosotros, y aunque la Olimpiada técnicamente es un concurso, el objetivo real es enseñar las matemáticas de manera divertida, creativa y lógica. Algo que no nos gustaba era que cuando alguien no avanzaba a la siguiente fase, ya no seguía entrenando y aprendiendo durante todo el periodo, así que cuando llegaba el año siguiente, ya había olvidado muchas cosas.
 
 Además, queremos que todo el mundo tenga acceso a los entrenamientos básicos.
+</p>
+</details>
 
-##### ¿En qué concursos externos participa Michoacán?
-
+<details>
+<summary>
+¿En qué concursos externos participa Michoacán?
+</summary>
+<p>
 Cada año, participamos (o participaremos) en los siguientes concursos:
 
 <span style="color:blue">Nota: </span> Los grados escolares mencionados son al momento del concurso. A veces hay que necesariamente comenzar uno o más años anteriores a eso con el proceso estatal para poder clasificar. Entre antes, mejor.
@@ -227,27 +211,40 @@ Cada año, participamos (o participaremos) en los siguientes concursos:
 - - <span style="color:green">Femenil Nivel II</span>: hasta 3° año de bachillerato
 
 Para participar en cualquiera de estos concursos, <strong>deberás avanzar en uno de los dos concursos de entrada que se hacen al año en Michoacán</strong>, y posterioremente, a través de exámenes periódicos, avanzar a los grupos altos, y finalmente, realizar un examen de selección.
+</p>
+</details>
 
+<details>
+<summary>
+Quiero ayudarles a hacerle difusión al evento. ¿Cómo?
+</summary>
+<p>
+¡Muchas gracias! Dirige a quien puedas a esta página. Muy pronto podrás encontrar aquí pósters e imágenes promocionales para enviar a tus contactos, familiares, etc.
+</p>
+</details>
 
-
-##### Quiero ayudarles a hacerle difusión al evento. ¿Cómo?
-
-¡Muchas gracias! En [esta liga](/poster) puedes encontrar propaganda para enviar a tus contactos, familiares, etc.
-
-##### Tengo otra duda.
+<details>
+<summary>
+Tengo otra duda.
+</summary>
+<p>
 Escríbenos a [olimpiada.omm@gmail.com](mailto:olimpiada.omm@gmail.com).
+</p>
+</details>
 
 <p> &nbsp; </p>
+#### ¡Ayúdanos a darle difusión al evento!
 
 <span style="color:blue">Somos una organización sin fines de lucro. Somos voluntarios interesados en aportar nuestro granito de arena a la educación matemática en Michoacán.</span>
 
 <span style="color:green">Las decisiones del jurado son inapelables.</span>
 
 
-### ¡Ayúdanos a darle difusión al evento!
 
-Puedes descargar e imprimir el [póster en formato pdf](assets/images/poster/poster.pdf).
+<!-- Apúnta a todos tus conocidos a la página. Muy pronto encontrarás aquí pósters e imágenes promocionales. -->
 
-O si prefieres enviar sólo una imagen rápida:
+<!-- Puedes descargar e imprimir el [póster en formato pdf](assets/images/poster/poster.pdf). -->
 
-<a href="assets/images/poster/poster.jpg"><img src="assets/images/poster/poster.jpg" alt="póster" width="100%"></a>
+<!-- O si prefieres enviar sólo una imagen rápida: -->
+
+<!-- <a href="assets/images/poster/poster.jpg"><img src="assets/images/poster/poster.jpg" alt="póster" width="100%"></a> -->
