@@ -20,12 +20,11 @@ El Comité Estatal de la Olimpiada de Matemáticas de Michoacán convoca a parti
 <h3> Olimpiada Michoacana de Matemáticas</h3>
 en todos sus niveles, asistiendo al <a class="text-info" data-toggle="modal" data-target="#loginModal">curso de entrenamiento</a> en línea, abierto para <strong>todo público</strong>, y presentando el <a class="text-info" data-toggle="modal" data-target="#loginModal">examen inicial</a>.
 </center>
-<br>
 
-Podrán participar estudiantes inscritos en cualquier institución de educación **pública** o **privada** del estado de Michoacán. Los exámenes iniciales están divididos en niveles que van <span style="color:green">desde 4° de primaria hasta 2° año de preparatoria</span> o equivalente. Cada año se aplicarán dos exámenes iniciales a todos los niveles.
+Podrán participar estudiantes inscritos en cualquier institución de educación **pública** o **privada** del estado de Michoacán. Los exámenes iniciales están divididos en niveles que van <span style="color:#00a000">desde 4° de primaria hasta 2° año de preparatoria</span> o equivalente. Cada año se aplicarán dos exámenes iniciales a todos los niveles.
 
-- <span style="color:green">Primera fecha:</span> 14, 15 y 16 de enero de 2022.
-- <span style="color:green">Segunda fecha:</span> mayo 2022. Fecha por confirmar.
+- <span style="color:#00a000">Primera fecha:</span> 14, 15 y 16 de enero de 2022.
+- <span style="color:#00a000">Segunda fecha:</span> mayo 2022. Fecha por confirmar.
 
 Si no avanzas en la primera fecha, puedes entrenar e intentarlo de nuevo en la segunda.
 
@@ -49,13 +48,13 @@ En ambas fechas puedes escoger qué día haces el examen, y una vez que avanzas 
 Si ya te registraste alguna vez (por ejemplo, al año pasado), no es necesario registrarte de nuevo y puedes <a class="text-info" href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">acceder a la plataforma</a>.
 
 
-### <span style="color:green"> Objetivo</span>
+### <span style="color:#00a000"> Objetivo</span>
 
 La Olimpiada de Matemáticas tiene como objetivo promover el aprendizaje de las matemáticas de una manera creativa, lógica y divertida.
 
 Existe la falsa creencia de que las matemáticas sólo le sirven a aquellos interesados en estudiar disciplinas que tradicionalmente se asocian con la ciencia e ingeniería, pero esto está muy alejado de la realidad. Todas las áreas del conocimiento, e incluso tu vida cotidiana, prosperarán con un poco más de razonamiento lógico, creatividad y pensamiento crítico. La Olimpiada de Matemáticas aspira a fortalecer estas habilidades en la sociedad.
 
-### <span style="color:green"> Proceso</span>
+### <span style="color:#00a000"> Proceso</span>
 
 ##### <strong><span style="color:red">Nota</span></strong>: Este año cambió considerablemente el proceso de la Olimpiada de Matemáticas con respecto a años anteriores.  
 
@@ -107,14 +106,14 @@ Si logras resolver el examen entrarás a un grupo de entrenamiento, dependiendo 
 Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMMEB, femenil, etc.) se invitará al grupo Teruk'ati en adelante dentro de aquellas personas que puedan participar en dicho concurso a resolver un examen adicional para escoger a quienes representarán a Michoacán.
 
 
-### <span style="color:green">Preguntas frecuentes</span>
+### <span style="color:#00a000">Preguntas frecuentes</span>
 
 <br>
 
 <details>
 <summary>¿Qué conocimientos necesito para resolver el examen?</summary>
 <p> 
-   Los primeros exámenes se resuelven usando <span style="color:green">ingenio</span> y <span style="color:orange">lógica</span> más que técnica. En el entrenamiento te daremos los conocimientos necesarios para resolver los exámenes de las siguientes fases.
+   Los primeros exámenes se resuelven usando <span style="color:#00a000">ingenio</span> y <span style="color:orange">lógica</span> más que técnica. En el entrenamiento te daremos los conocimientos necesarios para resolver los exámenes de las siguientes fases.
 </p>
 </details>
 
@@ -199,29 +198,29 @@ Además, queremos que todo el mundo tenga acceso a los entrenamientos básicos.
 Cada año, participamos (o participaremos) en los siguientes concursos:
 <br><br>
 
-<span style="color:blue">Nota: </span> Los grados escolares mencionados son al momento del concurso. A veces hay que necesariamente comenzar uno o más años anteriores a eso con el proceso estatal para poder clasificar. Entre antes, mejor.
+<span style="color:#aa00fb">Nota: </span> Los grados escolares mencionados son al momento del concurso. A veces hay que necesariamente comenzar uno o más años anteriores a eso con el proceso estatal para poder clasificar. Entre antes, mejor.
 
 <br><br>
 
-<strong><span style="color:magenta">[Junio] </span></strong><span style="color:blue">Concurso Nacional OMMEB en sus 3 niveles: </span>
+<strong><span style="color:#ff5522">[Junio] </span></strong><span style="color:#aa00fb">Concurso Nacional OMMEB en sus 3 niveles: </span>
 
 <ul>
-  <li><span style="color:green">OMMEB Nivel I</span>: 4° y 5° de primaria</li>
-  <li><span style="color:green">OMMEB Nivel II</span>: 6° de primaria y 1° de secundaria</li>
-  <li><span style="color:green">OMMEB Nivel III</span>: 2° de secundaria</li>
+  <li><span style="color:#00a000">OMMEB Nivel I</span>: 4° y 5° de primaria</li>
+  <li><span style="color:#00a000">OMMEB Nivel II</span>: 6° de primaria y 1° de secundaria</li>
+  <li><span style="color:#00a000">OMMEB Nivel III</span>: 2° de secundaria</li>
 </ul>
 <br><br>
 
-<strong><span style="color:magenta">[Octubre] </span></strong><span style="color:blue">Olimpiada Regional de Matemáticas (región centro)</span>: 3° año de bachillerato (o equivalente, como 5° semestre).
+<strong><span style="color:#ff5522">[Octubre] </span></strong><span style="color:#aa00fb">Olimpiada Regional de Matemáticas (región centro)</span>: 3° año de bachillerato (o equivalente, como 5° semestre).
 
 <br><br>
-<strong><span style="color:magenta">[Noviembre] </span></strong><span style="color:blue">Concurso Nacional OMM</span>: 3° año de bachillerato (o equivalente, como 5° semestre).
+<strong><span style="color:#ff5522">[Noviembre] </span></strong><span style="color:#aa00fb">Concurso Nacional OMM</span>: 3° año de bachillerato (o equivalente, como 5° semestre).
 
 <br><br>
-<strong><span style="color:magenta">[Enero-Febrero] </span></strong><span style="color:blue">Concurso Nacional Femenil OMM (temporal) </span> en sus 2 niveles:
+<strong><span style="color:#ff5522">[Enero-Febrero] </span></strong><span style="color:#aa00fb">Concurso Nacional Femenil OMM (temporal) </span> en sus 2 niveles:
 <ul>
-  <li><span style="color:green">Femenil Nivel I</span>: hasta 1° año de bachillerato</li>
-  <li><span style="color:green">Femenil Nivel II</span>: hasta 3° año de bachillerato</li>
+  <li><span style="color:#00a000">Femenil Nivel I</span>: hasta 1° año de bachillerato</li>
+  <li><span style="color:#00a000">Femenil Nivel II</span>: hasta 3° año de bachillerato</li>
 </ul>
 
 Para participar en cualquiera de estos concursos, <strong>deberás avanzar en uno de los dos concursos de entrada que se hacen al año en Michoacán</strong>, y posterioremente, a través de exámenes periódicos, avanzar a los grupos altos, y finalmente, realizar un examen de selección.
@@ -258,9 +257,9 @@ Escríbenos a <a class="text-info" href="mailto:olimpiada.omm@gmail.com">este co
 <p> &nbsp; </p>
 #### ¡Ayúdanos a darle difusión al evento!
 
-<span style="color:blue">Somos una organización sin fines de lucro. Somos voluntarios interesados en aportar nuestro granito de arena a la educación matemática en Michoacán.</span>
+<span style="color:#aa00fb">Somos una organización sin fines de lucro. Somos voluntarios interesados en aportar nuestro granito de arena a la educación matemática en Michoacán.</span>
 
-<span style="color:green">Las decisiones del jurado son inapelables.</span>
+<span style="color:#00a000">Las decisiones del jurado son inapelables.</span>
 
 
 

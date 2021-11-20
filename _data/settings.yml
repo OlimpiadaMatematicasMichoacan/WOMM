@@ -12,6 +12,7 @@ address: Morelia, Michoacán.
 copyright: "Designed by <a href='https://roicort.github.io'>Rodrigo Cortez</a> with <a href='/opensource'>OSS</a> <br> Made with ❤️ in Morelia <br> Copyright &copy; 2021"
 
 menu:
+- {name: Inicio, link: '/'}
 - {name: Acerca, link: '/acerca'}
 - {name: Convocatoria, link: '/convocatoria'}
 - {name: Prepárate, link: '/preparate'}

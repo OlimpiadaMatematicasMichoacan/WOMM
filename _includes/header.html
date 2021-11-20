@@ -15,20 +15,18 @@
 
     <div class="collapse navbar-collapse text-center" id="navigation">
       <ul class="navbar-nav ml-auto">
-        <li class="nav-item active">
-          <a class="nav-link" href="{{ site.baseurl }}/">Inicio</a>
-        </li>
+<!--         <li class="nav-item active"> -->
+<!--           <a class="nav-link" href="{{ site.baseurl }}/">Inicio</a> -->
+<!--         </li> -->
         {% for link in site.data.settings.menu %}
           <li class="nav-item {{ class }}">
             <a class="nav-link" href="{{ link.link }}">{{ link.name }}</a>
           </li>
         {% endfor %}
+        <li class="nav-item {{ class }}">
+            <a class="nav-link" data-toggle="modal" data-target="#loginModal">Acceso/Registro</a>
+          </li>
       </ul>
-
-
-      <!--Trigger-->
-    <a class="nav-link text-white" data-toggle="modal" data-target="#loginModal">ACCESO/REGISTRO</a> 
-
       
     </div>
   </nav>
@@ -49,7 +47,7 @@
       </br>
         <div class="d-flex flex-column text-center">
           <form>
-            <a class="btn btn-primary" href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php" role="button">Iniciar Sesión</a>
+            <a class="btn btn-primary" href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php" role="button">Iniciar sesión</a>
           </form>
         </br>
           <div class="text-center text-muted delimiter">o usa tu cuenta de Google para acceder o registrarte</div>

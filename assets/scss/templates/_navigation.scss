@@ -18,12 +18,14 @@
   .nav-item{
     .nav-link{
       font-family: $tertiary-font;
-      text-transform: uppercase;
+      font-variant: small-caps;
+      //text-transform: uppercase;
       padding: 15px;
     }
     &.active{
       font-weight: bold;
     }
+    
   }
 }
 
