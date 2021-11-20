@@ -156,6 +156,8 @@
 
 })(jQuery);
 
+/*
+
  window.watsonAssistantChatOptions = {
      integrationID: "b466c1b5-3d78-4c8b-9f6b-da2e0f708dbb", // The ID of this integration.
      region: "us-south", // The region your integration is hosted in.
@@ -167,3 +169,5 @@
    t.src="https://web-chat.global.assistant.watson.appdomain.cloud/loadWatsonAssistantChat.js";
    document.head.appendChild(t);
  });
+
+ */
