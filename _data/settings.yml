@@ -19,8 +19,6 @@ menu:
 #- {name: Noticias, link: '/noticias'}
 #- {name: Resultados, link: '/resultados'}
 #- {name: Registro, link: '/registro'}
-- {name: Acceso a plataforma, link: 'https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php'}
-
 
 #-------------------------------
 # Google Analytics Section
