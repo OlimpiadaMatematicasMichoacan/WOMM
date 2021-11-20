@@ -236,7 +236,7 @@ Quiero ayudarles a hacerle difusión al evento. ¿Cómo?
 Tengo otra duda.
 </summary>
 <p>
-Escríbenos a [olimpiada.omm@gmail.com](mailto:olimpiada.omm@gmail.com).
+Escríbenos a <a href="mailto:olimpiada.omm@gmail.com">este correo<a>
 </p>
 </details>
 
