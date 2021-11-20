@@ -146,7 +146,7 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 <details>
 <summary>¿Es gratis participar?</summary>
 <p> 
-   ¡Totalmente gratis!
+   ¡Totalmente gratis! Tanto <a href=''>presentar el examen</a> como el <a href='https://registro.olimpiadamatematicasmichoacan.org:8443/course/view.php?id=8'>curso en línea de entrenamiento</a>
 </p>
 </details>
 
@@ -197,8 +197,11 @@ Además, queremos que todo el mundo tenga acceso a los entrenamientos básicos.
 </summary>
 <p>
 Cada año, participamos (o participaremos) en los siguientes concursos:
+<br><br>
 
 <span style="color:blue">Nota: </span> Los grados escolares mencionados son al momento del concurso. A veces hay que necesariamente comenzar uno o más años anteriores a eso con el proceso estatal para poder clasificar. Entre antes, mejor.
+
+<br><br>
 
 <strong><span style="color:magenta">[Junio] </span></strong><span style="color:blue">Concurso Nacional OMMEB en sus 3 niveles: </span>
 
@@ -207,11 +210,14 @@ Cada año, participamos (o participaremos) en los siguientes concursos:
   <li><span style="color:green">OMMEB Nivel II</span>: 6° de primaria y 1° de secundaria</li>
   <li><span style="color:green">OMMEB Nivel III</span>: 2° de secundaria</li>
 </ul>
+<br><br>
 
 <strong><span style="color:magenta">[Octubre] </span></strong><span style="color:blue">Olimpiada Regional de Matemáticas (región centro)</span>: 3° año de bachillerato (o equivalente, como 5° semestre).
 
+<br><br>
 <strong><span style="color:magenta">[Noviembre] </span></strong><span style="color:blue">Concurso Nacional OMM</span>: 3° año de bachillerato (o equivalente, como 5° semestre).
 
+<br><br>
 <strong><span style="color:magenta">[Enero-Febrero] </span></strong><span style="color:blue">Concurso Nacional Femenil OMM (temporal) </span> en sus 2 niveles:
 <ul>
   <li><span style="color:green">Femenil Nivel I</span>: hasta 1° año de bachillerato</li>
