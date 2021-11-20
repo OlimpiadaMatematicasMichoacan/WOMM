@@ -18,7 +18,7 @@ title: Convocatoria
 <img src="assets/images/icons/logo-1.png" class="center-img">
 El Comité Estatal de la Olimpiada de Matemáticas de Michoacán convoca a participar en la
 <h3> Olimpiada Michoacana de Matemáticas</h3>
-en todos sus niveles, asistiendo al <a class="nav-link text-white" data-toggle="modal" data-target="#loginModal">curso de entrenamiento</a> en línea, abierto para <strong>todo público</strong>, y presentando el <a class="nav-link text-white" data-toggle="modal" data-target="#loginModal">examen inicial</a>.
+en todos sus niveles, asistiendo al <a data-toggle="modal" data-target="#loginModal">curso de entrenamiento</a> en línea, abierto para <strong>todo público</strong>, y presentando el <a data-toggle="modal" data-target="#loginModal">examen inicial</a>.
 </center>
 <br>
 
@@ -242,7 +242,7 @@ Quiero ayudarles a hacerle difusión al evento. ¿Cómo?
 Soy profe de matemáticas. ¿Cómo puedo entrenar a mis estudiantes?
 </summary>
 <p>
-Primero que nada, ¡muchísimas gracias por el interés en la Olimpiada! En la Olimpiada agradecemos mucho la labor de quienes enseñan matemáticas. Te recomendamos <a class="nav-link text-white" data-toggle="modal" data-target="#loginModal">registrarte</a> en la plataforma, pues hay opción de registro para profes también. Podrías, por ejemplo, ayudar a estudiantes a avanzar en el curso de entrenamiento, aplicar los exámenes ahí descritos y ayudarles a comprender la solución, etcétera. En la sección de <a href="/preparate">prepárate</a> también hay material.
+Primero que nada, ¡muchísimas gracias por el interés en la Olimpiada! En la Olimpiada agradecemos mucho la labor de quienes enseñan matemáticas. Te recomendamos <a data-toggle="modal" data-target="#loginModal">registrarte</a> en la plataforma, pues hay opción de registro para profes también. Podrías, por ejemplo, ayudar a estudiantes a avanzar en el curso de entrenamiento, aplicar los exámenes ahí descritos y ayudarles a comprender la solución, etcétera. En la sección de <a href="/preparate">prepárate</a> también hay material.
 </p>
 </details>
 
