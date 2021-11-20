@@ -18,7 +18,7 @@ title: Convocatoria
 <img src="assets/images/icons/logo-1.png" class="center-img">
 El Comité Estatal de la Olimpiada de Matemáticas de Michoacán convoca a participar en la
 <h3> Olimpiada Michoacana de Matemáticas</h3>
-en todos sus niveles, asistiendo al <a href='https://registro.olimpiadamatematicasmichoacan.org:8443/course/view.php?id=8'>curso de entrenamiento</a> en línea, abierto para <strong>todo público</strong>, y presentando el examen inicial.
+en todos sus niveles, asistiendo al <a href='https://registro.olimpiadamatematicasmichoacan.org:8443/course/view.php?id=8'>curso de entrenamiento</a> en línea, abierto para <strong>todo público</strong>, y presentando el <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/course/view.php?id=7">examen inicial</a>.
 </center>
 <br>
 
