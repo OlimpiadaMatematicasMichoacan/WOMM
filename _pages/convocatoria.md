@@ -136,9 +136,9 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 <summary>¿Cuándo me avisarán y qué ocurrirá en caso de lograr avanzar a la siguiente etapa? </summary>
 <p> 
    Unos días después de que concluya el examen los resultados aparecerán en la misma página y te enviaremos un correo electrónico.
-
+</p><p>
    Posteriormente recibirás en tu correo una liga de invitación a más entrenamientos y algunas actividades.
-
+</p><p>
    Además te enviaremos un diploma, una vez que recibamos tus documentos.
 </p>
 </details>
@@ -154,7 +154,7 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 <summary>¿Qué material puedo utilizar durante el examen?</summary>
 <p> 
    De material, puedes utilizar lápices, plumas, colores, hojas, regla y compás si quieres. No está permitido usar transportador ni calculadora, pero no te preocupes, el examen está diseñado para que no haya necesidad (ni beneficio) de usar una calculadora.
-
+</p><p>
    El examen es individual y no se permite ayuda externa de ningún tipo. Idealmente, durante el examen no deberás tener comunicación con otras personas.
 </p>
 </details>
@@ -172,11 +172,10 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 </summary>
 <p>
 En años anteriores veíamos a la Olimpiada de Matemáticas en "fases", donde había un examen al final de cada fase y se eliminaba a quienes obtenían menores puntajes en cada examen.
-
+</p><p>
 A partir de ahora, a modo de experimento, pensaremos en la Olimpiada de Matemáticas (en Michoacán) de forma "continua": hay algunos exámenes para ingresar, y dependiendo de tus resultados y experiencia te acomodaremos uno de varios grupos de entrenamiento. Periódicamente habrá exámenes y otras oportunidades para avanzar a un grupo superior. Los que no avancen no serán "eliminados", simplemente no avanzarán al siguiente nivel en esa ocasión. Entrenaremos todo el año, y cuando tengamos que seleccionar a un grupo para que represenete a Michoacán en un examen nacional, tomaremos a quienes hayan tenido mejor desempeño durante los entrenamientos y exámenes selectivos.
-
+</p><p>
 La Olimpiada acaba para ti cuando ya no queden más concursos en los que participe Michoacán en donde cumplas los requisitos para concursar.
-
 </p>
 </details>
 
@@ -186,7 +185,7 @@ La Olimpiada acaba para ti cuando ya no queden más concursos en los que partici
 </summary>
 <p>
 Por muchas razones. Principalmente, queremos hacer énfasis en que todas las personas que participan en la Olimpiada son importantes para nosotros, y aunque la Olimpiada técnicamente es un concurso, el objetivo real es enseñar las matemáticas de manera divertida, creativa y lógica. Algo que no nos gustaba era que cuando alguien no avanzaba a la siguiente fase, ya no seguía entrenando y aprendiendo durante todo el periodo, así que cuando llegaba el año siguiente, ya había olvidado muchas cosas.
-
+</p><p>
 Además, queremos que todo el mundo tenga acceso a los entrenamientos básicos.
 </p>
 </details>
