@@ -155,7 +155,7 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 <details>
 <summary>¿Es gratis participar?</summary>
 <p> 
-   ¡Totalmente gratis! Tanto <a class="text-info" href=''>presentar el examen</a> como el <a class="text-info" href='https://registro.olimpiadamatematicasmichoacan.org:8443/course/view.php?id=8'>curso en línea de entrenamiento</a>
+   ¡Totalmente gratis! Tanto <a class="text-info" data-toggle="modal" data-target="#loginModal">presentar el examen</a> como el <a class="text-info" data-toggle="modal" data-target="#loginModal">curso en línea de entrenamiento</a>
 </p>
 </details>
 
