@@ -162,7 +162,7 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 <details>
 <summary>Muy bien, me convencieron. ¿Cómo me preparo para el examen inicial?</summary>
 <p>
-¡Muy buena actitud! La recomendación es practicar resolviendo ejercicios. Al [registrarte](/registro), puedes hacer un exámenes de práctica (¡incluyen soluciones!) y un entrenamiento en video (con ejercicios) de algunos conceptos básicos. Aquí hay algunos [recursos para prepararte](/preparate).
+¡Muy buena actitud! La recomendación es practicar resolviendo ejercicios. Al <a href="/registro">registrarte<a>, puedes hacer un exámenes de práctica (¡incluyen soluciones!) y un entrenamiento en video (con ejercicios) de algunos conceptos básicos. Aquí hay algunos <a href="/preparate">recursos para prepararte<a>
 </p>
 </details>
 
