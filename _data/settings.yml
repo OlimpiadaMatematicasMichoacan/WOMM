@@ -321,8 +321,8 @@ client-slider-items:
   - logo: "assets/images/clients-logo/smm.png" #Important!
     url: "https://www.smm.org.mx" #Se necesita esta cantidad de Logos para que funcione el carrousel.
     
- - logo: "assets/images/clients-logo/enes.png"
-   url: "https://www.enesmorelia.unam.mx"
+ # - logo: "assets/images/clients-logo/enes.png"
+ #   url: "https://www.enesmorelia.unam.mx"
     
  # - logo: "assets/images/clients-logo/unam.png"
  #   url: "https://www.unam.mx"
@@ -333,8 +333,8 @@ client-slider-items:
   - logo: "assets/images/clients-logo/canguro.png"
     url: "#"
     
-  - logo: "assets/images/clients-logo/enes.png"
-   url: "https://www.enesmorelia.unam.mx"
+  #- logo: "assets/images/clients-logo/enes.png"
+  #  url: "https://www.enesmorelia.unam.mx"
     
   - logo: "assets/images/clients-logo/ccm.png"
     url: "https://www.matmor.unam.mx"
