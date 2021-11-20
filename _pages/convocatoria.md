@@ -46,7 +46,7 @@ En ambas fechas puedes escoger qué día haces el examen, y una vez que avanzas 
 
 </center>
 
-Si ya te registraste alguna vez (por ejemplo, al año pasado), no es necesario registrarte de nuevo y puedes <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">acceder a la plataforma</a>.
+Si ya te registraste alguna vez (por ejemplo, al año pasado), no es necesario registrarte de nuevo y puedes <a class="text-info" href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">acceder a la plataforma</a>.
 
 
 ### <span style="color:green"> Objetivo</span>
@@ -59,7 +59,7 @@ Existe la falsa creencia de que las matemáticas sólo le sirven a aquellos inte
 
 ##### <strong><span style="color:red">Nota</span></strong>: Este año cambió considerablemente el proceso de la Olimpiada de Matemáticas con respecto a años anteriores.  
 
-Para participar en la Olimpiada de Matemáticas en Michoacán, deberás resolver un examen sencillo, con preguntas de ingenio. Te recomendamos [prepararte](/preparate) resolviendo ejercicios, acertijos, viendo videos, etc. 
+Para participar en la Olimpiada de Matemáticas en Michoacán, deberás resolver un examen sencillo, con preguntas de ingenio. Te recomendamos <a class="text-info" href="/preparate">prepararte</a> resolviendo ejercicios, acertijos, viendo videos, etc. 
 
 Participar es absolutamente gratuito y, honestamente, muy divertido.
 
@@ -155,7 +155,7 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 <details>
 <summary>¿Es gratis participar?</summary>
 <p> 
-   ¡Totalmente gratis! Tanto <a href=''>presentar el examen</a> como el <a href='https://registro.olimpiadamatematicasmichoacan.org:8443/course/view.php?id=8'>curso en línea de entrenamiento</a>
+   ¡Totalmente gratis! Tanto <a href=''>presentar el examen</a> como el <a class="text-info" href='https://registro.olimpiadamatematicasmichoacan.org:8443/course/view.php?id=8'>curso en línea de entrenamiento</a>
 </p>
 </details>
 
@@ -163,7 +163,7 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 <details>
 <summary>Muy bien, me convencieron. ¿Cómo me preparo para el examen inicial?</summary>
 <p>
-¡Muy buena actitud! La recomendación es practicar resolviendo ejercicios. Al <a href="/registro">registrarte</a>, puedes hacer un exámenes de práctica (¡incluyen soluciones!) y un entrenamiento en video (con ejercicios) de algunos conceptos básicos. Aquí hay algunos <a href="/preparate">recursos para prepararte</a>
+¡Muy buena actitud! La recomendación es practicar resolviendo ejercicios. Al <a class="text-info" href="/registro">registrarte</a>, puedes hacer un exámenes de práctica (¡incluyen soluciones!) y un entrenamiento en video (con ejercicios) de algunos conceptos básicos. Aquí hay algunos <a class="text-info" href="/preparate">recursos para prepararte</a>
 </p>
 </details>
 
@@ -242,7 +242,7 @@ Quiero ayudarles a hacerle difusión al evento. ¿Cómo?
 Soy profe de matemáticas. ¿Cómo puedo entrenar a mis estudiantes?
 </summary>
 <p>
-Primero que nada, ¡muchísimas gracias por el interés en la Olimpiada! En la Olimpiada agradecemos mucho la labor de quienes enseñan matemáticas. Te recomendamos <a class="text-info" data-toggle="modal" data-target="#loginModal">registrarte</a> en la plataforma, pues hay opción de registro para profes también. Podrías, por ejemplo, ayudar a estudiantes a avanzar en el curso de entrenamiento, aplicar los exámenes ahí descritos y ayudarles a comprender la solución, etcétera. En la sección de <a href="/preparate">prepárate</a> también hay material.
+Primero que nada, ¡muchísimas gracias por el interés en la Olimpiada! En la Olimpiada agradecemos mucho la labor de quienes enseñan matemáticas. Te recomendamos <a class="text-info" data-toggle="modal" data-target="#loginModal">registrarte</a> en la plataforma, pues hay opción de registro para profes también. Podrías, por ejemplo, ayudar a estudiantes a avanzar en el curso de entrenamiento, aplicar los exámenes ahí descritos y ayudarles a comprender la solución, etcétera. En la sección de <a class="text-info" href="/preparate">prepárate</a> también hay material.
 </p>
 </details>
 
@@ -251,7 +251,7 @@ Primero que nada, ¡muchísimas gracias por el interés en la Olimpiada! En la O
 Tengo otra duda.
 </summary>
 <p>
-Escríbenos a <a href="mailto:olimpiada.omm@gmail.com">este correo</a>
+Escríbenos a <a class="text-info" href="mailto:olimpiada.omm@gmail.com">este correo</a>
 </p>
 </details>
 
