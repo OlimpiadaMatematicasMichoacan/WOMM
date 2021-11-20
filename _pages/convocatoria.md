@@ -242,7 +242,7 @@ Quiero ayudarles a hacerle difusión al evento. ¿Cómo?
 Soy profe de matemáticas. ¿Cómo puedo entrenar a mis estudiantes?
 </summary>
 <p>
-Primero que nada, ¡muchísimas gracias por el interés en la Olimpiada! En la Olimpiada agradecemos mucho la labor de quienes enseñan matemáticas. Te recomendamos <a data-toggle="modal" data-target="#loginModal">registrarte</a> en la plataforma, pues hay opción de registro para profes también. Podrías, por ejemplo, ayudar a estudiantes a avanzar en el curso de entrenamiento, aplicar los exámenes ahí descritos y ayudarles a comprender la solución, etcétera. En la sección de <a href="/preparate">prepárate</a> también hay material.
+Primero que nada, ¡muchísimas gracias por el interés en la Olimpiada! En la Olimpiada agradecemos mucho la labor de quienes enseñan matemáticas. Te recomendamos <a class="nav-link text-white" data-toggle="modal" data-target="#loginModal">registrarte</a> en la plataforma, pues hay opción de registro para profes también. Podrías, por ejemplo, ayudar a estudiantes a avanzar en el curso de entrenamiento, aplicar los exámenes ahí descritos y ayudarles a comprender la solución, etcétera. En la sección de <a href="/preparate">prepárate</a> también hay material.
 </p>
 </details>
 
