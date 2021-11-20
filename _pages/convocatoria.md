@@ -18,7 +18,7 @@ title: Convocatoria
 <img src="assets/images/icons/logo-1.png" class="center-img">
 El Comité Estatal de la Olimpiada de Matemáticas de Michoacán convoca a participar en la
 <h3> Olimpiada Michoacana de Matemáticas</h3>
-en todos sus niveles, asistiendo al <a href='https://registro.olimpiadamatematicasmichoacan.org:8443/course/view.php?id=8'>curso de entrenamiento</a> en línea, abierto para <strong>todo público</strong>, y presentando el <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/course/view.php?id=7">examen inicial</a>.
+en todos sus niveles, asistiendo al <a class="nav-link text-white" data-toggle="modal" data-target="#loginModal">curso de entrenamiento</a> en línea, abierto para <strong>todo público</strong>, y presentando el <a class="nav-link text-white" data-toggle="modal" data-target="#loginModal">examen inicial</a>.
 </center>
 <br>
 
@@ -144,13 +144,6 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 </details>
 
 <details>
-<summary>¿Es gratis participar?</summary>
-<p> 
-   ¡Totalmente gratis! Tanto <a href=''>presentar el examen</a> como el <a href='https://registro.olimpiadamatematicasmichoacan.org:8443/course/view.php?id=8'>curso en línea de entrenamiento</a>
-</p>
-</details>
-
-<details>
 <summary>¿Qué material puedo utilizar durante el examen?</summary>
 <p> 
    De material, puedes utilizar lápices, plumas, colores, hojas, regla y compás si quieres. No está permitido usar transportador ni calculadora, pero no te preocupes, el examen está diseñado para que no haya necesidad (ni beneficio) de usar una calculadora.
@@ -158,6 +151,14 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
    El examen es individual y no se permite ayuda externa de ningún tipo. Idealmente, durante el examen no deberás tener comunicación con otras personas.
 </p>
 </details>
+
+<details>
+<summary>¿Es gratis participar?</summary>
+<p> 
+   ¡Totalmente gratis! Tanto <a href=''>presentar el examen</a> como el <a href='https://registro.olimpiadamatematicasmichoacan.org:8443/course/view.php?id=8'>curso en línea de entrenamiento</a>
+</p>
+</details>
+
 
 <details>
 <summary>Muy bien, me convencieron. ¿Cómo me preparo para el examen inicial?</summary>
@@ -233,6 +234,15 @@ Quiero ayudarles a hacerle difusión al evento. ¿Cómo?
 </summary>
 <p>
 ¡Muchas gracias! Dirige a quien puedas a esta página. Muy pronto podrás encontrar aquí pósters e imágenes promocionales para enviar a tus contactos, familiares, etc.
+</p>
+</details>
+
+<details>
+<summary>
+Soy profe de matemáticas. ¿Cómo puedo entrenar a mis estudiantes?
+</summary>
+<p>
+Primero que nada, ¡muchísimas gracias por el interés en la Olimpiada! En la Olimpiada agradecemos mucho la labor de quienes enseñan matemáticas. Te recomendamos <a class="nav-link text-white" data-toggle="modal" data-target="#loginModal">registrarte</a> en la plataforma, pues hay opción de registro para profes también. Podrías, por ejemplo, ayudar a estudiantes a avanzar en el curso de entrenamiento, aplicar los exámenes ahí descritos y ayudarles a comprender la solución, etcétera. En la sección de <a href="/preparate">prepárate</a> también hay material.
 </p>
 </details>
 
