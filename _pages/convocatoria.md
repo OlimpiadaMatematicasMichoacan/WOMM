@@ -36,12 +36,12 @@ En ambas fechas puedes escoger qué día haces el examen, y una vez que avanzas 
 
 <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/signup.php?" title="Registro" class="btn btn btn-primary"><img src="assets/images/icons/signup.png" alt="" width="34" height="34"/>  Registro</a>
  
-<br><br>
+<!--<br><br>
 
 <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/auth/oauth2/login.php?id=1&amp;wantsurl=%2F&amp;sesskey=PCMIfOnm5A" title="Google" class="btn btn-xs btn-primary">
                                         <img src="https://accounts.google.com/favicon.ico" alt="" width="34" height="34"/>
                                      Registro/Acceso<br> <small>con Google</small>
-                                </a>
+                                </a>-->
 
 </center>
 

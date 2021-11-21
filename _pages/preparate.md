@@ -12,15 +12,15 @@ Resolver muchos problemas, cada vez más difíciles, es la mejor manera de entre
 Aquí encontrarás algunos materiales que puedes usar para prepararte para el examen, o, si eres profesor, ayudar a tus alumnos a prepararse. No dudes en [contactarnos](mailto:olimpiada.omm@gmail.com) con cualquier duda.
 
 ### Recursos en línea: Michoacán
-Si es la primera vez que participas en las olimpiadas, te recomendamos [registrarte](/registro) en el sistema de entrenamiento. Al registrarte, quedarás automáticamente inscrito en un <span style="color:red">curso</span> de preparación, en donde podrás resolver los exámenes de práctica, para familiarizarte con este tipo de problemas. ¡Incluye respuestas y soluciones! Vienen exámenes de práctica, así como exámenes iniciales del año anterior que puedes resolver para practicar.
+Si es la primera vez que participas en las olimpiadas, te recomendamos [registrarte](https://registro.olimpiadamatematicasmichoacan.org:8443/login/signup.php?) en el sistema de entrenamiento. Al registrarte, quedarás automáticamente inscrito en un <span style="color:red">curso</span> de preparación, en donde podrás resolver los exámenes de práctica, para familiarizarte con este tipo de problemas. ¡Incluye respuestas y soluciones! Vienen exámenes de práctica, así como exámenes iniciales del año anterior que puedes resolver para practicar.
 
 Posteriormente, en el curso hay varias lecciones en video (acompañados de ejercicios y problemas) que enseñan algunos conceptos básicos que podrían ayudarte a pensar mejor.
 
-<center><a href="https://registro.olimpiadamatematicasmichoacan.org:8443/course/view.php?id=8" class="btn btn-xs btn-primary">Accede al curso aquí</a></center>
+<center><a href="https://registro.olimpiadamatematicasmichoacan.org:8443/course/view.php?id=8" class="btn btn-xs btn-primary">Acceder al Curso</a></center>
 
-Al avanzar en el proceso de la Olimpiada, podrás acceder a entrenamientos y materiales más avanzados.
+Al avanzar en el proceso de la Olimpiada, tendrás acceso a entrenamientos y materiales más avanzados.
 
-Esperamos que este año podamos organizar algunos entrenamientos presenciales en algunas localidades de Michoacán. Más información al respecto se enviará al correo de quienes avancen en los exámenes iniciales. Pero siempre puedes juntarte con tus amistades, familiares, profes, etc. para revisar juntos los entrenamientos. ¡Es más divertido resolver problemas con otras personas!
+Esperamos que este año podamos organizar algunos entrenamientos presenciales en algunas localidades de Michoacán. Más información al respecto se enviará al correo de quienes califiquen en los exámenes iniciales. Por mientras, puedes ponerte de acuerdo con tus amistades, familiares, profes, etc. para revisar juntos los entrenamientos. ¡Es más divertido resolver problemas con otras personas!
 
 ### Recursos Externos
 <div class="p-3 mb-5 bg-white rounded">
