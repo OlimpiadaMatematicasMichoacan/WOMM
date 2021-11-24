@@ -52,7 +52,7 @@ Si ya te registraste alguna vez (por ejemplo, al año pasado), no es necesario r
 
 La Olimpiada de Matemáticas tiene como objetivo promover el aprendizaje de las matemáticas de una manera creativa, lógica y divertida.
 
-Existe la falsa creencia de que las matemáticas sólo le sirven a aquellos interesados en estudiar disciplinas que tradicionalmente se asocian con la ciencia e ingeniería, pero esto está muy alejado de la realidad. Todas las áreas del conocimiento, e incluso tu vida cotidiana, prosperarán con un poco más de razonamiento lógico, creatividad y pensamiento crítico. La Olimpiada de Matemáticas aspira a fortalecer estas habilidades en la sociedad.
+Existe la falsa creencia de que las matemáticas sólo le sirven a personas interesadas en estudiar disciplinas que tradicionalmente se asocian con la ciencia e ingeniería, pero esto está muy alejado de la realidad. Todas las áreas del conocimiento, e incluso tu vida cotidiana, prosperarán con un poco más de razonamiento lógico, creatividad y pensamiento crítico. La Olimpiada de Matemáticas aspira a fortalecer estas habilidades en la sociedad.
 
 ### <span style="color:#00a000"> Proceso</span>
 
@@ -75,7 +75,7 @@ Si logras resolver el examen entrarás a un grupo de entrenamiento, dependiendo 
         <div class="card-body active-bg-primary text-center px-4 py-5">
           <img src="/assets/images/levels/baby.png" height=50> 
           <h4 class="mb-4">Charhaku</h4>
-          <p>Bebé</p>
+          <p>Inicial</p>
         </div>
       </div>
     </div>
@@ -95,7 +95,7 @@ Si logras resolver el examen entrarás a un grupo de entrenamiento, dependiendo 
         <div class="card-body active-bg-primary text-center px-4 py-5">
           <img src="/assets/images/levels/ninja.png" height=50>
           <h4 class="mb-4">Míteti</h4>
-          <p>Conocedor</p>
+          <p>Avanzado</p>
         </div>
       </div>
     </div>
