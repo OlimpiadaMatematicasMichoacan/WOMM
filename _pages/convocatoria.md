@@ -238,10 +238,19 @@ Quiero ayudarles a hacerle difusión al evento. ¿Cómo?
 
 <details>
 <summary>
+Soy profe o trabajo en una escuela. ¿Cómo puede participar mi escuela/grupo?
+</summary>
+<p>
+Primero que nada, ¡muchísimas gracias por el interés en la Olimpiada! Y claro, te alentamos a organizar a todos los grupos a presentar el examen en la misma escuela, de ser viable, el viernes 14 de enero en cualquier horario. Habrá reconocimientos para escuelas con participación destacada.
+</p>
+</details>
+
+<details>
+<summary>
 Soy profe de matemáticas. ¿Cómo puedo entrenar a mis estudiantes?
 </summary>
 <p>
-Primero que nada, ¡muchísimas gracias por el interés en la Olimpiada! En la Olimpiada agradecemos mucho la labor de quienes enseñan matemáticas. Te recomendamos <a class="text-info" data-toggle="modal" data-target="#loginModal">registrarte</a> en la plataforma, pues hay opción de registro para profes también. Podrías, por ejemplo, ayudar a estudiantes a avanzar en el curso de entrenamiento, aplicar los exámenes ahí descritos y ayudarles a comprender la solución, etcétera. En la sección de <a class="text-info" href="/preparate">prepárate</a> también hay material.
+¡Muchísimas gracias! Realmente agradecemos mucho tu labor. Te recomendamos <a class="text-info" data-toggle="modal" data-target="#loginModal">registrarte</a> en la plataforma, pues hay opción de registro para profes también, y revisar el curso de entrenamiento abierto. Podrías, por ejemplo, ayudar a estudiantes a avanzar en dicho curso, aplicar a modo de práctica los exámenes ahí descritos y ayudar a estudiantes a comprender la solución, alentar a que vean los videos juntos y resolver sus dudas. En la sección de <a class="text-info" href="/preparate">prepárate</a> hay aún más material.
 </p>
 </details>
 
