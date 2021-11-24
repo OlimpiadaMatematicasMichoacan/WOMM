@@ -266,7 +266,7 @@ Escríbenos a <a class="text-info" href="mailto:olimpiada.omm@gmail.com">este co
 <p> &nbsp; </p>
 #### ¡Ayúdanos a darle difusión al evento!
 
-<span style="color:#aa00fb">Somos una organización sin fines de lucro. Somos voluntarios interesados en aportar nuestro granito de arena a la educación matemática en Michoacán.</span>
+<span style="color:#aa00fb">Somos una organización sin fines de lucro. Somos personas interesadas en aportar, de manera voluntaria, nuestro granito de arena a la educación matemática en Michoacán.</span>
 
 <span style="color:#00a000">Las decisiones del jurado son inapelables.</span>
 
