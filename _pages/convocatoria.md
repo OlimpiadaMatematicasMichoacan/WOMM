@@ -118,6 +118,27 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 </details>
 
 <details>
+<summary>¿Cuánto tiempo debo dedicarle a entrenar?</summary>
+<p> Dependiendo de tus objetivos, interés, y entrenamiento previo, puedes dedicarle más o menos tiempo. Puedes entrenar la cantidad de tiempo que consideres conveniente y seguramente te llevarás una buena experiencia participando en la Olimpiada de Matemáticas, pues aquí podrás aprender a <span style="color:#00b000">pensar y razonar</span>, y esto te proveerá <span style="color:#a00000">incalculables beneficios</span> para tu futuro.</p>
+   
+<p>Sin embargo, entendemos que quienes participan tienen muchas otras ocupaciones, tareas y compromisos que atender. Agradecemos cualquier cantidad de tiempo que le quieras o puedas dedicar a esto. Es <span style="color:#009000">completamente válido</span> decidir "va, le entro, pero sólo le dedicaré una hora a la semana".</p>
+
+<p> Por ejemplo, para pasar los exámenes iniciales, <strong>entre 4 y 8 horas de práctica en total</strong> sería suficiente para la mayoría de las personas. Pero claro, si tu objetivo es llegar a representar a Michoacán en las etapas nacionales, probablemente eso sí requerirá un compromiso de tiempo bastante mayor de, quizás, <strong>un par de horas al día</strong> o más.</p>
+<p><span style="color:magenta">TL;DR:</span> El tiempo que quieras y puedas está bien.</p>
+</details>
+
+<details>
+<summary>Entonces, aún si no tengo mucho tiempo para dedicarle a esto, ¿valdrá la pena entrar?</summary>
+<p>¡Claro que sí!</p>
+
+<p> Si no tienes mucho tiempo para dedicarle a esto, tengo <span style="color:magenta">un secreto revelador</span> para ti: <strong>puedes obtener la mayoría de los beneficios que proporciona la Olimpiada de Matemáticas con realmente muy poco tiempo de entrenamiento</strong>, debido a un fenómeno conocido como <a href="https://es.wikipedia.org/wiki/Principio_de_Pareto">el principio Pareto</a> y otro conocido como la <a href="https://es.wikipedia.org/wiki/Ley_de_los_rendimientos_decrecientes">Ley de los rendimientos decrecientes</a>. </p>
+
+<p>Lo que ocurre es que la primera hora a la semana de entrenamiento proporciona enormes beneficios. La segunda hora también te da muchos beneficios, pero no tantos como la primera. La tercera claro que proporciona beneficios, pero no tanto como las primeras dos. Y así sucesivamente. Esto significa que quizás con tres o cuatro horas por semana que le dediques a esto puedes obtener más de la mitad del beneficio que obtendrías si le dedicaras 10 horas a la semana.</p>
+
+<p><span style="color:green">Nota:</span> el beneficio del que hablamos en esta sección se refiere únicamente al beneficio en el aprendizaje y la mejora en tu modo de razonar, no a resultados en el concurso.</p>
+</details>
+
+<details>
 <summary>¿Cuánto dura el examen inicial?</summary>
 <p> 
    Dependiendo del nivel, el examen durará entre 1 y 2 horas. Tú decides a qué hora iniciar y tu tiempo comienza a correr una vez iniciado. Te recomendamos apartar el tiempo suficiente para resolver el examen.
@@ -173,7 +194,7 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 <p>
 En años anteriores veíamos a la Olimpiada de Matemáticas en "fases", donde había un examen al final de cada fase y se eliminaba a quienes obtenían menores puntajes en cada examen.
 </p><p>
-A partir de ahora, a modo de experimento, pensaremos en la Olimpiada de Matemáticas (en Michoacán) de forma "continua": hay algunos exámenes para ingresar, y dependiendo de tus resultados y experiencia te acomodaremos uno de varios grupos de entrenamiento. Periódicamente habrá exámenes y otras oportunidades para avanzar a un grupo superior. Los que no avancen no serán "eliminados", simplemente no avanzarán al siguiente nivel en esa ocasión. Entrenaremos todo el año, y cuando tengamos que seleccionar a un grupo para que represenete a Michoacán en un examen nacional, tomaremos a quienes hayan tenido mejor desempeño durante los entrenamientos y exámenes selectivos.
+A partir de ahora, a modo de experimento, pensaremos en la Olimpiada de Matemáticas (en Michoacán) de forma "continua": hay algunos exámenes para ingresar, y dependiendo de tus resultados y experiencia te acomodaremos uno de varios grupos de entrenamiento. Periódicamente habrá exámenes y otras oportunidades para avanzar a un grupo superior. Los que no avancen no serán "eliminados", simplemente no avanzarán al siguiente nivel en esa ocasión. Entrenaremos todo el año, y cuando tengamos que seleccionar a un grupo para que represente a Michoacán en un examen nacional, tomaremos a quienes hayan tenido mejor desempeño durante los entrenamientos y exámenes selectivos.
 </p><p>
 La Olimpiada acaba para ti cuando ya no queden más concursos en los que participe Michoacán en donde cumplas los requisitos para concursar.
 </p>
@@ -266,7 +287,7 @@ Escríbenos a <a class="text-info" href="mailto:olimpiada.omm@gmail.com">este co
 <p> &nbsp; </p>
 #### ¡Ayúdanos a darle difusión al evento!
 
-<span style="color:#aa00fb">Somos una organización sin fines de lucro. Somos personas interesadas en aportar, de manera voluntaria, nuestro granito de arena a la educación matemática en Michoacán.</span>
+<span style="color:#aa00fb">Somos una organización sin fines de lucro. Simplemente tenmos interés en aportar nuestro granito de arena a la educación matemática en Michoacán.</span>
 
 <span style="color:#00a000">Las decisiones del jurado son inapelables.</span>
 
