@@ -112,14 +112,14 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 <details>
 <summary>¿Qué conocimientos necesito para resolver el examen inicial?</summary>
 <p> 
-   Los primeros exámenes se resuelven usando <span style="color:#00a000">ingenio</span> y <span style="color:orange">lógica</span> más que conocimientos o técnicas, así que con los conocimientos básicos de primaria (sumar, multiplicar, etc.) podría ser suficiente. Sin embargo, como con todo, <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">practicar</a> podría aumentar considerablemente tu chance de avanzar.
+   Los primeros exámenes se resuelven usando <span style="color:#00a000">ingenio</span> y <span style="color:orange">lógica</span> más que conocimientos o técnicas, así que con los conocimientos básicos de primaria (sumar, multiplicar, etc.) podría ser suficiente. Sin embargo, como con todo, <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">practicar</a> podría aumentar considerablemente tu probabilidad de avanzar.
 </p>
 </details>
 
 <details>
 <summary>¿Cuánto dura el examen inicial?</summary>
 <p> 
-   Dependiendo del nivel, el examen durará entre 1 y 2 horas. Tú decides a qué hora iniciar y tu tiempo comienza a correr una vez iniciado. Te recomendamos apartar el tiempo suficiente para resolver el examen.
+   Dependiendo de tu grado escolar, el examen durará entre 1 y 2 horas. Tú decides a qué hora iniciar y tu tiempo comienza a correr una vez que abres el examen. Te recomendamos apartar el tiempo suficiente para resolver el examen.
 </p>
 </details>
 
@@ -134,7 +134,7 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 <details>
 <summary>¿Qué material puedo utilizar durante el examen?</summary>
 <p> 
-   De material, puedes utilizar lápices, plumas, colores, hojas, regla y compás si quieres. No está permitido usar transportador ni calculadora, pero no te preocupes, el examen está diseñado para que no haya necesidad (ni beneficio) de usar una calculadora.
+   Puedes utilizar lápices, plumas, colores, hojas, regla y compás si quieres. No está permitido usar transportador ni calculadora, pero no te preocupes, el examen está diseñado para que no haya necesidad (ni beneficio) de usarlos.
 </p><p>
    El examen es individual y no se permite ayuda externa de ningún tipo. Idealmente, durante el examen no deberás tener comunicación con otras personas.
 </p>
@@ -143,7 +143,7 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 <details>
 <summary>Muy bien, me convencieron. ¿Cómo me preparo para el examen inicial?</summary>
 <p>
-¡Muy buena actitud! La recomendación es practicar resolviendo ejercicios. Al <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">registrarte</a>, puedes hacer un exámenes de práctica (¡incluyen soluciones!) y un curso en línea (con videos y ejercicios) para practicar algunos conceptos básicos. Aquí hay algunos <a href="/preparate">recursos para prepararte</a>.
+¡Muy buena actitud! La recomendación es practicar resolviendo ejercicios. Al <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">registrarte</a>, puedes hacer algunos exámenes de práctica (¡incluyen soluciones!) y un curso en línea (con videos y ejercicios) para aprender algunos conceptos básicos. Aquí hay algunos <a href="/preparate">recursos para prepararte</a>.
 </p>
 </details>
 
@@ -184,7 +184,7 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 
 <details>
 <summary>
-¿Cuál es la diferencia de este año con los años anteriores y por qué el cambio?
+    ¿Cuál es la diferencia de este año con los años anteriores y por qué el cambio?
 </summary>
 
 <p>
@@ -192,15 +192,19 @@ En años anteriores veíamos a la Olimpiada de Matemáticas en "fases", donde ha
 </p>
 
 <p>
-A partir de ahora, a modo de experimento, pensaremos en la Olimpiada de Matemáticas (en Michoacán) de forma "continua": hay algunos exámenes para ingresar, y dependiendo de tus resultados y experiencia te acomodaremos uno de varios grupos de entrenamiento. Periódicamente habrá exámenes y otras oportunidades para avanzar a un grupo superior. Los que no avancen no serán "eliminados", simplemente no avanzarán al siguiente nivel en esa ocasión. Entrenaremos todo el año, y cuando tengamos que seleccionar a un grupo para que represente a Michoacán en un examen nacional, tomaremos a quienes hayan tenido mejor desempeño durante los entrenamientos y exámenes selectivos.
-</p>
-
-<p>
-La Olimpiada acaba para ti cuando ya no queden más concursos en los que participe Michoacán en donde cumplas los requisitos para concursar.
+A partir de ahora, a modo de experimento, pensaremos en la Olimpiada de Matemáticas (en Michoacán) de forma "continua": hay algunos exámenes para ingresar, y dependiendo de tus resultados y experiencia te acomodaremos uno de varios grupos de entrenamiento. Periódicamente habrá exámenes y otras oportunidades para avanzar a un grupo superior. Si no avanzas, no serás "eliminado", simplemente es una indicación que te falta preparación para iniciar entrenamientos más avanzados en ese momento.
 </p>
 
 <p>
 ¿Por qué el cambio? Pues realmente por muchas razones. Quisimos hacer más amigable todo el proceso, haciendo énfasis en que todas las personas que participan en la Olimpiada (incluyendo profes, familiares, etc.) son importantes para nosotros. Aunque la Olimpiada técnicamente es un concurso, el objetivo real es enseñar las matemáticas de manera divertida, creativa y lógica, teniendo el mayor alcance posible. Algo que no nos gustaba en ocasiones anteriores era que cuando alguien no avanzaba a la siguiente fase, ya no seguía entrenando y aprendiendo durante todo el periodo, así que cuando llegaba el año siguiente, ya había olvidado muchas cosas.
+</p>
+
+<p>
+Ahora entrenaremos todo el año. Cuando tengamos que seleccionar a un grupo para que represente a Michoacán en un examen nacional, tomaremos a quienes hayan tenido mejor desempeño durante los entrenamientos y exámenes selectivos.
+</p>
+
+<p>
+La Olimpiada acaba para ti cuando ya no queden más concursos en los que participe Michoacán en donde cumplas los requisitos para concursar.
 </p>
 </details>
 
@@ -212,7 +216,7 @@ La Olimpiada acaba para ti cuando ya no queden más concursos en los que partici
 Cada año, participamos (o participaremos) en los siguientes concursos:
 <br><br>
 
-<span style="color:#aa00fb">Nota: </span> Los grados escolares mencionados son al momento del concurso. A veces hay que necesariamente comenzar uno o más años anteriores a eso con el proceso estatal para poder clasificar. Entre antes, mejor.
+<span style="color:#aa00fb">Nota: </span> Los grados escolares mencionados son al momento del concurso. A veces hay que necesariamente comenzar uno o más años anteriores a eso con el proceso estatal para poder clasificar. Entre antes comiences, mejor.
 
 <br><br>
 
@@ -237,7 +241,7 @@ Cada año, participamos (o participaremos) en los siguientes concursos:
   <li><span style="color:#00a000">Femenil Nivel II</span>: hasta 3° año de bachillerato</li>
 </ul>
 
-Para participar en cualquiera de estos concursos, <strong>deberás avanzar en uno de los dos concursos de entrada que se hacen al año en Michoacán</strong>, y posterioremente, a través de exámenes periódicos, avanzar a los grupos altos, y finalmente, realizar un examen de selección.
+Para tener la posibilidad de representar a Michoacán en cualquiera de estos concursos, <strong>deberás avanzar en uno de los dos concursos de entrada que se hacen al año en Michoacán</strong>, y posterioremente, a través de exámenes periódicos, mostrar habilidades suficientes para avanzar a los grupos altos, y finalmente, realizar un examen de selección.
 </p>
 </details>
 
@@ -254,12 +258,12 @@ Quiero ayudarles a hacerle difusión al evento. ¿Cómo?
 <summary>
 Soy profe o trabajo en una escuela. ¿Cómo puede participar mi escuela/grupo? ¿Cómo puedo entrenar a mis estudiantes?
 </summary>
-<p>Primero que nada, ¡muchísimas gracias por el interés en la Olimpiada! Realmente agradecemos mucho tu labor. </p>
+<p>¡Muchísimas gracias por el interés en la Olimpiada! Realmente agradecemos mucho tu labor. </p>
 
-<p>Primero que nada, te recomendamos <a class="text-info" data-toggle="modal" data-target="#loginModal">registrarte</a> en la plataforma, pues hay opción de registro para profes también, y revisar el curso de entrenamiento abierto. Además, así podremos enviarte información sobre la Olimpiada cada año.</p>
+<p>Primero que nada, te recomendamos <a class="text-info" data-toggle="modal" data-target="#loginModal">registrarte</a> en la plataforma, pues hay opción de registro para profes también. Al registrarte, podrás revisar el curso de entrenamiento y los exámenes de práctica que están ahí. Además, así podremos enviarte información sobre la Olimpiada cada año, para que no se te pase ninguna fecha.</p>
 
 <p>
-Para apoyar con el entrenamiento podrías también, por ejemplo, ayudar a estudiantes a avanzar en el curso mencionado, aplicar a modo de práctica los exámenes ahí descritos y ayudar a estudiantes a comprender la solución, alentar a que vean los videos juntos y resolver sus dudas. En la sección de <a href="/preparate">prepárate</a> hay aún más material.
+Para apoyar con el entrenamiento podrías también, por ejemplo, ayudar a estudiantes a avanzar en el curso mencionado, aplicar a modo de práctica los exámenes de años anteriores, ayudar a estudiantes a comprender la solución, alentar a que vean los videos juntos y resolver sus dudas. En la sección de <a href="/preparate">prepárate</a> hay aún más material.
 </p>
 
 <p>
