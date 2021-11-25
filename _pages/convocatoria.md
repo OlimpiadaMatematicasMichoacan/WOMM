@@ -110,7 +110,7 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 <br>
 
 <details>
-<summary>¿Qué conocimientos necesito para resolver el examen?</summary>
+<summary>¿Qué conocimientos necesito para resolver el examen inicial?</summary>
 <p> 
    Los primeros exámenes se resuelven usando <span style="color:#00a000">ingenio</span> y <span style="color:orange">lógica</span> más que conocimientos o técnicas, así que con los conocimientos básicos de primaria (sumar, multiplicar, etc.) podría ser suficiente. Sin embargo, como con todo, <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">practicar</a> podría aumentar considerablemente tu chance de avanzar.
 </p>
@@ -143,7 +143,7 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 <details>
 <summary>Muy bien, me convencieron. ¿Cómo me preparo para el examen inicial?</summary>
 <p>
-¡Muy buena actitud! La recomendación es practicar resolviendo ejercicios. Al <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">registrarte</a>, puedes hacer un exámenes de práctica (¡incluyen soluciones!) y un entrenamiento en video (con ejercicios) de algunos conceptos básicos. Aquí hay algunos <a href="/preparate">recursos para prepararte</a>
+¡Muy buena actitud! La recomendación es practicar resolviendo ejercicios. Al <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">registrarte</a>, puedes hacer un exámenes de práctica (¡incluyen soluciones!) y un curso en línea (con videos y ejercicios) para practicar algunos conceptos básicos. Aquí hay algunos <a href="/preparate">recursos para prepararte</a>.
 </p>
 </details>
 
@@ -175,6 +175,12 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 </p>
 </details>
 
+<details>
+<summary>¿Y si no avanzo? ¿Habrá otra oportunida?</summary>
+<p> 
+   No te desanimes. Continúa preparándote y pronto anunciaremos otra oportunidad.
+</p>
+</details>
 
 <details>
 <summary>
