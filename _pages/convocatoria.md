@@ -194,13 +194,8 @@ La Olimpiada acaba para ti cuando ya no queden más concursos en los que partici
 </p>
 
 <p>
-¿Por qué el cambio? Pues realmente por muchas razones. Principalmente, queremos hacer énfasis en que todas las personas que participan en la Olimpiada son importantes para nosotros, y aunque la Olimpiada técnicamente es un concurso, el objetivo real es enseñar las matemáticas de manera divertida, creativa y lógica. Algo que no nos gustaba era que cuando alguien no avanzaba a la siguiente fase, ya no seguía entrenando y aprendiendo durante todo el periodo, así que cuando llegaba el año siguiente, ya había olvidado muchas cosas.
+¿Por qué el cambio? Pues realmente por muchas razones. Quisimos hacer más amigable todo el proceso, haciendo énfasis en que todas las personas que participan en la Olimpiada (incluyendo profes, familiares, etc.) son importantes para nosotros. Aunque la Olimpiada técnicamente es un concurso, el objetivo real es enseñar las matemáticas de manera divertida, creativa y lógica, teniendo el mayor alcance posible. Algo que no nos gustaba en ocasiones anteriores era que cuando alguien no avanzaba a la siguiente fase, ya no seguía entrenando y aprendiendo durante todo el periodo, así que cuando llegaba el año siguiente, ya había olvidado muchas cosas.
 </p>
-
-<p>
-Además, queremos que todo el mundo tenga acceso a los entrenamientos básicos.
-</p>
-
 </details>
 
 <details>
