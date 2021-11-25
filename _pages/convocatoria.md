@@ -267,9 +267,16 @@ Para apoyar con el entrenamiento podrías también, por ejemplo, ayudar a estudi
 </p>
 
 <p>
-Y claro, te alentamos a organizar a todos los grupos a presentar el examen en la misma escuela, de ser viable, el viernes 14 de enero en cualquier horario. Habrá reconocimientos para escuelas con participación destacada.
+Y claro, te alentamos a organizar que todos los grupos <span style="color:#00a000">presenten el examen en la misma escuela</span>, de ser viable, <span style="color:#00a000">el viernes 14 de enero</span> en cualquier horario. Sin embargo, toma en cuenta que la participación es individual, y <strong><span style="color:magenta">cada estudiante deberá registrarse por separado en la plataforma</span></strong>. 
 </p>
 
+<p>
+Si tienes cualquier inquietud, no dudes en contactarnos al correo <a href="mailto:olimpiada.omm@gmail.com">olimpiada.omm@gmail.com</a>.
+</p>
+
+<p>
+Habrá reconocimientos para escuelas con participación destacada.
+</p>
 
 </details>
 
