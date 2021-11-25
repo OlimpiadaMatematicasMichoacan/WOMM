@@ -16,21 +16,23 @@ title: Convocatoria
 <br>
 <center>
 <img src="assets/images/icons/logo-1.png" class="center-img">
-El Comité Estatal de la Olimpiada de Matemáticas de Michoacán convoca a participar en la
+El Comité Estatal de la Olimpiada de Matemáticas en Michoacán <strong>convoca</strong> a participar en la
 <h3> Olimpiada Michoacana de Matemáticas</h3>
 en todos sus niveles, asistiendo al <a class="text-info" data-toggle="modal" data-target="#loginModal">curso de entrenamiento</a> en línea, abierto para <strong>todo público</strong>, y presentando el <a class="text-info" data-toggle="modal" data-target="#loginModal">examen inicial</a>.
 </center>
 
-Podrán participar estudiantes inscritos en cualquier institución de educación **pública** o **privada** del estado de Michoacán. Los exámenes iniciales están divididos en niveles que van <span style="color:#00a000">desde 4° de primaria hasta 2° año de preparatoria</span> o equivalente. Cada año se aplicarán dos exámenes iniciales a todos los niveles.
+Podrán participar estudiantes inscritos en cualquier institución de educación **pública** o **privada** del estado de Michoacán. Los exámenes iniciales están divididos en niveles que van <span style="color:#00a000">desde 4° de primaria hasta 2° año de preparatoria</span> o equivalente.
 
-- <span style="color:#00a000">Primera fecha:</span> 14, 15 y 16 de enero de 2022.
-- <span style="color:#00a000">Segunda fecha:</span> mayo 2022. Fecha por confirmar.
+- <span style="color:#00a000">Examen inicial (primera fecha):</span> 14, 15 y 16 de enero de 2022.
+- <span style="color:#00a000">Examen inicial (segunda fecha):</span> por confirmar.
 
-Si no avanzas en la primera fecha, puedes entrenar e intentarlo de nuevo en la segunda.
+<!-- Si no avanzas en la primera fecha, puedes entrenar e intentarlo de nuevo en la segunda. -->
 
-En ambas fechas puedes escoger qué día haces el examen, y una vez que avanzas ya no es necesario presentar el examen inicial en una fecha posterior durante el mismo año. Los exámenes son diferentes, claro.
+<!-- En ambas fechas puedes escoger qué día haces el examen, y una vez que avanzas ya no es necesario presentar el examen inicial en una fecha posterior durante el mismo año. Los exámenes son diferentes, claro. -->
 
 ##### ¿Te interesa?
+
+Si ya te registraste alguna vez (por ejemplo, el año pasado), no es necesario registrarte de nuevo y puedes <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">acceder a la plataforma</a>.
 
 <center>
 
@@ -45,7 +47,6 @@ En ambas fechas puedes escoger qué día haces el examen, y una vez que avanzas 
 
 </center>
 
-Si ya te registraste alguna vez (por ejemplo, al año pasado), no es necesario registrarte de nuevo y puedes <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">acceder a la plataforma</a>.
 
 
 ### <span style="color:#00a000"> Objetivo</span>
@@ -60,9 +61,9 @@ Existe la falsa creencia de que las matemáticas sólo le sirven a personas inte
 
 Para participar en la Olimpiada de Matemáticas en Michoacán, deberás resolver un examen sencillo, con preguntas de ingenio. Te recomendamos <a href="/preparate">prepararte</a> resolviendo ejercicios, acertijos, viendo videos, etc. 
 
-Participar es absolutamente gratuito y, honestamente, muy divertido.
+<span style="color:magenta">Participar es totalmente gratuito</span> y, honestamente, <span style="color:magenta">muy divertido</span>.
 
-Si logras resolver el examen entrarás a un grupo de entrenamiento, dependiendo de tu nivel de conocimientos. Periódicamente se aplicarán exámenes para avanzar de grupo.
+Si logras resolver satisfactoriamente el examen inicial, dependiendo de tu edad y nivel de conocimientos te colocaremos en alguno de varios grupos de entrenamiento. Periódicamente se aplicarán exámenes para avanzar de grupo.
 
 <div class="container">
   <div class="row">
@@ -99,12 +100,10 @@ Si logras resolver el examen entrarás a un grupo de entrenamiento, dependiendo 
         </div>
       </div>
     </div>
-    
   </div>
 </div>
 
-Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMMEB, femenil, etc.) se invitará al grupo Teruk'ati en adelante dentro de aquellas personas que puedan participar en dicho concurso a resolver un examen adicional para escoger a quienes representarán a Michoacán.
-
+Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMMEB, femenil, etc.) se invitará al grupo Teruk'ati en adelante a resolver un examen adicional para escoger a quienes representarán a Michoacán.
 
 ### <span style="color:#00a000">Preguntas frecuentes</span>
 
@@ -113,14 +112,7 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 <details>
 <summary>¿Qué conocimientos necesito para resolver el examen?</summary>
 <p> 
-   Los primeros exámenes se resuelven usando <span style="color:#00a000">ingenio</span> y <span style="color:orange">lógica</span> más que conocimientos o técnicas, así que con los conocimientos básicos de primaria podría ser suficiente. Sin embargo, como con todo, <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">practicar</a> podría aumentar considerablemente tu chance de avanzar.
-</p>
-</details>
-
-<details>
-<summary>¿Es gratis participar?</summary>
-<p> 
-   Sí, ¡es totalmente gratis! Tanto <a class="text-info" data-toggle="modal" data-target="#loginModal">presentar el examen</a> como el <a class="text-info" data-toggle="modal" data-target="#loginModal">curso en línea de entrenamiento</a> no tienen ningún costo.
+   Los primeros exámenes se resuelven usando <span style="color:#00a000">ingenio</span> y <span style="color:orange">lógica</span> más que conocimientos o técnicas, así que con los conocimientos básicos de primaria (sumar, multiplicar, etc.) podría ser suficiente. Sin embargo, como con todo, <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">practicar</a> podría aumentar considerablemente tu chance de avanzar.
 </p>
 </details>
 
@@ -177,13 +169,9 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 
 
 <details>
-<summary>¿Cuándo me avisarán y qué ocurrirá en caso de lograr avanzar a la siguiente etapa? </summary>
+<summary>¿Qué ocurre en caso de lograr avanzar a la siguiente etapa? </summary>
 <p> 
-   Unos días después de que concluya el examen los resultados aparecerán en la misma página y te enviaremos un correo electrónico.
-</p><p>
-   Posteriormente recibirás en tu correo una liga de invitación a más entrenamientos y algunas actividades.
-</p><p>
-   Además te enviaremos un diploma, una vez que recibamos tus documentos.
+   Unos días después de que concluya el examen los resultados aparecerán en la misma página y te enviaremos un correo electrónico. Posteriormente recibirás en tu correo una liga de invitación a entrenamientos más avanzados. Posiblemente organizaremos, en algunas ciudades, entrenamientos presenciales opcionales. Además te enviaremos un diploma, una vez que recibamos tus documentos.
 </p>
 </details>
 
@@ -285,16 +273,16 @@ Y claro, te alentamos a organizar a todos los grupos a presentar el examen en la
 Tengo otra duda.
 </summary>
 <p>
-Escríbenos a <a href="mailto:olimpiada.omm@gmail.com">este correo</a>
+Escríbenos a <a href="mailto:olimpiada.omm@gmail.com">este correo</a> y con mucho gusto te responderemos.
 </p>
 </details>
 
 <p> &nbsp; </p>
 #### ¡Ayúdanos a darle difusión al evento!
 
-<span style="color:#aa00fb">Somos una organización sin fines de lucro. Simplemente tenmos interés en aportar nuestro granito de arena a la educación matemática en Michoacán.</span>
+<span style="color:#aa00fb">Somos una organización sin fines de lucro. Simplemente tenemos interés en aportar nuestro granito de arena a la educación matemática en Michoacán.</span>
 
-<span style="color:#00a000">Las decisiones del jurado son inapelables.</span>
+<center><small>Las decisiones del jurado son inapelables.</small></center>
 
 
 
