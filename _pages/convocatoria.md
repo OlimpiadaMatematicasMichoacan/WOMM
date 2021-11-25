@@ -45,7 +45,7 @@ En ambas fechas puedes escoger qué día haces el examen, y una vez que avanzas 
 
 </center>
 
-Si ya te registraste alguna vez (por ejemplo, al año pasado), no es necesario registrarte de nuevo y puedes <a class="text-info" href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">acceder a la plataforma</a>.
+Si ya te registraste alguna vez (por ejemplo, al año pasado), no es necesario registrarte de nuevo y puedes <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">acceder a la plataforma</a>.
 
 
 ### <span style="color:#00a000"> Objetivo</span>
@@ -58,7 +58,7 @@ Existe la falsa creencia de que las matemáticas sólo le sirven a personas inte
 
 ##### <strong><span style="color:red">Nota</span></strong>: Este año cambió considerablemente el proceso de la Olimpiada de Matemáticas con respecto a años anteriores.  
 
-Para participar en la Olimpiada de Matemáticas en Michoacán, deberás resolver un examen sencillo, con preguntas de ingenio. Te recomendamos <a class="text-info" href="/preparate">prepararte</a> resolviendo ejercicios, acertijos, viendo videos, etc. 
+Para participar en la Olimpiada de Matemáticas en Michoacán, deberás resolver un examen sencillo, con preguntas de ingenio. Te recomendamos <a href="/preparate">prepararte</a> resolviendo ejercicios, acertijos, viendo videos, etc. 
 
 Participar es absolutamente gratuito y, honestamente, muy divertido.
 
@@ -113,7 +113,14 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 <details>
 <summary>¿Qué conocimientos necesito para resolver el examen?</summary>
 <p> 
-   Los primeros exámenes se resuelven usando <span style="color:#00a000">ingenio</span> y <span style="color:orange">lógica</span> más que técnica. En el entrenamiento te daremos los conocimientos necesarios para resolver los exámenes de las siguientes fases.
+   Los primeros exámenes se resuelven usando <span style="color:#00a000">ingenio</span> y <span style="color:orange">lógica</span> más que conocimientos o técnicas, así que con los conocimientos básicos de primaria podría ser suficiente. Sin embargo, como con todo, <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">practicar</a> podría aumentar considerablemente tu chance de avanzar.
+</p>
+</details>
+
+<details>
+<summary>¿Es gratis participar?</summary>
+<p> 
+   Sí, ¡es totalmente gratis! Tanto <a class="text-info" data-toggle="modal" data-target="#loginModal">presentar el examen</a> como el <a class="text-info" data-toggle="modal" data-target="#loginModal">curso en línea de entrenamiento</a> no tienen ningún costo.
 </p>
 </details>
 
@@ -121,6 +128,30 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 <summary>¿Cuánto dura el examen inicial?</summary>
 <p> 
    Dependiendo del nivel, el examen durará entre 1 y 2 horas. Tú decides a qué hora iniciar y tu tiempo comienza a correr una vez iniciado. Te recomendamos apartar el tiempo suficiente para resolver el examen.
+</p>
+</details>
+
+
+<details>
+<summary>¿Qué documentos necesito presentar para participar?</summary>
+<p> 
+   Puedes presentar el examen inicial sin presentar documentación. Si avanzas a la siguiente etapa, te pediremos algún documento que compruebe tu fecha de nacimiento y una constancia de inscripción en alguna escuela de Michoacán antes de poder emitir tu diploma.
+</p>
+</details>
+
+<details>
+<summary>¿Qué material puedo utilizar durante el examen?</summary>
+<p> 
+   De material, puedes utilizar lápices, plumas, colores, hojas, regla y compás si quieres. No está permitido usar transportador ni calculadora, pero no te preocupes, el examen está diseñado para que no haya necesidad (ni beneficio) de usar una calculadora.
+</p><p>
+   El examen es individual y no se permite ayuda externa de ningún tipo. Idealmente, durante el examen no deberás tener comunicación con otras personas.
+</p>
+</details>
+
+<details>
+<summary>Muy bien, me convencieron. ¿Cómo me preparo para el examen inicial?</summary>
+<p>
+¡Muy buena actitud! La recomendación es practicar resolviendo ejercicios. Al <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">registrarte</a>, puedes hacer un exámenes de práctica (¡incluyen soluciones!) y un entrenamiento en video (con ejercicios) de algunos conceptos básicos. Aquí hay algunos <a href="/preparate">recursos para prepararte</a>
 </p>
 </details>
 
@@ -144,12 +175,6 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 </details>
 
 
-<details>
-<summary>¿Qué documentos necesito presentar para participar?</summary>
-<p> 
-   Puedes presentar el examen inicial sin presentar documentación. Si avanzas a la siguiente etapa, te pediremos algún documento que compruebe tu fecha de nacimiento y una constancia de inscripción en alguna escuela de Michoacán antes de poder emitir tu diploma.
-</p>
-</details>
 
 <details>
 <summary>¿Cuándo me avisarán y qué ocurrirá en caso de lograr avanzar a la siguiente etapa? </summary>
@@ -162,29 +187,6 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 </p>
 </details>
 
-<details>
-<summary>¿Qué material puedo utilizar durante el examen?</summary>
-<p> 
-   De material, puedes utilizar lápices, plumas, colores, hojas, regla y compás si quieres. No está permitido usar transportador ni calculadora, pero no te preocupes, el examen está diseñado para que no haya necesidad (ni beneficio) de usar una calculadora.
-</p><p>
-   El examen es individual y no se permite ayuda externa de ningún tipo. Idealmente, durante el examen no deberás tener comunicación con otras personas.
-</p>
-</details>
-
-<details>
-<summary>¿Es gratis participar?</summary>
-<p> 
-   Sí, ¡es totalmente gratis! Tanto <a class="text-info" data-toggle="modal" data-target="#loginModal">presentar el examen</a> como el <a class="text-info" data-toggle="modal" data-target="#loginModal">curso en línea de entrenamiento</a> no tienen ningún costo.
-</p>
-</details>
-
-
-<details>
-<summary>Muy bien, me convencieron. ¿Cómo me preparo para el examen inicial?</summary>
-<p>
-¡Muy buena actitud! La recomendación es practicar resolviendo ejercicios. Al <a class="text-info" href="/registro">registrarte</a>, puedes hacer un exámenes de práctica (¡incluyen soluciones!) y un entrenamiento en video (con ejercicios) de algunos conceptos básicos. Aquí hay algunos <a class="text-info" href="/preparate">recursos para prepararte</a>
-</p>
-</details>
 
 <details>
 <summary>
@@ -268,7 +270,7 @@ Soy profe o trabajo en una escuela. ¿Cómo puede participar mi escuela/grupo? �
 <p>Primero que nada, te recomendamos <a class="text-info" data-toggle="modal" data-target="#loginModal">registrarte</a> en la plataforma, pues hay opción de registro para profes también, y revisar el curso de entrenamiento abierto. Además, así podremos enviarte información sobre la Olimpiada cada año.</p>
 
 <p>
-Para apoyar con el entrenamiento podrías también, por ejemplo, ayudar a estudiantes a avanzar en el curso mencionado, aplicar a modo de práctica los exámenes ahí descritos y ayudar a estudiantes a comprender la solución, alentar a que vean los videos juntos y resolver sus dudas. En la sección de <a class="text-info" href="/preparate">prepárate</a> hay aún más material.
+Para apoyar con el entrenamiento podrías también, por ejemplo, ayudar a estudiantes a avanzar en el curso mencionado, aplicar a modo de práctica los exámenes ahí descritos y ayudar a estudiantes a comprender la solución, alentar a que vean los videos juntos y resolver sus dudas. En la sección de <a href="/preparate">prepárate</a> hay aún más material.
 </p>
 
 <p>
@@ -283,7 +285,7 @@ Y claro, te alentamos a organizar a todos los grupos a presentar el examen en la
 Tengo otra duda.
 </summary>
 <p>
-Escríbenos a <a class="text-info" href="mailto:olimpiada.omm@gmail.com">este correo</a>
+Escríbenos a <a href="mailto:olimpiada.omm@gmail.com">este correo</a>
 </p>
 </details>
 
