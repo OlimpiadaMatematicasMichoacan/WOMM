@@ -134,7 +134,7 @@ stats:
 # Events Section
 
 events:
-- {name: Examen Inicial 2022, icon: 'logo-3.png', date: '14-16 enero 2022', organization: 'Examen inicial 2022<br><br>¡Para todos los niveles!<br><br><a href="/preparate">¡Prepárate!</a></br>'}
+- {name: <a href="/convocatoria">Examen inicial 2022</a>, icon: 'logo-3.png', date: '14-16 enero 2022', organization: '<br>¡Para todos los niveles!<br><br><a href="/preparate">¡Prepárate!</a></br>'}
 #- {name: Actividad, icon: 'camara.png', date: '15 de mayo 2021', organization: '¡Tenemos una actividad preparada para aquellas personas que avanzaron a la fase 3! Ve el sistema para más detalles.'}
 #- {name: Examen Semifinal OMMEB (fase 3 OMM), icon: 'logo-3.png', date: '22-23 mayo 2021', organization: 'En el <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">mismo sistema</a> donde fue el segundo examen será el tercero.'}
 #- {name: Final OMM, icon: 'icon-3.png', date: 'Mayo 2021', organization: 'UMICH'}
