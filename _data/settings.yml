@@ -89,36 +89,71 @@ team:
   - title : "María Luisa Pérez"
     image : "assets/images/team/malu.jpg"
     designation : "Profesora UMSNH"
-    
-  - title : "Luis Miguel García"
-    image : "assets/images/team/luismiguel.jpg"
-    designation : "Profesor ENES, ex-olímpico"
+ 
+  - title : "Alondra Juárez"
+    image : "assets/images/team/alondra.jpg"
+    designation : "Artista, Diseñadora, Ex-olímpica"
     
   - title : "Rodrigo Cortez"
     image : "assets/images/team/rodrigo.jpg"
     designation : "Tesista, LTICs ENES - IT Consultant & Web Designer"
     
-  - title : "Alondra Juárez"
-    image : "assets/images/team/alondra.jpg"
-    designation : "Artista, Diseñadora, Ex-olímpica"
-    
   - title : "Ismael Olvera"
     image : "assets/images/team/ismael.jpg"
     designation : "Estudiante LTICs ENES - IT Consultant"
+
+  - title : "Luis Miguel García"
+    image : "assets/images/team/luismiguel.jpg"
+    designation : "Profesor ENES, ex-olímpico"
+
+  - title : "Alex Martínez"
+    image : "assets/images/team/alex.jpg"
+    designation : "Estudiante de matemáticas. Ex-olímpico"
+    
+
+# Entrenadores
+entrenadores:
+  - title : "Jorge Luis López López"
+    image : "assets/images/team/jorge.jpg"
+    designation: "Profesor UMSNH"
+ 
+  - title : "Antonio Montero"
+    image : "assets/images/team/tero.jpg"
+    designation : "Posdoc UNAM"
     
   - title : "Eric Pauli"
     image : "assets/images/team/eric.jpg"
-    designation : "Posdoc en Centro de Ciencias Matemáticas"
+    designation : "Doctor en Matemáticas"
     
-  - title : "Jazmín López"
+  - title : "Jazmín López Chacón"
     image : "assets/images/team/jazmin.jpg"
-    designation : "Estudiante LTICs ENES"
+    designation : "Estudiante, Tecnologías para la Información en Ciencias"
     
-  - title : "Ahtziri González"
-    image : "assets/images/team/ahtziri.jpg"
-    designation : "Miembro honorario del comité. Ex-delegado de Michoacán"
+  - title : "César Corral"
+    image : "assets/images/team/cesar.jpg"
+    designation: "Estudiante"
+
+  - title : "Marisol Flores"
+    image : "assets/images/team/marisol.jpg"
+    designation : "Profesora, ENES Morelia"
+    
+  - title : "Rubén Maldonado"
+    image : "assets/images/team/ruben.jpg"
+    designation: "Estudiante"
+    
+  - title : "Mirna Gómez"
+    image : "assets/images/team/mirna.jpg"
+    designation: "Doctora en Matemáticas"
+    
+  - title : "Edgardo Roldán"
+    image : "assets/images/team/edgardo.jpg"
+    designation: "Investigador, Centro de Ciencias Matemáticas"
 
 
+
+    
+    
+    
 #-------------------------------
 # Stats Section
 
