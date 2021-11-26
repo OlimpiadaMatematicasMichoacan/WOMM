@@ -292,16 +292,25 @@ Escríbenos a <a href="mailto:olimpiada.omm@gmail.com">este correo</a> y con muc
 <p> &nbsp; </p>
 #### ¡Ayúdanos a darle difusión al evento!
 
+Apúnta a todos tus conocidos a la página.
+
+Puedes descargar e imprimir el [póster en formato pdf](assets/images/poster/poster2022.pdf).
+
+O si prefieres enviar sólo una imagen rápida:
+
+#### Para móbil:
+<a href="assets/images/poster/poster2022mobil.jpg"><img src="assets/images/poster/poster2022mobil.jpg" alt="póster" width="50%"></a>
+#### Para web:
+<a href="assets/images/poster/poster2022web.jpg"><img src="assets/images/poster/poster2022web.jpg" alt="póster" width="90%"></a>
+
 <span style="color:#aa00fb">Somos una organización sin fines de lucro. Simplemente tenemos interés en aportar nuestro granito de arena a la educación matemática en Michoacán.</span>
 
 <center><small>Las decisiones del jurado son inapelables.</small></center>
 
 
 
-<!-- Apúnta a todos tus conocidos a la página. Muy pronto encontrarás aquí pósters e imágenes promocionales. -->
 
 <!-- Puedes descargar e imprimir el [póster en formato pdf](assets/images/poster/poster.pdf). -->
 
-<!-- O si prefieres enviar sólo una imagen rápida: -->
 
 <!-- <a href="assets/images/poster/poster.jpg"><img src="assets/images/poster/poster.jpg" alt="póster" width="100%"></a> -->
