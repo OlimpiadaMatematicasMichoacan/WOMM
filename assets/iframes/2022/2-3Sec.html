@@ -1,0 +1,85 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    
+      <meta charset="utf-8">
+      <title>Bokeh Plot</title>
+      
+      
+        
+          
+        
+        
+          
+        <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-2.4.2.min.js"></script>
+        <script type="text/javascript">
+            Bokeh.set_log_level("info");
+        </script>
+        
+      
+      
+    
+  </head>
+  
+  
+  <body>
+    
+      
+        
+          
+          
+            
+              <div class="bk-root" id="0ed9553f-1901-4fb3-86e5-9a501d2c093a" data-root-id="9584"></div>
+            
+          
+        
+      
+      
+        <script type="application/json" id="9728">
+          {"d0d03195-6b22-4821-841c-3b5b4e61acf3":{"defs":[],"roots":{"references":[{"attributes":{"coordinates":null,"data_source":{"id":"9583"},"glyph":{"id":"9604"},"group":null,"hover_glyph":null,"muted_glyph":{"id":"9606"},"nonselection_glyph":{"id":"9605"},"view":{"id":"9608"}},"id":"9607","type":"GlyphRenderer"},{"attributes":{},"id":"9599","type":"BasicTicker"},{"attributes":{"axis":{"id":"9595"},"coordinates":null,"grid_line_color":null,"group":null,"ticker":null},"id":"9597","type":"Grid"},{"attributes":{"below":[{"id":"9595"}],"center":[{"id":"9597"},{"id":"9601"}],"height":400,"left":[{"id":"9598"}],"renderers":[{"id":"9607"}],"title":{"id":"9585"},"toolbar":{"id":"9602"},"toolbar_location":null,"width":780,"x_range":{"id":"9587"},"x_scale":{"id":"9591"},"y_range":{"id":"9589"},"y_scale":{"id":"9593"}},"id":"9584","subtype":"Figure","type":"Plot"},{"attributes":{"axis":{"id":"9598"},"coordinates":null,"dimension":1,"group":null,"ticker":null},"id":"9601","type":"Grid"},{"attributes":{},"id":"9614","type":"AllLabels"},{"attributes":{"coordinates":null,"group":null,"text":"Examen Inicial Olimpiada de Matem\u00e1ticas, Enero 2022. 2\u00b0 y 3\u00b0 de secundaria"},"id":"9585","type":"Title"},{"attributes":{},"id":"9618","type":"UnionRenderers"},{"attributes":{"axis_label":"Calificaci\u00f3n (sobre 12)","coordinates":null,"formatter":{"id":"9616"},"group":null,"major_label_policy":{"id":"9617"},"ticker":{"id":"9596"}},"id":"9595","type":"CategoricalAxis"},{"attributes":{},"id":"9591","type":"CategoricalScale"},{"attributes":{},"id":"9619","type":"Selection"},{"attributes":{"callback":null,"tooltips":[["Total","@counts"],["Cinta","@extra"]]},"id":"9609","type":"HoverTool"},{"attributes":{},"id":"9617","type":"AllLabels"},{"attributes":{},"id":"9616","type":"CategoricalTickFormatter"},{"attributes":{"tools":[{"id":"9609"}]},"id":"9602","type":"Toolbar"},{"attributes":{"data":{"categories":["0","1","2","3","4","5","6","7","8","9","10","11","12"],"color":["#3288bd","#3288bd","#3288bd","#cfcfdf","#cfcfdf","#a6a6b5","#a6a6b5","#a6a6b5","#a6a6b5","#ebe784","#ebe784","#ebe784","#ebe784"],"counts":[5,9,11,14,10,7,11,7,0,2,3,0,1],"extra":["no","no","no","Blanca","Blanca","Blanca Avanzada","Blanca Avanzada","Blanca Avanzada","Blanca Avanzada","Amarilla","Amarilla","Amarilla","Amarilla"]},"selected":{"id":"9619"},"selection_policy":{"id":"9618"}},"id":"9583","type":"ColumnDataSource"},{"attributes":{},"id":"9613","type":"BasicTickFormatter"},{"attributes":{"fill_alpha":{"value":0.2},"fill_color":{"field":"color"},"hatch_alpha":{"value":0.2},"hatch_color":{"field":"color"},"line_alpha":{"value":0.2},"line_color":{"field":"color"},"top":{"field":"counts"},"width":{"value":0.9},"x":{"field":"categories"}},"id":"9606","type":"VBar"},{"attributes":{"end":15},"id":"9589","type":"Range1d"},{"attributes":{"fill_alpha":{"value":0.1},"fill_color":{"field":"color"},"hatch_alpha":{"value":0.1},"hatch_color":{"field":"color"},"line_alpha":{"value":0.1},"line_color":{"field":"color"},"top":{"field":"counts"},"width":{"value":0.9},"x":{"field":"categories"}},"id":"9605","type":"VBar"},{"attributes":{},"id":"9596","type":"CategoricalTicker"},{"attributes":{"axis_label":"# participantes","coordinates":null,"formatter":{"id":"9613"},"group":null,"major_label_policy":{"id":"9614"},"ticker":{"id":"9599"}},"id":"9598","type":"LinearAxis"},{"attributes":{},"id":"9593","type":"LinearScale"},{"attributes":{"source":{"id":"9583"}},"id":"9608","type":"CDSView"},{"attributes":{"fill_alpha":{"value":0.9},"fill_color":{"field":"color"},"hatch_alpha":{"value":0.9},"hatch_color":{"field":"color"},"line_alpha":{"value":0.9},"line_color":{"field":"color"},"top":{"field":"counts"},"width":{"value":0.9},"x":{"field":"categories"}},"id":"9604","type":"VBar"},{"attributes":{"factors":["0","1","2","3","4","5","6","7","8","9","10","11","12"]},"id":"9587","type":"FactorRange"}],"root_ids":["9584"]},"title":"Bokeh Application","version":"2.4.2"}}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            const fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  const docs_json = document.getElementById('9728').textContent;
+                  const render_items = [{"docid":"d0d03195-6b22-4821-841c-3b5b4e61acf3","root_ids":["9584"],"roots":{"9584":"0ed9553f-1901-4fb3-86e5-9a501d2c093a"}}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    let attempts = 0;
+                    const timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        clearInterval(timer);
+                        embed_document(root);
+                      } else {
+                        attempts++;
+                        if (attempts > 100) {
+                          clearInterval(timer);
+                          console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                        }
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    
+  </body>
+  
+</html>
