@@ -14,13 +14,7 @@ Puedes consultar los resultados del 2021 aquí:
 
 ## Estadísticas de participación
 
-### Participación por Ciudad
-
-<iframe src="../assets/iframes/2022/Ciudad.html" class="plot"></iframe><br><br>
-
-### Participación por Sexo
-
-<iframe src="../assets/iframes/2022/Sexo.html" class="plot"></iframe>
+Si presentaste el examen en enero 2022, <span style="color:#ff0000">debiste recibir un correo con tu resultado.</span> Si no lo recibiste, revisa tu bandeja de spam. Puedes consultar tu puntuación en la plataforma donde hiciste el examen. Puedes comparar con las puntuaciones a continuación:
 
 
 ## Puntajes
@@ -51,6 +45,16 @@ Si presentaste el examen, puedes [consultar tu calificación](https://registro.o
 <iframe src="../assets/iframes/2022/2-3Sec.html" class="plot"></iframe>
 
 <iframe src="../assets/iframes/2022/1-2Pre.html" class="plot"></iframe>
+
+
+
+### Participación por Ciudad
+
+<iframe src="../assets/iframes/2022/Ciudad.html" class="plot"></iframe><br><br>
+
+### Participación por Sexo
+
+<iframe src="../assets/iframes/2022/Sexo.html" class="plot"></iframe>
 
 
 

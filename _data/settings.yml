@@ -14,6 +14,7 @@ copyright: "Designed by <a href='https://roicort.github.io'>Rodrigo Cortez</a> w
 menu:
 - {name: Inicio, link: '/'}
 - {name: Acerca, link: '/acerca'}
+- {name: Resultados, link: '/resultados'}
 - {name: Convocatoria, link: '/convocatoria'}
 - {name: Prepárate, link: '/preparate'}
 #- {name: Póster, link: '/poster'}
