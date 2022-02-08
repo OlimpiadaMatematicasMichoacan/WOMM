@@ -85,7 +85,7 @@ Si logras resolver satisfactoriamente el examen inicial, dependiendo de tu edad 
       <div class="card hover-shadow shadow">
         <div class="card-body active-bg-primary text-center px-2 py-3">
           <img src="/assets/images/niveles/yellowbelt.png" height=250> 
-          <h4 class="mb-4">Cinta Amarilla</h4>
+          <h4 class="mb-4"><span style="color:#ffff00">Cinta Amarilla</span></h4>
 <!--           <p>Intermedio</p> -->
         </div>
       </div>
@@ -95,7 +95,7 @@ Si logras resolver satisfactoriamente el examen inicial, dependiendo de tu edad 
       <div class="card hover-shadow shadow">
         <div class="card-body active-bg-primary text-center px-2 py-3">
           <img src="/assets/images/niveles/orangebelt.png" height=250>
-          <h4 class="mb-4">Cinta Anaranjada</h4>
+          <h4 class="mb-4"><span style="color:#ff9900">Cinta Anaranjada</span></h4>
 <!--           <p>Avanzado</p> -->
         </div>
       </div>
@@ -105,7 +105,7 @@ Si logras resolver satisfactoriamente el examen inicial, dependiendo de tu edad 
       <div class="card hover-shadow shadow">
         <div class="card-body active-bg-primary text-center px-2 py-3">
           <img src="/assets/images/niveles/greenbelt.png" height=250>
-          <h4 class="mb-4">Cinta Verde</h4>
+          <h4 class="mb-4"><span style="color:#00ff00">Cinta Verde</span></h4>
 <!--           <p>Avanzado</p> -->
         </div>
       </div>
@@ -115,7 +115,7 @@ Si logras resolver satisfactoriamente el examen inicial, dependiendo de tu edad 
       <div class="card hover-shadow shadow">
         <div class="card-body active-bg-primary text-center px-2 py-3">
           <img src="/assets/images/niveles/bluebelt.png" height=250>
-          <h4 class="mb-4">Cinta Azul</h4>
+          <h4 class="mb-4"><span style="color:#0080ff">Cinta Azul</span></h4>
 <!--           <p>Avanzado</p> -->
         </div>
       </div>
@@ -125,7 +125,7 @@ Si logras resolver satisfactoriamente el examen inicial, dependiendo de tu edad 
       <div class="card hover-shadow shadow">
         <div class="card-body active-bg-primary text-center px-2 py-3">
           <img src="/assets/images/niveles/redbelt.png" height=250>
-          <h4 class="mb-4">Cinta Roja</h4>
+          <h4 class="mb-4"><span style="color:#ff0000">Cinta Roja</span></h4>
 <!--           <p>Avanzado</p> -->
         </div>
       </div>
@@ -136,7 +136,7 @@ Si logras resolver satisfactoriamente el examen inicial, dependiendo de tu edad 
       <div class="card hover-shadow shadow">
         <div class="card-body active-bg-primary text-center px-2 py-3">
           <img src="/assets/images/niveles/ninja.png" height=250>
-          <h4 class="mb-4">Cinta Negra</h4>
+          <h4 class="mb-4"><span style="color:#000000">Cinta Negra</span></h4>
 <!--           <p>Avanzado</p> -->
         </div>
       </div>
