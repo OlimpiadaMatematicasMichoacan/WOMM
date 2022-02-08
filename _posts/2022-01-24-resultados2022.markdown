@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Resultados primera vuelta 2022
+date:   2022-01-02 10:05:55 +0300
+image:  /assets/images/blog/end.png
+author: Miguel Raggi
+tags:   OMM, OMMEB
+---
+
+¡Ya están disponibles los [resultados](/resultados) de la primera vuelta! Felicidades a quienes avanzaron. Si no avanzaste, no te preocupes, aún puedes presentar el examen de la segunda vuelta.
