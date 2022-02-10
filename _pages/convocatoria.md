@@ -101,7 +101,7 @@ Si logras resolver satisfactoriamente el examen inicial, dependiendo de tu edad 
       </div>
     </div>
     
-    <div class="col-md-4 mb-4 mb-md-0">
+    <div class="col-md-6 mb-4 mb-md-0">
       <div class="card hover-shadow shadow">
         <div class="card-body active-bg-primary text-center px-2 py-3">
           <img src="/assets/images/niveles/greenbelt.png" height=250>
@@ -111,7 +111,7 @@ Si logras resolver satisfactoriamente el examen inicial, dependiendo de tu edad 
       </div>
     </div>
     
-    <div class="col-md-4 mb-4 mb-md-0">
+    <div class="col-md-6 mb-4 mb-md-0">
       <div class="card hover-shadow shadow">
         <div class="card-body active-bg-primary text-center px-2 py-3">
           <img src="/assets/images/niveles/bluebelt.png" height=250>
@@ -121,7 +121,7 @@ Si logras resolver satisfactoriamente el examen inicial, dependiendo de tu edad 
       </div>
     </div>
     
-    <div class="col-md-4 mb-4 mb-md-0">
+    <div class="col-md-6 mb-4 mb-md-0">
       <div class="card hover-shadow shadow">
         <div class="card-body active-bg-primary text-center px-2 py-3">
           <img src="/assets/images/niveles/redbelt.png" height=250>
@@ -132,7 +132,7 @@ Si logras resolver satisfactoriamente el examen inicial, dependiendo de tu edad 
     </div>
     
     
-    <div class="col-md-4 mb-4 mb-md-0">
+    <div class="col-md-6 mb-4 mb-md-0">
       <div class="card hover-shadow shadow">
         <div class="card-body active-bg-primary text-center px-2 py-3">
           <img src="/assets/images/niveles/ninja.png" height=250>
