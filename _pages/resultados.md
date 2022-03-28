@@ -23,42 +23,42 @@ Si presentaste el examen en enero o marzo 2022, <span style="color:#ff0000">debi
 <th title="Field #2">Ciudad</th>
 </tr></thead>
 <tbody>
-<tr><td><img src="assets/images/icons/medal_1gold.png" height="25px">Conservatorio De Las Rosas </td><td>Morelia</td> </tr>
-<tr><td><img src="assets/images/icons/medal_2silver.png" height="25px">Colegio De Las Américas </td><td>Morelia</td> </tr>
-<tr><td><img src="assets/images/icons/medal_2silver.png" height="25px">Colegio Interamericano De Sahuayo </td><td>Sahuayo</td> </tr>
-<tr><td><img src="assets/images/icons/medal_3bronze.png" height="25px">Tecnológico De Monterrey </td><td>Morelia</td> </tr>
-<tr><td><img src="assets/images/icons/medal_3bronze.png" height="25px">Instituto Antonio De Mendoza </td><td>Morelia</td> </tr>
+<tr><td><img src="assets/images/icons/medal_1gold.png" height="25px">Conservatorio de las Rosas </td><td>Morelia</td> </tr>
+<tr><td><img src="assets/images/icons/medal_2silver.png" height="25px">Colegio de las Américas </td><td>Morelia</td> </tr>
+<tr><td><img src="assets/images/icons/medal_2silver.png" height="25px">Colegio Interamericano de Sahuayo </td><td>Sahuayo</td> </tr>
+<tr><td><img src="assets/images/icons/medal_3bronze.png" height="25px">Tecnológico de Monterrey </td><td>Morelia</td> </tr>
+<tr><td><img src="assets/images/icons/medal_3bronze.png" height="25px">Instituto Antonio de Mendoza </td><td>Morelia</td> </tr>
 <tr><td><img src="assets/images/icons/medal_3bronze.png" height="25px">Colegio Anglo </td><td>Lázaro Cárdenas</td> </tr>
 <tr><td>Instituto Morelos </td><td>Uruapan</td> </tr>
 <tr><td>COBAEM Los Reyes </td><td>Los Reyes</td> </tr>
 <tr><td>Preparatoria General Enrique Ramírez </td><td>Lázaro Cárdenas</td> </tr>
 <tr><td>Instituto Ausubel </td><td>Morelia</td> </tr>
 <tr><td>Instituto Pedagógico Juan Amos Comenio </td><td>Morelia</td> </tr>
-<tr><td>Colegio Huetamo </td><td>Huetamo</td> </tr>
 <tr><td>CECyTEM 04 Puruándiro </td><td>Puruándiro</td> </tr>
 <tr><td>COBAEM Tlazazalca </td><td>Tlazazalca</td> </tr>
+<tr><td>Colegio Huetamo </td><td>Huetamo</td> </tr>
 <tr><td>CECyTEM 05 Guacamayas </td><td>Lázaro Cárdenas</td> </tr>
 <tr><td>IPEC </td><td>Morelia</td> </tr>
 <tr><td>CECyTEM 13 Purépero </td><td>Purépero</td> </tr>
 <tr><td>Instituto Gestalt </td><td>Morelia</td> </tr>
 <tr><td>Colegio México Nuevo </td><td>Morelia</td> </tr>
-<tr><td>Instituto Harvard De Morelia </td><td>Morelia</td> </tr>
+<tr><td>Instituto Harvard de Morelia </td><td>Morelia</td> </tr>
 <tr><td>Villa Montessori </td><td>Morelia</td> </tr>
-<tr><td>Liceo Michoacano </td><td>Morelia</td> </tr>
 <tr><td>COBAEM Apatzingán </td><td>Apatzingán</td> </tr>
-<tr><td>Universidad La Salle </td><td>Morelia</td> </tr>
-<tr><td>Jefferson Internacional </td><td>Morelia</td> </tr>
+<tr><td>Liceo Michoacano </td><td>Morelia</td> </tr>
 <tr><td>COBAEM Cuitzeo </td><td>Cuitzeo</td> </tr>
-<tr><td>Instituto Vasco De Quiroga </td><td>Morelia</td> </tr>
+<tr><td>Jefferson Internacional </td><td>Morelia</td> </tr>
+<tr><td>Universidad La Salle </td><td>Morelia</td> </tr>
 <tr><td>COBAEM Cherán </td><td>Cherán</td> </tr>
-<tr><td>Universidad Latina De América </td><td>Morelia</td> </tr>
-<tr><td>CECyTEM 43 Buenavista </td><td>Contepec</td> </tr>
-<tr><td>Centro Educativo Morelia </td><td>Morelia</td> </tr>
+<tr><td>Instituto Vasco de Quiroga </td><td>Morelia</td> </tr>
 <tr><td>Escuela Secundaria Técnica 164 </td><td>Morelia</td> </tr>
 <tr><td>Instituto Kipling </td><td>Morelia</td> </tr>
+<tr><td>CECyTEM 43 Buenavista </td><td>Contepec</td> </tr>
+<tr><td>Universidad Latina de América </td><td>Morelia</td> </tr>
+<tr><td>Centro Educativo Morelia </td><td>Morelia</td> </tr>
 </tbody></table>
 
-Otras escuelas con participación destacada: Colegio Ebenezer (Morelia), CECyTEM (Morelia), COBAEM Contepec (Contepec), CBTis 94 (Pátzcuaro), COBAEM Tuxpan (Tuxpan), COBAEM Ario De Rosales (Ario de Rosales), COBAEM San Juan De Viña (Morelia), Colegio Hispano Americano (Morelia), Escuela Secundaria Federal Vicente Lombardo Toledano (Morelia), Escuela Secundaria Federal No 11 Simón Bolívar (Morelia), Colegio Patria De Cárdenas (Lázaro Cárdenas), Colegio Jean Piaget (Zitácuaro), Universidad Vasco De Quiroga (Erongarícuaro), Comunidad Educativa Y Cultural Ivan Illich (Morelia), Colegio Atenógenes Silva (Morelia), Secundaria Federal No 2 Hermanos Flores (Morelia), Ceb 6/10 (Queréndaro), Luis Donaldo Colosio (Morelia), Lancaster (Morelia), Instituto Octavio Paz Lozano (Morelia), Escuela Secundaria Técnica 49 “Samuel Ramos” (Zitácuaro), Escuela Secundaria Técnica No 35 (Morelia), Escuela Secundaria Técnica 26 (Queréndaro), Gabriela Mistral (Pastor Ortiz), Secundaria 113 (Lázaro Cárdenas), Instituto Colon (Morelia), Escuela Preparatoria Dr. Melchor Díaz Rubio (Morelia), Escuela Secundaria Federal Melchor Ocampo (Morelia), Escuela Secundaria Federal Gildardo Magaña (Purépero), Escuela Primaria General Francisco J Mujica (Zitácuaro), Escuela Preparatoria Ing Pascual Ortiz Rubio (Morelia), Colegio Silviano Carrillo (Pátzcuaro), Enrique García Gallegos (Morelia), Colegio Knowledge Quest (Morelia), CONALEP (Morelia), COBAEM Briseñas (Briseñas), Colegio Interamericano De Sahuayo (Jiquilpan), Colegio Educare (Uruapan), Colegio Neek (Morelia), Colegio Salesiano Colón (Zamora), CECyTEM 19 Tzintzuntzan (Tzintzuntzan), COBAEM (Morelia), Instituto Valladolid (Morelia), Instituto Valle Tancítaro (Tancítaro), COBAEM (Purépero), José María Morelos (Zinapécuaro), CECyTEM 27 San Pedro Jacuaro (San Pedro Jácuaro), Secundaria Nicolas Romero Numero 1 (Zitácuaro), Maestro Justo Sierra (Ario de Rosales), Motolinia (Morelia), COBAEM Gámbara (Gámbara), Secundaria Ana Maria Gallaga (Huaniqueo), CECyTEM 22 Tangancicuaro (Los Reyes), Instituto Morelos (Morelia), 10 De Abril (Nueva Italia), Ignacio Zaragoza (Morelia), Ignacio López Rayón (Ciudad Hidalgo), ICEP (Lázaro Cárdenas), Himno Nacional (Morelia), Colegio Hidalgo (Uruapan), COBAEM Nocupétaro (Morelia), CECyTEM 25 Opopeo (Morelia), Vasco De Quiroga (Lázaro Cárdenas), Educación Net (Tzintzuntzan), Universidad Montrer (Morelia), Universidad Michoacana De San Nicolás De Hidalgo (Morelia), CECyTEM 17 Ciudad Hidalgo (Ciudad Hidalgo), Colegio La Paz (Uruapan), CECyTEM 21 (Altamirano), Escuela Secundaria Técnica 108 (Morelia), Escuela Secundaria Técnica Dr José Sixto Verduzco (Zamora), Felipe Carrillo Puerto (Huetamo), Rafael Ramirez (Huetamo), CECyTEM 26 Uripitio (Morelia), COBAEM Santa Ana Maya (Santa Ana Maya), Colegio De CECyTEM (Morelia), COBAEM (Ciudad Hidalgo), Casa Del Niño (Uruapan), CONALEP (Lázaro Cárdenas), COBAEM Tacámbaro (Tacámbaro), COBAEM Carapan (Chilchota), COBAEM Chavinda (Morelia), Escuela Preparatoria Lic Eduardo Ruiz (Uruapan), COBAEM Cotija (Cotija).
+Otras escuelas con participación destacada: COBAEM Contepec (Contepec), Colegio Ebenezer (Morelia), CBTis 94 (Pátzcuaro), CECyTEM (Morelia), COBAEM Ario De Rosales (Ario de Rosales), COBAEM San Juan De Viña (Morelia), COBAEM Tuxpan (Tuxpan), Escuela Secundaria Federal Vicente Lombardo Toledano (Morelia), Escuela Secundaria Federal No 11 Simón Bolívar (Morelia), Instituto Octavio Paz Lozano (Morelia), Secundaria Federal No 2 Hermanos Flores (Morelia), Luis Donaldo Colosio (Morelia), Colegio Patria De Cárdenas (Lázaro Cárdenas), Lancaster (Morelia), Universidad Vasco De Quiroga (Erongarícuaro), Colegio Jean Piaget (Zitácuaro), Comunidad Educativa Y Cultural Ivan Illich (Morelia), Colegio Hispano Americano (Morelia), Colegio Atenógenes Silva (Morelia), Ceb 6/10 (Queréndaro), Escuela Primaria General Francisco J Mujica (Zitácuaro), Escuela Preparatoria Ing Pascual Ortiz Rubio (Morelia), Escuela Secundaria Técnica No 35 (Morelia), Escuela Secundaria Técnica 49 “Samuel Ramos” (Zitácuaro), Escuela Secundaria Técnica 26 (Queréndaro), CONALEP (Morelia), Secundaria 113 (Lázaro Cárdenas), Colegio Educare (Uruapan), Escuela Secundaria Federal Melchor Ocampo (Morelia), Escuela Secundaria Federal Gildardo Magaña (Purépero), Gabriela Mistral (Pastor Ortiz), Escuela Preparatoria Dr. Melchor Díaz Rubio (Morelia), Enrique García Gallegos (Morelia), COBAEM Briseñas (Briseñas), Colegio Knowledge Quest (Morelia), Colegio Silviano Carrillo (Pátzcuaro), Colegio Salesiano Colón (Zamora), Instituto Colon (Morelia), Colegio Neek (Morelia).
 
 
 ### Cintas obtenidas en cada categoría
