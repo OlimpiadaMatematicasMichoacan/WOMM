@@ -28,33 +28,37 @@ Si presentaste el examen en enero o marzo 2022, <span style="color:#ff0000">debi
 <tr><td><img src="assets/images/icons/medal_2silver.png" height="25px">Colegio Interamericano De Sahuayo </td><td>Sahuayo</td> </tr>
 <tr><td><img src="assets/images/icons/medal_3bronze.png" height="25px">Tecnológico De Monterrey </td><td>Morelia</td> </tr>
 <tr><td><img src="assets/images/icons/medal_3bronze.png" height="25px">Instituto Antonio De Mendoza </td><td>Morelia</td> </tr>
-<tr><td><img src="assets/images/icons/medal_3bronze.png" height="25px">Instituto Morelos </td><td>Uruapan</td> </tr>
-<tr><td>Colegio Anglo </td><td>Lázaro Cárdenas</td> </tr>
-<tr><td>COBAEM Tlazazalca </td><td>Tlazazalca</td> </tr>
-<tr><td>Instituto Ausubel </td><td>Morelia</td> </tr>
+<tr><td><img src="assets/images/icons/medal_3bronze.png" height="25px">Colegio Anglo </td><td>Lázaro Cárdenas</td> </tr>
+<tr><td>Instituto Morelos </td><td>Uruapan</td> </tr>
 <tr><td>COBAEM Los Reyes </td><td>Los Reyes</td> </tr>
 <tr><td>Preparatoria General Enrique Ramírez </td><td>Lázaro Cárdenas</td> </tr>
+<tr><td>Instituto Ausubel </td><td>Morelia</td> </tr>
 <tr><td>Instituto Pedagógico Juan Amos Comenio </td><td>Morelia</td> </tr>
 <tr><td>Colegio Huetamo </td><td>Huetamo</td> </tr>
-<tr><td>CECyTEM 43 Buenavista </td><td>Contepec</td> </tr>
-<tr><td>Ipec </td><td>Morelia</td> </tr>
-<tr><td>Instituto Harvard De Morelia </td><td>Morelia</td> </tr>
-<tr><td>CECyTEM 05 Guacamayas </td><td>Lázaro Cárdenas</td> </tr>
 <tr><td>CECyTEM 04 Puruándiro </td><td>Puruándiro</td> </tr>
-<tr><td>COBAEM Tuxpan </td><td>Tuxpan</td> </tr>
-<tr><td>Colegio México Nuevo </td><td>Morelia</td> </tr>
+<tr><td>COBAEM Tlazazalca </td><td>Tlazazalca</td> </tr>
+<tr><td>CECyTEM 05 Guacamayas </td><td>Lázaro Cárdenas</td> </tr>
+<tr><td>IPEC </td><td>Morelia</td> </tr>
 <tr><td>CECyTEM 13 Purépero </td><td>Purépero</td> </tr>
-<tr><td>Jefferson Internacional </td><td>Morelia</td> </tr>
 <tr><td>Instituto Gestalt </td><td>Morelia</td> </tr>
-<tr><td>COBAEM Apatzingán </td><td>Apatzingán</td> </tr>
-<tr><td>COBAEM Cuitzeo </td><td>Cuitzeo</td> </tr>
+<tr><td>Colegio México Nuevo </td><td>Morelia</td> </tr>
+<tr><td>Instituto Harvard De Morelia </td><td>Morelia</td> </tr>
 <tr><td>Villa Montessori </td><td>Morelia</td> </tr>
 <tr><td>Liceo Michoacano </td><td>Morelia</td> </tr>
-<tr><td>Centro Educativo Morelia </td><td>Morelia</td> </tr>
+<tr><td>COBAEM Apatzingán </td><td>Apatzingán</td> </tr>
 <tr><td>Universidad La Salle </td><td>Morelia</td> </tr>
+<tr><td>Jefferson Internacional </td><td>Morelia</td> </tr>
+<tr><td>COBAEM Cuitzeo </td><td>Cuitzeo</td> </tr>
+<tr><td>Instituto Vasco De Quiroga </td><td>Morelia</td> </tr>
+<tr><td>COBAEM Cherán </td><td>Cherán</td> </tr>
+<tr><td>Universidad Latina De América </td><td>Morelia</td> </tr>
+<tr><td>CECyTEM 43 Buenavista </td><td>Contepec</td> </tr>
+<tr><td>Centro Educativo Morelia </td><td>Morelia</td> </tr>
+<tr><td>Escuela Secundaria Técnica 164 </td><td>Morelia</td> </tr>
+<tr><td>Instituto Kipling </td><td>Morelia</td> </tr>
 </tbody></table>
 
-Otras escuelas con participación destacada: Colegio Ebenezer (Morelia), COBAEM Contepec (Contepec), Instituto Vasco De Quiroga (Morelia), CECyTEM 27 San Pedro Jacuaro (San Pedro Jácuaro), COBAEM Cherán (Cherán), Universidad Latina De América (Morelia), Instituto Kipling (Morelia), COBAEM Ario De Rosales (Ario de Rosales), Escuela Secundaria Técnica 164 (Morelia), CBTis 94 (Pátzcuaro), COBAEM Nocupétaro (Morelia), CECyTEM (Morelia), Colegio Patria De Cárdenas (Lázaro Cárdenas), COBAEM San Juan De Viña (Morelia), COBAEM (Morelia), Secundaria Federal No 2 Hermanos Flores (Morelia), Colegio Atenógenes Silva (Morelia), Escuela Preparatoria Dr. Melchor Díaz Rubio (Morelia), Comunidad Educativa Y Cultural Ivan Illich (Morelia), Luis Donaldo Colosio (Morelia), Escuela Secundaria Federal No 11 Simón Bolívar (Morelia), Escuela Secundaria Federal No. 5 Héroes de Chapultepec (Morelia), Escuela Secundaria Federal Vicente Lombardo Toledano (Morelia), Universidad Vasco De Quiroga (Erongarícuaro), Colegio Jean Piaget (Zitácuaro), Lancaster (Morelia), Colegio Hispano Americano (Morelia), Instituto Octavio Paz Lozano (Morelia), Ceb 6/10 (Queréndaro), Colegio Neek (Morelia), Colegio Salesiano Colón (Zamora), Escuela Secundaria Federal Gildardo Magaña (Purépero), Colegio Silviano Carrillo (Pátzcuaro), Enrique García Gallegos (Morelia), Escuela Preparatoria Ing Pascual Ortiz Rubio (Morelia), Escuela Primaria General Francisco J Mujica (Zitácuaro), Escuela Secundaria Federal Melchor Ocampo (Morelia), Secundaria 113 (Lázaro Cárdenas), Escuela Secundaria Técnica 26 (Queréndaro), Colegio Interamericano De Sahuayo (Jiquilpan), Escuela Secundaria Técnica No 35 (Morelia), Gabriela Mistral (Pastor Ortiz), Instituto Colon (Morelia), Escuela Secundaria Técnica 49 “Samuel Ramos” (Zitácuaro), Colegio Knowledge Quest (Morelia), COBAEM Gámbara (Gámbara), Colegio Anglo (Morelia), Colegio Anglo (), Colegio Educare (Uruapan), COBAEM (Purépero), CONALEP (Morelia), COBAEM Briseñas (Briseñas), Colegio Hidalgo (Uruapan), José María Morelos (Zinapécuaro), Ignacio López Rayón (Ciudad Hidalgo), Ignacio Zaragoza (Morelia), Instituto Morelos (Morelia), Instituto Valladolid (Morelia), Instituto Valle Tancítaro (Tancítaro), Motolinia (Morelia), CECyTEM 22 Tangancicuaro (Los Reyes), Maestro Justo Sierra (Ario de Rosales), CECyTEM 19 Tzintzuntzan (Tzintzuntzan), Preparatoria Icep Lázaro Cárdenas (Lázaro Cárdenas), Secundaria Ana Maria Gallaga (Huaniqueo), Secundaria Nicolas Romero Numero 1 (Zitácuaro), Universidad Fray Antonio De Lisboa (Morelia), Universidad Michoacana De San Nicolás De Hidalgo (Morelia), Himno Nacional (Morelia), 10 De Abril (Nueva Italia), COBAEM Santa Ana Maya (Santa Ana Maya), COBAEM Yurécuaro (Yurécuaro), Escuela Secundaria Técnica 108 (Morelia), COBAEM Las Guacamayas (Lázaro Cárdenas), 
+Otras escuelas con participación destacada: Colegio Ebenezer (Morelia), CECyTEM (Morelia), COBAEM Contepec (Contepec), CBTis 94 (Pátzcuaro), COBAEM Tuxpan (Tuxpan), COBAEM Ario De Rosales (Ario de Rosales), COBAEM San Juan De Viña (Morelia), Colegio Hispano Americano (Morelia), Escuela Secundaria Federal Vicente Lombardo Toledano (Morelia), Escuela Secundaria Federal No 11 Simón Bolívar (Morelia), Colegio Patria De Cárdenas (Lázaro Cárdenas), Colegio Jean Piaget (Zitácuaro), Universidad Vasco De Quiroga (Erongarícuaro), Comunidad Educativa Y Cultural Ivan Illich (Morelia), Colegio Atenógenes Silva (Morelia), Secundaria Federal No 2 Hermanos Flores (Morelia), Ceb 6/10 (Queréndaro), Luis Donaldo Colosio (Morelia), Lancaster (Morelia), Instituto Octavio Paz Lozano (Morelia), Escuela Secundaria Técnica 49 “Samuel Ramos” (Zitácuaro), Escuela Secundaria Técnica No 35 (Morelia), Escuela Secundaria Técnica 26 (Queréndaro), Gabriela Mistral (Pastor Ortiz), Secundaria 113 (Lázaro Cárdenas), Instituto Colon (Morelia), Escuela Preparatoria Dr. Melchor Díaz Rubio (Morelia), Escuela Secundaria Federal Melchor Ocampo (Morelia), Escuela Secundaria Federal Gildardo Magaña (Purépero), Escuela Primaria General Francisco J Mujica (Zitácuaro), Escuela Preparatoria Ing Pascual Ortiz Rubio (Morelia), Colegio Silviano Carrillo (Pátzcuaro), Enrique García Gallegos (Morelia), Colegio Knowledge Quest (Morelia), CONALEP (Morelia), COBAEM Briseñas (Briseñas), Colegio Interamericano De Sahuayo (Jiquilpan), Colegio Educare (Uruapan), Colegio Neek (Morelia), Colegio Salesiano Colón (Zamora), CECyTEM 19 Tzintzuntzan (Tzintzuntzan), COBAEM (Morelia), Instituto Valladolid (Morelia), Instituto Valle Tancítaro (Tancítaro), COBAEM (Purépero), José María Morelos (Zinapécuaro), CECyTEM 27 San Pedro Jacuaro (San Pedro Jácuaro), Secundaria Nicolas Romero Numero 1 (Zitácuaro), Maestro Justo Sierra (Ario de Rosales), Motolinia (Morelia), COBAEM Gámbara (Gámbara), Secundaria Ana Maria Gallaga (Huaniqueo), CECyTEM 22 Tangancicuaro (Los Reyes), Instituto Morelos (Morelia), 10 De Abril (Nueva Italia), Ignacio Zaragoza (Morelia), Ignacio López Rayón (Ciudad Hidalgo), ICEP (Lázaro Cárdenas), Himno Nacional (Morelia), Colegio Hidalgo (Uruapan), COBAEM Nocupétaro (Morelia), CECyTEM 25 Opopeo (Morelia), Vasco De Quiroga (Lázaro Cárdenas), Educación Net (Tzintzuntzan), Universidad Montrer (Morelia), Universidad Michoacana De San Nicolás De Hidalgo (Morelia), CECyTEM 17 Ciudad Hidalgo (Ciudad Hidalgo), Colegio La Paz (Uruapan), CECyTEM 21 (Altamirano), Escuela Secundaria Técnica 108 (Morelia), Escuela Secundaria Técnica Dr José Sixto Verduzco (Zamora), Felipe Carrillo Puerto (Huetamo), Rafael Ramirez (Huetamo), CECyTEM 26 Uripitio (Morelia), COBAEM Santa Ana Maya (Santa Ana Maya), Colegio De CECyTEM (Morelia), COBAEM (Ciudad Hidalgo), Casa Del Niño (Uruapan), CONALEP (Lázaro Cárdenas), COBAEM Tacámbaro (Tacámbaro), COBAEM Carapan (Chilchota), COBAEM Chavinda (Morelia), Escuela Preparatoria Lic Eduardo Ruiz (Uruapan), COBAEM Cotija (Cotija).
 
 
 ### Cintas obtenidas en cada categoría
