@@ -66,7 +66,7 @@ Otras escuelas con participación destacada: Colegio Ebenezer (Morelia), COBAEM 
 <iframe src="../assets/iframes/2022/Ciudad.html" class="plot" height=400 width="70%"></iframe><br><br>
 
 En el mapa:
-<iframe src="../assets/iframes/2022/mapa.html" class="plot" height=400 width=400></iframe><br><br>
+<iframe src="../assets/iframes/2022/mapa.html" class="plot" height=400 width="80%"></iframe><br><br>
 
 
 ### Participación por Sexo
