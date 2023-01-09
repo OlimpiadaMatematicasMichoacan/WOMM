@@ -19,3 +19,4 @@ assets/images/.DS_Store
 assets/images/svgs
 assets/images/diplomas
 assets/images/diplomas_viejos
+delete_all_diplomas.sh
