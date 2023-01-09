@@ -23,8 +23,8 @@ en todos sus niveles, asistiendo al <a class="text-info" data-toggle="modal" dat
 
 Podrán participar estudiantes inscritos en cualquier institución de educación **pública** o **privada** del estado de Michoacán. Los exámenes iniciales están divididos en niveles que van <span style="color:#00a000">desde 4° de primaria hasta 2° año de preparatoria</span> o equivalente.
 
-- <span style="color:#00a000">Examen inicial (primera fecha):</span> 14, 15 y 16 de enero de 2022.
-- <span style="color:#00a000">Examen inicial (segunda fecha):</span> 17, 18, 19 y 20 de marzo de 2022.
+- <span style="color:#00a000">Examen inicial (primera fecha):</span> 9,10,11 y 12 de febrero de 2023.
+- <span style="color:#00a000">Examen inicial (segunda fecha):</span> POR DEFINIR.
 
 <!-- Si no avanzas en la primera fecha, puedes entrenar e intentarlo de nuevo en la segunda. -->
 
@@ -336,14 +336,14 @@ Escríbenos a <a href="mailto:olimpiada.omm@gmail.com">este correo</a> y con muc
 
 Apúnta a todos tus conocidos a la página.
 
-Puedes descargar e imprimir el [póster en formato pdf](assets/images/poster/poster2022.pdf).
+<!-- Puedes descargar e imprimir el [póster en formato pdf](assets/images/poster/poster2023.pdf). -->
 
-O si prefieres enviar sólo una imagen rápida:
+<!-- O si prefieres enviar sólo una imagen rápida: -->
 
-#### Para móbil:
-<a href="assets/images/poster/poster2022mobil.jpg"><img src="assets/images/poster/poster2022mobil.jpg" alt="póster" width="50%"></a>
-#### Para web:
-<a href="assets/images/poster/poster2022web.jpg"><img src="assets/images/poster/poster2022web.jpg" alt="póster" width="90%"></a>
+<!-- #### Para móbil: -->
+<!-- <a href="assets/images/poster/poster2023mobil.jpg"><img src="assets/images/poster/poster2023mobil.jpg" alt="póster" width="50%"></a> -->
+<!-- #### Para web: -->
+<!-- <a href="assets/images/poster/poster2023web.jpg"><img src="assets/images/poster/poster2023web.jpg" alt="póster" width="90%"></a> -->
 
 <span style="color:#aa00fb">Somos una organización sin fines de lucro. Simplemente tenemos interés en aportar nuestro granito de arena a la educación matemática en Michoacán.</span>
 
