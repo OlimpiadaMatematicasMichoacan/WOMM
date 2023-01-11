@@ -18,17 +18,17 @@ title: Convocatoria
 <img src="assets/images/icons/logo-1.png" class="center-img">
 El Comité Estatal de la Olimpiada de Matemáticas en Michoacán <strong>convoca</strong> a participar en la
 <h3> Olimpiada Michoacana de Matemáticas</h3>
-en todos sus niveles, asistiendo al <a class="text-info" data-toggle="modal" data-target="#loginModal">curso de entrenamiento</a> en línea, abierto para <strong>todo público</strong>, y presentando el <a class="text-info" data-toggle="modal" data-target="#loginModal">examen inicial</a>.
+en todos sus niveles, asistiendo al <a class="text-info" data-toggle="modal" data-target="#loginModal">curso de entrenamiento</a> en línea, abierto para <strong>todo público</strong>, y presentando el <a class="text-info" data-toggle="modal" data-target="#loginModal">examen de colocación</a>.
 </center>
 
-Podrán participar estudiantes inscritos en cualquier institución de educación **pública** o **privada** del estado de Michoacán. Los exámenes iniciales están divididos en niveles que van <span style="color:#00a000">desde 4° de primaria hasta 2° año de preparatoria</span> o equivalente.
+Podrán participar estudiantes inscritos en cualquier institución de educación **pública** o **privada** del estado de Michoacán. Los exámenes de colocación están divididos en categorías que van <span style="color:#00a000">desde 4° de primaria hasta 2° año de preparatoria</span> o equivalente.
 
-- <span style="color:#00a000">Examen inicial (primera fecha):</span> 9,10,11 y 12 de febrero de 2023.
-- <span style="color:#00a000">Examen inicial (segunda fecha):</span> POR DEFINIR.
+- <span style="color:#00a000">Examen de colocación (primera fecha):</span> 10, 11 o 12 de febrero de 2023.
+- <span style="color:#00a000">Examen de colocación (segunda fecha):</span> 9, 10 u 11 de marzo de 2023.
 
-<!-- Si no avanzas en la primera fecha, puedes entrenar e intentarlo de nuevo en la segunda. -->
+Si obtienes cinta en la primera fecha, puedes entrenar e intentarlo de nuevo en la segunda.
 
-<!-- En ambas fechas puedes escoger qué día haces el examen, y una vez que avanzas ya no es necesario presentar el examen inicial en una fecha posterior durante el mismo año. Los exámenes son diferentes, claro. -->
+En ambas fechas puedes escoger qué día haces el examen, y una vez que obtienes tu primera cinta ya no es necesario presentar el examen de colocación en una fecha posterior durante el mismo año. Los exámenes son diferentes, claro.
 
 ##### ¿Te interesa?
 
@@ -63,7 +63,7 @@ Para participar en la Olimpiada de Matemáticas en Michoacán, deberás resolver
 
 <span style="color:magenta">Participar es totalmente gratuito</span> y, honestamente, <span style="color:magenta">muy divertido</span>.
 
-Si logras resolver satisfactoriamente el examen inicial, dependiendo de tu edad y nivel de conocimientos te colocaremos en alguno de varios grupos de entrenamiento. Periódicamente se aplicarán exámenes para avanzar de grupo.
+Si logras resolver satisfactoriamente el examen de colocación, dependiendo de tu edad y nivel de conocimientos te colocaremos en alguno de varios grupos de entrenamiento. Periódicamente se aplicarán exámenes para avanzar de grupo.
 
 <div class="container">
   <div class="row">
@@ -145,21 +145,21 @@ Si logras resolver satisfactoriamente el examen inicial, dependiendo de tu edad 
   </div>
 </div>
 
-Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMMEB, femenil, etc.) se invitará al grupo Teruk'ati en adelante a resolver un examen adicional para escoger a quienes representarán a Michoacán.
+Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMMEB, femenil, etc.) se invitará a las cintas más avanzadas a resolver un examen adicional para escoger a quienes representarán a Michoacán en esa ocasión.
 
 ### <span style="color:#00a000">Preguntas frecuentes</span>
 
 <br>
 
 <details>
-<summary>¿Qué conocimientos necesito para resolver el examen inicial?</summary>
+<summary>¿Qué conocimientos necesito para resolver el examen de colocación?</summary>
 <p> 
    Los primeros exámenes se resuelven usando <span style="color:#00a000">ingenio</span> y <span style="color:orange">lógica</span> más que conocimientos o técnicas, así que con los conocimientos básicos de primaria (sumar, multiplicar, etc.) podría ser suficiente. Sin embargo, como con todo, <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">practicar</a> podría aumentar considerablemente tu probabilidad de avanzar.
 </p>
 </details>
 
 <details>
-<summary>¿Cuánto dura el examen inicial?</summary>
+<summary>¿Cuánto dura el examen de colocación?</summary>
 <p> 
    Dependiendo de tu grado escolar, el examen durará entre 1 y 2 horas. Tú decides a qué hora iniciar y tu tiempo comienza a correr una vez que abres el examen. Te recomendamos apartar el tiempo suficiente para resolver el examen.
 </p>
@@ -169,7 +169,7 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 <details>
 <summary>¿Qué documentos necesito presentar para participar?</summary>
 <p> 
-   Puedes presentar el examen inicial sin presentar documentación. Si avanzas a la siguiente etapa, te pediremos algún documento que compruebe tu fecha de nacimiento y una constancia de inscripción en alguna escuela de Michoacán antes de poder emitir tu diploma.
+   Puedes presentar el examen de colocación sin presentar documentación. Si avanzas a la siguiente etapa, te pediremos algún documento que compruebe tu fecha de nacimiento y una constancia de inscripción en alguna escuela de Michoacán antes de poder emitir tu diploma.
 </p>
 </details>
 
@@ -183,7 +183,7 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 </details>
 
 <details>
-<summary>Muy bien, me convencieron. ¿Cómo me preparo para el examen inicial?</summary>
+<summary>Muy bien, me convencieron. ¿Cómo me preparo para el examen de colocación?</summary>
 <p>
 ¡Muy buena actitud! La recomendación es practicar resolviendo ejercicios. Al <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">registrarte</a>, puedes hacer algunos exámenes de práctica (¡incluyen soluciones!) y un curso en línea (con videos y ejercicios) para aprender algunos conceptos básicos. Aquí hay algunos <a href="/preparate">recursos para prepararte</a>.
 </p>
@@ -197,7 +197,7 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
    
 <p>Sin embargo, entendemos que quienes participan tienen muchas otras ocupaciones, tareas y compromisos que atender. Agradecemos cualquier cantidad de tiempo que le quieras o puedas dedicar a esto. Es <span style="color:#009000">completamente válido</span> decidir "va, le entro, pero sólo le dedicaré una hora a la semana".</p>
 
-<p> Por ejemplo, para pasar los exámenes iniciales, <strong>entre 4 y 8 horas de práctica en total</strong> sería suficiente para la mayoría de las personas. Pero claro, si tu objetivo es llegar a representar a Michoacán en las etapas nacionales, probablemente eso sí requerirá un compromiso de tiempo bastante mayor de, quizás, <strong>un par de horas al día</strong> o más.</p>
+<p> Por ejemplo, para pasar los exámenes de colocación, <strong>entre 4 y 8 horas de práctica en total</strong> sería suficiente para la mayoría de las personas. Pero claro, si tu objetivo es llegar a representar a Michoacán en las etapas nacionales, probablemente eso sí requerirá un compromiso de tiempo bastante mayor de, quizás, <strong>un par de horas al día</strong> o más.</p>
 
 <p> Si no tienes mucho tiempo para dedicarle a esto, tengo <span style="color:magenta">un secreto revelador</span> para ti: <strong>puedes obtener la mayoría de los beneficios que proporciona la Olimpiada de Matemáticas con realmente muy poco tiempo de entrenamiento</strong>, debido a un fenómeno conocido como <a href="https://es.wikipedia.org/wiki/Principio_de_Pareto">el principio Pareto</a> y otro conocido como la <a href="https://es.wikipedia.org/wiki/Ley_de_los_rendimientos_decrecientes">Ley de los rendimientos decrecientes</a>. </p>
 
@@ -220,7 +220,7 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 <details>
 <summary>¿Y si no avanzo? ¿Habrá otra oportunida?</summary>
 <p> 
-   No te desanimes. Continúa preparándote y pronto anunciaremos otra oportunidad.
+   No te desanimes. Continúa preparándote e intenta a la segunda vuelta.
 </p>
 </details>
 
@@ -230,11 +230,11 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 </summary>
 
 <p>
-En años anteriores veíamos a la Olimpiada de Matemáticas en "fases", donde había un examen al final de cada fase y se eliminaba a quienes obtenían menores puntajes en cada examen.
+En años anteriores veíamos a la Olimpiada de Matemáticas en "fases", donde había un examen al final de cada fase y se eliminaba a quienes obtenían menores puntajes en cada examen, pero esto cambió el año pasado.
 </p>
 
 <p>
-A partir de ahora, a modo de experimento, pensaremos en la Olimpiada de Matemáticas (en Michoacán) de forma "continua": hay algunos exámenes para ingresar, y dependiendo de tus resultados y experiencia te acomodaremos uno de varios grupos de entrenamiento. Periódicamente habrá exámenes y otras oportunidades para avanzar a un grupo superior. Si no avanzas, no serás "eliminado", simplemente es una indicación que te falta preparación para iniciar entrenamientos más avanzados en ese momento.
+Continuaremos trabajando en la Olimpiada de Matemáticas (en Michoacán) de forma "continua": hay algunos exámenes para ingresar, y dependiendo de tus resultados y experiencia te acomodaremos uno de varios grupos de entrenamiento. Periódicamente habrá exámenes y otras oportunidades para avanzar a un grupo superior. Si no avanzas, no serás "eliminado", simplemente es una indicación que te falta preparación para iniciar entrenamientos más avanzados en ese momento.
 </p>
 
 <p>
@@ -277,7 +277,7 @@ Cada año, participamos (o participaremos) en los siguientes concursos:
 <strong><span style="color:#ff5522">[Noviembre] </span></strong><span style="color:#aa00fb">Concurso Nacional OMM</span>: 3° año de bachillerato (o equivalente, como 5° semestre).
 
 <br><br>
-<strong><span style="color:#ff5522">[Enero-Febrero] </span></strong><span style="color:#aa00fb">Concurso Nacional Femenil OMM (temporal) </span> en sus 2 niveles:
+<strong><span style="color:#ff5522">[Mayo] </span></strong><span style="color:#aa00fb">Concurso Nacional Femenil OMM (temporal) </span> en sus 2 niveles:
 <ul>
   <li><span style="color:#00a000">Femenil Nivel I</span>: hasta 1° año de bachillerato</li>
   <li><span style="color:#00a000">Femenil Nivel II</span>: hasta 3° año de bachillerato</li>
@@ -309,7 +309,7 @@ Para apoyar con el entrenamiento podrías también, por ejemplo, ayudar a estudi
 </p>
 
 <p>
-Y claro, te alentamos a organizar que todos los grupos <span style="color:#00a000">presenten el examen en la misma escuela</span>, de ser viable, <span style="color:#00a000">el viernes 14 de enero</span> en cualquier horario. Sin embargo, toma en cuenta que la participación es individual, y <strong><span style="color:magenta">cada estudiante deberá registrarse por separado en la plataforma</span></strong>. 
+Y claro, te alentamos a organizar que todos los grupos <span style="color:#00a000">presenten el examen en la misma escuela</span>, de ser viable, <span style="color:#00a000">el viernes 17 de febrero</span> en cualquier horario. Sin embargo, toma en cuenta que la participación es individual, y <strong><span style="color:magenta">cada estudiante deberá registrarse por separado en la plataforma</span></strong>.
 </p>
 
 <p>
