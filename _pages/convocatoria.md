@@ -218,6 +218,19 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 </details>
 
 <details>
+<summary>¿Qué pasa si ya tenía asignada una cinta el año pasado?</summary>
+<p> 
+  Si estás en la misma categoría, tu cinta bajará un grado temporalmente. Si avanzas de categoría, tu cinta bajará dos grados temporalmente. Es decir, por ejemplo, si estás en 1ero de secundaria y el año pasado tenías cinta naranja cuando estabas en 6to de primaria, como no cambiaste de categoría este año comenzarás con cinta amarilla (pero claro, podrás subir), porque no cambiaste de nivel. 
+<p> 
+</p>
+  Si ahora estás en 6to de primaria, el año pasado participabas en la categoría 1 (4 y 5 de primaria), así que tu cinta bajaría a blanca.
+<p> 
+</p>  
+  En ambos casos simplemente estás iniciando tu viaje avanzado y puedes subir muy rápido si no has olvidado los conocimientos que adquiriste el año pasado :)
+</p>
+</details>
+
+<details>
 <summary>¿Y si no avanzo? ¿Habrá otra oportunida?</summary>
 <p> 
    No te desanimes. Continúa preparándote e intenta a la segunda vuelta.
