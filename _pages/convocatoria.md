@@ -358,12 +358,13 @@ Escríbenos a <a href="mailto:olimpiada.omm@gmail.com">este correo</a> y con muc
 
 Apúnta a todos tus conocidos a la página.
 
-<!-- Puedes descargar e imprimir el [póster en formato pdf](assets/images/poster/poster2023.pdf). -->
+Puedes descargar e imprimir el [póster en formato pdf](assets/images/poster/poster2023mobil.pdf):<br>
+<a href="assets/images/poster/poster2023mobil.pdf"><img src="assets/images/poster/poster2023mobil.jpg" alt="póster" width="60%"></a>
 
 <!-- O si prefieres enviar sólo una imagen rápida: -->
 
 <!-- #### Para móbil: -->
-<!-- <a href="assets/images/poster/poster2023mobil.jpg"><img src="assets/images/poster/poster2023mobil.jpg" alt="póster" width="50%"></a> -->
+<!-- <a href="assets/images/poster/poster2023mobil.pdf"><img src="assets/images/poster/poster2023mobil.jpg" alt="póster" width="50%"></a> -->
 <!-- #### Para web: -->
 <!-- <a href="assets/images/poster/poster2023web.jpg"><img src="assets/images/poster/poster2023web.jpg" alt="póster" width="90%"></a> -->
 
