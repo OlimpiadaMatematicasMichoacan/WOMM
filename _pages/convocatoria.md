@@ -21,12 +21,12 @@ El Comité Estatal de la Olimpiada de Matemáticas en Michoacán <strong>convoca
 en todos sus niveles, asistiendo al <a class="text-info" data-toggle="modal" data-target="#loginModal">curso de entrenamiento</a> en línea, abierto para <strong>todo público</strong>, y presentando el <a class="text-info" data-toggle="modal" data-target="#loginModal">examen de colocación</a>.
 </center>
 
-Podrán participar estudiantes inscritos en cualquier institución de educación **pública** o **privada** del estado de Michoacán. Los exámenes de colocación están divididos en categorías que van <span style="color:#00a000">desde 4° de primaria hasta 2° año de preparatoria</span> o equivalente.
+Podrán participar estudiantes inscritos en cualquier institución de educación **pública** o **privada** del estado de Michoacán. Los exámenes de colocación están divididos en categorías que van <span style="color:#00a000">desde 4° de primaria hasta 2° año de preparatoria</span> o equivalente. Para participar, aparta <span style="color:#f00000">1 o 2 horas un día, en el horario que más te convenga</span> durante estas fechas:
 
 - <span style="color:#00a000">Examen de colocación (primera fecha):</span> 10, 11 o 12 de febrero de 2023.
-- <span style="color:#00a000">Examen de colocación (segunda fecha):</span> 9, 10 u 11 de marzo de 2023.
+- <span style="color:#00a000">Examen de colocación (segunda fecha):</span> 16, 17 o 18 de marzo de 2023.
 
-Si obtienes cinta en la primera fecha, puedes entrenar e intentarlo de nuevo en la segunda.
+Si no obtienes cinta en la primera fecha, puedes entrenar e intentarlo de nuevo en la segunda.
 
 En ambas fechas puedes escoger qué día haces el examen, y una vez que obtienes tu primera cinta ya no es necesario presentar el examen de colocación en una fecha posterior durante el mismo año. Los exámenes son diferentes, claro.
 
