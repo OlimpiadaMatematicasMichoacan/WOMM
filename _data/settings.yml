@@ -91,25 +91,21 @@ team:
     image : "assets/images/team/malu.jpg"
     designation : "Profesora UMSNH"
  
-  - title : "Alondra Juárez"
-    image : "assets/images/team/alondra.jpg"
-    designation : "Artista, Diseñadora, Ex-olímpica"
-    
-  - title : "Rodrigo Cortez"
-    image : "assets/images/team/rodrigo.jpg"
-    designation : "Tesista, LTICs ENES - IT Consultant & Web Designer"
-    
-  - title : "Ismael Olvera"
-    image : "assets/images/team/ismael.jpg"
-    designation : "Estudiante LTICs ENES - IT Consultant"
-
   - title : "Luis Miguel García"
     image : "assets/images/team/luismiguel.jpg"
     designation : "Profesor ENES, ex-olímpico"
-
-  - title : "Alex Martínez"
-    image : "assets/images/team/alex.jpg"
-    designation : "Estudiante de matemáticas. Ex-olímpico"
+     
+  - title : "Alondra Juárez"
+    image : "assets/images/team/alondra.jpg"
+    designation : "Artista, Diseñadora, Ex-olímpica"
+       
+  - title : "Arnoldo Chue"
+    image : "assets/images/team/arnoldo.jpg"
+    designation : "Estudiante de LTICs de 2do semestre/Servicio Social"
+    
+  - title : "Ashley Aguilar"
+    image : "assets/images/team/ash.jpg"
+    designation : "Estudiante de LTICs de 4do semestre/Servicio Social"
     
 
 # Entrenadores
@@ -117,43 +113,71 @@ entrenadores:
   - title : "Jorge Luis López López"
     image : "assets/images/team/jorge.jpg"
     designation: "Profesor UMSNH"
- 
-  - title : "Antonio Montero"
-    image : "assets/images/team/tero.jpg"
-    designation : "Posdoc UNAM"
-    
-  - title : "Eric Pauli"
-    image : "assets/images/team/eric.jpg"
-    designation : "Doctor en Matemáticas"
     
   - title : "Jazmín López Chacón"
     image : "assets/images/team/jazmin.jpg"
     designation : "Estudiante, Tecnologías para la Información en Ciencias"
     
-  - title : "César Corral"
-    image : "assets/images/team/cesar.jpg"
-    designation: "Estudiante"
-
   - title : "Marisol Flores"
     image : "assets/images/team/marisol.jpg"
     designation : "Profesora, ENES Morelia"
     
-  - title : "Rubén Maldonado"
-    image : "assets/images/team/ruben.jpg"
-    designation: "Estudiante"
+  - title : "Adriana Menchaca"
+    image : "assets/images/team/adriana.jpg"
+    designation : "Profesora, ENES Morelia"
     
   - title : "Mirna Gómez"
     image : "assets/images/team/mirna.jpg"
     designation: "Doctora en Matemáticas"
     
+  - title : "Nelly Selem"
+    image : "assets/images/team/nelly.jpg"
+    designation : "Investigadora, Centro de Ciencias Matemáticas"
+    
   - title : "Edgardo Roldán"
     image : "assets/images/team/edgardo.jpg"
     designation: "Investigador, Centro de Ciencias Matemáticas"
-
-
-
     
+  - title : "Eric Pauli"
+    image : "assets/images/team/eric.jpg"
+    designation : "Doctor en Matemáticas"
+
+exmiembros:
+  - title : "Rodrigo Cortez"
+    image : "assets/images/team/rodrigo.jpg"
+    designation : "Egresado LTICs - IT Consultant"
     
+  - title : "Ismael Olvera"
+    image : "assets/images/team/ismael.jpg"
+    designation : "Estudiante LTICs ENES - IT Consultant"
+
+  - title : "Alex Martínez"
+    image : "assets/images/team/alex.jpg"
+    designation : "Estudiante de matemáticas. Ex-olímpico"
+    
+  - title : "César Corral"
+    image : "assets/images/team/cesar.jpg"
+    designation: "Estudiante"
+    
+  - title : "Antonio Montero"
+    image : "assets/images/team/tero.jpg"
+    designation : "Posdoc UNAM"
+    
+  - title : "Rubén Maldonado"
+    image : "assets/images/team/ruben.jpg"
+    designation: "Estudiante"
+    
+  - title : "Eduardo Ceja"
+    image : "assets/images/team/lalo.jpg"
+    designation: "Egresado LTICs/Servicio Social"
+    
+  - title : "Saul Armas"
+    image : "assets/images/team/saul.jpg"
+    designation: "Egresado LTICs/Servicio Social"
+    
+  - title : "Francisco Fonseca"
+    image : "assets/images/team/fonseca.jpg"
+    designation: "Egresado LTICs/Servicio Social"
     
 #-------------------------------
 # Stats Section

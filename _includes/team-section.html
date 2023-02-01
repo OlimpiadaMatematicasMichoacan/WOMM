@@ -48,4 +48,30 @@
   </div>
 </section>
 
+<section class="section bg-cover" data-background="{{ site.baseurl }}/assets/images/backgrounds/team-bg.png">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">Ex-miembros</h2>
+        <h4>Agradecimiento especial a estas personas que colaboraron enormemente con la Olimpiada en años anteriores:</h4>
+        <br>
+        <br>
+        <br>
+        <br>
+      </div>
+      {% for team-member in site.data.settings.exmiembros %}
+      <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
+        <div class="card text-center">
+          <img src="{{ team-member.image | relative_url }}" class="card-img-top">
+          <div class="card-body">
+            <h4 class="card-title">{{ team-member.title }}</h4>
+            <p class="text-light font-secondary">{{ team-member.designation }}</p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
 {% endif %}
