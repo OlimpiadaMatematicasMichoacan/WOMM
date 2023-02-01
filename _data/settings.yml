@@ -101,11 +101,11 @@ team:
        
   - title : "Arnoldo Chue"
     image : "assets/images/team/arnoldo.jpg"
-    designation : "Estudiante de LTICs de 2do semestre/Servicio Social"
+    designation : "Estudiante de LTICs, 2do semestre / Servicio Social"
     
   - title : "Ashley Aguilar"
     image : "assets/images/team/ash.jpg"
-    designation : "Estudiante de LTICs de 4do semestre/Servicio Social"
+    designation : "Estudiante de LTICs, 4do semestre / Servicio Social"
     
 
 # Entrenadores
@@ -128,7 +128,7 @@ entrenadores:
     
   - title : "Mirna Gómez"
     image : "assets/images/team/mirna.jpg"
-    designation: "Doctora en Matemáticas"
+    designation: "Profesora, ENES Morelia"
     
   - title : "Nelly Selem"
     image : "assets/images/team/nelly.jpg"
@@ -145,7 +145,7 @@ entrenadores:
 exmiembros:
   - title : "Rodrigo Cortez"
     image : "assets/images/team/rodrigo.jpg"
-    designation : "Egresado LTICs - IT Consultant"
+    designation : "Egresado LTICs ENES - IT Consultant"
     
   - title : "Ismael Olvera"
     image : "assets/images/team/ismael.jpg"
@@ -169,15 +169,15 @@ exmiembros:
     
   - title : "Eduardo Ceja"
     image : "assets/images/team/lalo.jpg"
-    designation: "Egresado LTICs/Servicio Social"
+    designation: "Egresado LTICs / Servicio Social"
     
   - title : "Saul Armas"
     image : "assets/images/team/saul.jpg"
-    designation: "Egresado LTICs/Servicio Social"
+    designation: "Egresado LTICs / Servicio Social"
     
   - title : "Francisco Fonseca"
     image : "assets/images/team/fonseca.jpg"
-    designation: "Egresado LTICs/Servicio Social"
+    designation: "Egresado LTICs / Servicio Social"
     
 #-------------------------------
 # Stats Section
