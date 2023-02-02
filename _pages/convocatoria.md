@@ -283,27 +283,30 @@ Cada año, participamos (o participaremos) en los siguientes concursos:
 <span style="color:#aa00fb">Nota: </span> Los grados escolares mencionados son al momento del concurso. A veces hay que necesariamente comenzar uno o más años anteriores a eso con el proceso estatal para poder clasificar. Entre antes comiences, mejor.
 
 <br><br>
-
-<strong><span style="color:#ff5522">[Junio] </span></strong><span style="color:#aa00fb">Concurso Nacional OMMEB en sus 3 niveles: </span>
-
-<ul>
-  <li><span style="color:#00a000">OMMEB Nivel I</span>: 4° y 5° de primaria</li>
-  <li><span style="color:#00a000">OMMEB Nivel II</span>: 6° de primaria y 1° de secundaria</li>
-  <li><span style="color:#00a000">OMMEB Nivel III</span>: 2° de secundaria</li>
-</ul>
-<br><br>
-
-<strong><span style="color:#ff5522">[Octubre] </span></strong><span style="color:#aa00fb">Olimpiada Regional de Matemáticas (región centro)</span>: 3° año de bachillerato (o equivalente, como 5° semestre).
-
-<br><br>
-<strong><span style="color:#ff5522">[Noviembre] </span></strong><span style="color:#aa00fb">Concurso Nacional OMM</span>: 3° año de bachillerato (o equivalente, como 5° semestre).
-
-<br><br>
 <strong><span style="color:#ff5522">[Mayo] </span></strong><span style="color:#aa00fb">Concurso Nacional Femenil OMM (temporal) </span> en sus 2 niveles:
 <ul>
   <li><span style="color:#00a000">Femenil Nivel I</span>: hasta 1° año de bachillerato</li>
   <li><span style="color:#00a000">Femenil Nivel II</span>: hasta 3° año de bachillerato</li>
 </ul>
+
+<br><br>
+
+<strong><span style="color:#ff5522">[Septiembre] </span></strong><span style="color:#aa00fb">Concurso Nacional OMMEB en sus 3 niveles: </span>
+<ul>
+  <li><span style="color:#00a000">OMMEB Nivel I</span>: 5° y 6° de primaria</li>
+  <li><span style="color:#00a000">OMMEB Nivel II</span>: 1° y 2° de secundaria</li>
+  <li><span style="color:#00a000">OMMEB Nivel III</span>: 3° de secundaria</li>
+</ul>
+
+<br><br>
+<strong><span style="color:#ff5522">[Octubre] </span></strong><span style="color:#aa00fb">Olimpiada Regional de Matemáticas (región centro)</span>: 3° año de bachillerato (o equivalente, como 5° semestre).
+
+
+
+<br><br>
+<strong><span style="color:#ff5522">[Noviembre] </span></strong><span style="color:#aa00fb">Concurso Nacional OMM</span>: 3° año de bachillerato (o equivalente, como 5° semestre).
+<br><br>
+
 
 Para tener la posibilidad de representar a Michoacán en cualquiera de estos concursos, <strong>deberás avanzar en uno de los dos concursos de entrada que se hacen al año en Michoacán</strong>, y posterioremente, a través de exámenes periódicos, mostrar habilidades suficientes para avanzar a los grupos altos, y finalmente, realizar un examen de selección.
 </p>
