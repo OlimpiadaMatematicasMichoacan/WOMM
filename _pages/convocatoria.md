@@ -301,8 +301,6 @@ Cada año, participamos (o participaremos) en los siguientes concursos:
 <br><br>
 <strong><span style="color:#ff5522">[Octubre] </span></strong><span style="color:#aa00fb">Olimpiada Regional de Matemáticas (región centro)</span>: 3° año de bachillerato (o equivalente, como 5° semestre).
 
-
-
 <br><br>
 <strong><span style="color:#ff5522">[Noviembre] </span></strong><span style="color:#aa00fb">Concurso Nacional OMM</span>: 3° año de bachillerato (o equivalente, como 5° semestre).
 <br><br>
