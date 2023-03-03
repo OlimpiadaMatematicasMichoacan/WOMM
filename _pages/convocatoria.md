@@ -24,7 +24,7 @@ en todos sus niveles, asistiendo al <a class="text-info" data-toggle="modal" dat
 Podrán participar estudiantes inscritos en cualquier institución de educación **pública** o **privada** del estado de Michoacán. Los exámenes de colocación están divididos en categorías que van <span style="color:#00a000">desde 4° de primaria hasta 2° año de preparatoria</span> o equivalente. Para participar, aparta <span style="color:#f00000">1 o 2 horas un día, en el horario que más te convenga</span> durante estas fechas:
 
 - <span style="color:#00a000">Examen de colocación (primera fecha):</span> 10, 11 o 12 de febrero de 2023.
-- <span style="color:#00a000">Examen de colocación (segunda fecha):</span> 16, 17 o 18 de marzo de 2023.
+- <span style="color:#00a000">Examen de colocación (segunda fecha):</span> 18,19,20 de marzo de 2023.
 
 Si no obtienes cinta en la primera fecha, puedes entrenar e intentarlo de nuevo en la segunda.
 
