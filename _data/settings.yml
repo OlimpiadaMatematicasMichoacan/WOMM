@@ -114,10 +114,6 @@ entrenadores:
     image : "assets/images/team/jorge.jpg"
     designation: "Profesor UMSNH"
     
-  - title : "Jazmín López Chacón"
-    image : "assets/images/team/jazmin.jpg"
-    designation : "Estudiante, Tecnologías para la Información en Ciencias"
-    
   - title : "Marisol Flores"
     image : "assets/images/team/marisol.jpg"
     designation : "Profesora, ENES Morelia"
@@ -125,6 +121,11 @@ entrenadores:
   - title : "Adriana Menchaca"
     image : "assets/images/team/adriana.jpg"
     designation : "Profesora, ENES Morelia"
+    
+  - title : "Paola González"
+    image : "assets/images/team/paola.jpg"
+    designation : "Profesora, ENES Morelia"
+    
     
   - title : "Mirna Gómez"
     image : "assets/images/team/mirna.jpg"
@@ -150,7 +151,11 @@ exmiembros:
   - title : "Ismael Olvera"
     image : "assets/images/team/ismael.jpg"
     designation : "Estudiante LTICs ENES - IT Consultant"
-
+  
+  - title : "Jazmín López Chacón"
+    image : "assets/images/team/jazmin.jpg"
+    designation : "Estudiante, Tecnologías para la Información en Ciencias"
+    
   - title : "Alex Martínez"
     image : "assets/images/team/alex.jpg"
     designation : "Estudiante de matemáticas. Ex-olímpico"
