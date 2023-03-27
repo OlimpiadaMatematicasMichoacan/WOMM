@@ -130,6 +130,10 @@ entrenadores:
     image : "assets/images/team/kaori.jpg"
     designation : "Ex-olímpica, Selección Michoacana"
     
+  - title : "Héctor Alonso Guzmán"
+    image : "assets/images/team/hectoralonso.jpg"
+    designation : "Profesor, ENES Morelia"
+    
   - title : "Mirna Gómez"
     image : "assets/images/team/mirna.jpg"
     designation: "Profesora, ENES Morelia"
