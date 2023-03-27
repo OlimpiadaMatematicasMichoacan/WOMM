@@ -124,8 +124,11 @@ entrenadores:
     
   - title : "Paola González"
     image : "assets/images/team/paola.jpg"
-    designation : "Profesora, ENES Morelia"
+    designation : "Graduada LTICs, ENES Morelia"
     
+  - title : "Kaori Ureña"
+    image : "assets/images/team/kaori.jpg"
+    designation : "Ex-olímpica, Selección Michoacana"
     
   - title : "Mirna Gómez"
     image : "assets/images/team/mirna.jpg"
