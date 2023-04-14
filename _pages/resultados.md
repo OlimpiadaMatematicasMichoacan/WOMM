@@ -15,6 +15,15 @@ Puedes consultar los resultados previos:
 
 ## Estadísticas de participación 2023
 
-Cintas por escuelita hasta abril 2023 (mejores 30 resultados por escuela):
+#### Mejores escuelas
+Cintas por escuelita hasta abril 2023 (mejores 30 resultados):
 
 <iframe src="../assets/iframes/2023/cintas_por_escuela_Marzo.html" class="plot" height=625 width="95%"></iframe>
+
+#### Participación por sexo
+
+<iframe src="../assets/iframes/2023/Sexo.html" class="plot" height=420 width="70%"></iframe>
+
+#### Participación por Ciudad
+
+<iframe src="../assets/iframes/2023/Ciudad.html" class="plot" height=420 width="70%"></iframe>

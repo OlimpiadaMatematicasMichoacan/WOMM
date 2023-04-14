@@ -1,0 +1,85 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    
+      <meta charset="utf-8">
+      <title>Bokeh Plot</title>
+      
+      
+        
+          
+        
+        
+          
+        <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-2.4.2.min.js"></script>
+        <script type="text/javascript">
+            Bokeh.set_log_level("info");
+        </script>
+        
+      
+      
+    
+  </head>
+  
+  
+  <body>
+    
+      
+        
+          
+          
+            
+              <div class="bk-root" id="2281db06-b34d-4e28-8349-377da67cfaf2" data-root-id="3496"></div>
+            
+          
+        
+      
+      
+        <script type="application/json" id="3655">
+          {"c11ccb51-cc7f-4c54-ad8e-14ec20c13373":{"defs":[],"roots":{"references":[{"attributes":{"coordinates":null,"group":null,"items":[{"id":"3537"}]},"id":"3536","type":"Legend"},{"attributes":{"data":{"Ciudad":["Morelia","Sahuayo","L\u00e1zaro C\u00e1rdenas","Uruapan","Huetamo","","Ciudad Hidalgo","Ario de Rosales","Contepec","Tingambato","Zit\u00e1cuaro","Ucareo","Apatzing\u00e1n","P\u00e1tzcuaro","Los Reyes","Tangancicuaro","Santa Ana Maya","Tanc\u00edtaro","Quer\u00e9ndaro","Epitacio Huerta","Maravatio","Erongar\u00edcuaro","Pur\u00e9pero","Ziracuaretiro","Tacuro","Tac\u00e1mbaro","Yur\u00e9cuaro","Nuevo Urecho","Santiago Tangamandapio","Paracho","Tarimbaro","Nueva Italia","Zirimicuaro","San Antonio, Mpio Los Reyes","Cdmx","Cahulote de Santa Ana","Infiernillo","Chavinda","Zacapu","Cuitzeo","Vista Hermosa","Tzintzuntzan","Macanal"],"angle":{"__ndarray__":"oT7zYJ6YCkDoMBGwbHPZP7rnsAC5V9M/Vs+QG31O0T9/VcGHRoHMP1EMYdiSZcY/7PNA81ZcxD9/VcGHRoG8P7Ukgb3Obrg/tSSBvc5uuD+1JIG9zm64P+zzQPNWXLQ/7PNA81ZctD/s80DzVly0PyTDACnfSbA/JMMAKd9JsD8kwwAp30mwP7Ukgb3Obqg/tSSBvc5uqD+1JIG9zm6oP7Ukgb3Obqg/JMMAKd9JoD8kwwAp30mgPyTDACnfSaA/JMMAKd9JoD8kwwAp30mQPyTDACnfSZA/JMMAKd9JkD8kwwAp30mQPyTDACnfSZA/JMMAKd9JkD8kwwAp30mQPyTDACnfSZA/JMMAKd9JkD8kwwAp30mQPyTDACnfSZA/JMMAKd9JkD8kwwAp30mQPyTDACnfSZA/JMMAKd9JkD8kwwAp30mQPyTDACnfSZA/JMMAKd9JkD8=","dtype":"float64","order":"little","shape":[43]},"color":["#9f1e6a","#1fd730","#368cf7","#d6456d","#52fd3a","#ea1864","#dc010b","#19a4ff","#5138be","#4693c2","#2ece9a","#8cf54e","#df895f","#d86638","#6ca8fc","#6ea88b","#268c80","#da2618","#12c42b","#31d0e3","#971aa8","#4f9348","#dcd9ec","#fa7e56","#c4f238","#4723d7","#cd4ca2","#a9ad06","#c1b5d4","#37ed22","#61b660","#0867b0","#1a398e","#b8919b","#fa9d24","#2da972","#70b632","#bf2e68","#625cbf","#ce48bd","#3354e5","#a9e008","#5faa0e"],"count":[209,25,19,17,14,11,10,7,6,6,6,5,5,5,4,4,4,3,3,3,3,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]},"selected":{"id":"3535"},"selection_policy":{"id":"3534"}},"id":"3520","type":"ColumnDataSource"},{"attributes":{"tools":[{"id":"3515"}]},"id":"3516","type":"Toolbar"},{"attributes":{"coordinates":null,"data_source":{"id":"3520"},"glyph":{"id":"3522"},"group":null,"hover_glyph":null,"muted_glyph":{"id":"3524"},"nonselection_glyph":{"id":"3523"},"view":{"id":"3526"}},"id":"3525","type":"GlyphRenderer"},{"attributes":{"field":"angle"},"id":"3519","type":"CumSum"},{"attributes":{},"id":"3529","type":"BasicTickFormatter"},{"attributes":{"coordinates":null,"formatter":{"id":"3532"},"group":null,"major_label_policy":{"id":"3533"},"ticker":{"id":"3508"},"visible":false},"id":"3507","type":"LinearAxis"},{"attributes":{},"id":"3503","type":"LinearScale"},{"attributes":{"axis":{"id":"3507"},"coordinates":null,"grid_line_color":null,"group":null,"ticker":null},"id":"3510","type":"Grid"},{"attributes":{"callback":null,"tooltips":"@Ciudad: @count"},"id":"3515","type":"HoverTool"},{"attributes":{"end_angle":{"expr":{"id":"3519"}},"fill_alpha":{"value":0.2},"fill_color":{"field":"color"},"hatch_alpha":{"value":0.2},"line_alpha":{"value":0.2},"line_color":{"value":"white"},"radius":{"value":0.4},"start_angle":{"expr":{"id":"3518"}},"x":{"value":0},"y":{"value":1}},"id":"3524","type":"Wedge"},{"attributes":{"source":{"id":"3520"}},"id":"3526","type":"CDSView"},{"attributes":{"field":"angle","include_zero":true},"id":"3518","type":"CumSum"},{"attributes":{},"id":"3501","type":"DataRange1d"},{"attributes":{"below":[{"id":"3507"}],"center":[{"id":"3510"},{"id":"3514"},{"id":"3536"}],"height":400,"left":[{"id":"3511"}],"renderers":[{"id":"3525"}],"title":{"id":"3497"},"toolbar":{"id":"3516"},"toolbar_location":null,"x_range":{"id":"3499"},"x_scale":{"id":"3503"},"y_range":{"id":"3501"},"y_scale":{"id":"3505"}},"id":"3496","subtype":"Figure","type":"Plot"},{"attributes":{"coordinates":null,"formatter":{"id":"3529"},"group":null,"major_label_policy":{"id":"3530"},"ticker":{"id":"3512"},"visible":false},"id":"3511","type":"LinearAxis"},{"attributes":{},"id":"3535","type":"Selection"},{"attributes":{},"id":"3505","type":"LinearScale"},{"attributes":{"end_angle":{"expr":{"id":"3519"}},"fill_color":{"field":"color"},"line_color":{"value":"white"},"radius":{"value":0.4},"start_angle":{"expr":{"id":"3518"}},"x":{"value":0},"y":{"value":1}},"id":"3522","type":"Wedge"},{"attributes":{},"id":"3512","type":"BasicTicker"},{"attributes":{"coordinates":null,"group":null,"text":"Participaci\u00f3n por ciudad"},"id":"3497","type":"Title"},{"attributes":{},"id":"3532","type":"BasicTickFormatter"},{"attributes":{"start":-0.5},"id":"3499","type":"Range1d"},{"attributes":{"end_angle":{"expr":{"id":"3519"}},"fill_alpha":{"value":0.1},"fill_color":{"field":"color"},"hatch_alpha":{"value":0.1},"line_alpha":{"value":0.1},"line_color":{"value":"white"},"radius":{"value":0.4},"start_angle":{"expr":{"id":"3518"}},"x":{"value":0},"y":{"value":1}},"id":"3523","type":"Wedge"},{"attributes":{"axis":{"id":"3511"},"coordinates":null,"dimension":1,"grid_line_color":null,"group":null,"ticker":null},"id":"3514","type":"Grid"},{"attributes":{},"id":"3534","type":"UnionRenderers"},{"attributes":{},"id":"3508","type":"BasicTicker"},{"attributes":{"label":{"field":"Ciudad"},"renderers":[{"id":"3525"}]},"id":"3537","type":"LegendItem"},{"attributes":{},"id":"3530","type":"AllLabels"},{"attributes":{},"id":"3533","type":"AllLabels"}],"root_ids":["3496"]},"title":"Bokeh Application","version":"2.4.2"}}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            const fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  const docs_json = document.getElementById('3655').textContent;
+                  const render_items = [{"docid":"c11ccb51-cc7f-4c54-ad8e-14ec20c13373","root_ids":["3496"],"roots":{"3496":"2281db06-b34d-4e28-8349-377da67cfaf2"}}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    let attempts = 0;
+                    const timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        clearInterval(timer);
+                        embed_document(root);
+                      } else {
+                        attempts++;
+                        if (attempts > 100) {
+                          clearInterval(timer);
+                          console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                        }
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    
+  </body>
+  
+</html>
