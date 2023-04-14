@@ -138,14 +138,14 @@ Los 5 mejores puntajes de cada nivel. Hubo más personas que avanzaron en cada f
 
 
 
-<iframe src="../assets/iframes/ev3_1.html" class="plot"></iframe><br><br>
-<iframe src="../assets/iframes/ev3_2.html" class="plot"></iframe><br><br>
-<iframe src="../assets/iframes/ev3_3.html" class="plot"></iframe><br><br>
-<iframe src="../assets/iframes/ev3_4.html" class="plot"></iframe><br><br>
+<iframe src="../assets/iframes/2021/ev3_1.html" class="plot"></iframe><br><br>
+<iframe src="../assets/iframes/2021/ev3_2.html" class="plot"></iframe><br><br>
+<iframe src="../assets/iframes/2021/ev3_3.html" class="plot"></iframe><br><br>
+<iframe src="../assets/iframes/2021/ev3_4.html" class="plot"></iframe><br><br>
 
 ## Estadísticas
 
 
-<iframe src="../assets/iframes/CiudadPhase3.html" class="plot"></iframe><br><br>
-<iframe src="../assets/iframes/EscuelaPhase3.html" class="plot" width="100%"></iframe><br><br>
-<iframe src="../assets/iframes/SexoPhase3.html" class="plot" ></iframe><br><br>
+<iframe src="../assets/iframes/2021/CiudadPhase3.html" class="plot"></iframe><br><br>
+<iframe src="../assets/iframes/2021/EscuelaPhase3.html" class="plot" width="100%"></iframe><br><br>
+<iframe src="../assets/iframes/2021/SexoPhase3.html" class="plot" ></iframe><br><br>

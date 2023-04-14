@@ -129,22 +129,22 @@ CBTis 149 (en Morelia), Escuela Secundaria Federal Melchor Ocampo (en Pamatacuar
 
 ### Participación por Ciudad
 
-<iframe src="../assets/iframes/ParticipoCiudad.html" class="plot"></iframe><br><br>
+<iframe src="../assets/iframes/2021/ParticipoCiudad.html" class="plot"></iframe><br><br>
 
-<iframe src="../assets/iframes/PaseCiudad.html" class="plot"></iframe>
+<iframe src="../assets/iframes/2021/PaseCiudad.html" class="plot"></iframe>
 
 ### Participación por Sexo
 
-<iframe src="../assets/iframes/Sexo.html" class="plot"></iframe>
+<iframe src="../assets/iframes/2021/Sexo.html" class="plot"></iframe>
 
-<iframe src="../assets/iframes/SexoPass.html" class="plot"></iframe>
+<iframe src="../assets/iframes/2021/SexoPass.html" class="plot"></iframe>
 
 ### Participación de Sistemas Escolarizados
 
-<iframe src="../assets/iframes/SistemaEscolarizado.html" class="plot"></iframe>
+<iframe src="../assets/iframes/2021/SistemaEscolarizado.html" class="plot"></iframe>
 
 
-<iframe src="../assets/iframes/SistemaEscolarizadoPass.html" class="plot"></iframe>
+<iframe src="../assets/iframes/2021/SistemaEscolarizadoPass.html" class="plot"></iframe>
 
 ## Puntajes
 

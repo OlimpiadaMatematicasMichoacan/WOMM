@@ -241,6 +241,6 @@ Aquí están las tablas con los <span style="color:red">máximos puntajes por ni
 }
 </style>
 
-<iframe src="../assets/iframes/CiudadPhase2.html" class="plot"></iframe><br><br>
-<iframe src="../assets/iframes/EscuelaPhase2.html" class="plot"></iframe><br><br>
-<iframe src="../assets/iframes/SexoPhase2.html" class="plot"></iframe><br><br>
+<iframe src="../assets/iframes/2021/CiudadPhase2.html" class="plot"></iframe><br><br>
+<iframe src="../assets/iframes/2021/EscuelaPhase2.html" class="plot"></iframe><br><br>
+<iframe src="../assets/iframes/2021/SexoPhase2.html" class="plot"></iframe><br><br>
