@@ -38,7 +38,7 @@ Los 5 mejores puntajes de cada categoría.
  <tr><td>Oscar Andrés Domínguez González</td><td>Morelia</td><td>Colegio Grenewic</td><td>6° primaria</td><td>37</td></tr>
  <tr><td>Farah Camila Landin Gómez</td><td>Morelia</td><td>Hermanos Serdán</td><td>6° primaria</td><td>22</td></tr>
  <tr><td>Alma Itzel Romero Diaz</td><td>Huetamo</td><td>Lázaro Cárdenas</td><td>6° primaria</td><td>20</td></tr>
- <tr><td>Mónica Sofía Rangel Castillo</td><td>Huetamo</td><td>Colegio Hispano Americano</td><td>5° primaria</td><td>18</td></tr>
+ <tr><td>Mónica Sofía Rangel Castillo</td><td>Morelia</td><td>Colegio Hispano Americano</td><td>5° primaria</td><td>18</td></tr>
  <tr><td>Inés Raggi Patiño</td><td>Morelia</td><td>Centro Educativo Morelia</td><td>3° primaria</td><td>18</td></tr>
 </tbody></table>
 
@@ -59,11 +59,11 @@ Los 5 mejores puntajes de cada categoría.
 
 <table class="results-table">
 <thead><tr class="tableizer-firstrow"><th>Nombre</th><th>Ciudad</th><th>Escuela</th><th>Grado Escolar</th><th>Puntuación</th></tr></thead><tbody>
+ <tr><td>Ana Henney Arthur</td><td>Morelia</td><td>Villa Montessori</td><td>1° preparatoria</td><td>82</td></tr>
  <tr><td>Ingrid Naomi Robledo Gómez</td><td>Queréndaro</td><td>Escuela Secundaria Técnica 26</td><td>3° secundaria</td><td>80</td></tr>
  <tr><td>Santiago Ortiz</td><td>Morelia</td><td>Knowledge Quest</td><td>1° preparatoria</td><td>63</td></tr>
  <tr><td>Paulina Ruiz Rubio</td><td>Tarímbaro</td><td>Escuela Secundaria Federal Vicente Lombardo Toledano</td><td>1° preparatoria</td><td>51</td></tr>
  <tr><td>José Andrés Lemus Velázquez</td><td>Lázaro Cárdenas</td><td>Secundaria 113</td><td>3° secundaria</td><td>50</td></tr>
- <tr><td>Brisa Amaya Guzmán Aviña</td><td>Morelia</td><td>Colegio Americano</td><td>1° preparatoria</td><td>39</td></tr>
 </tbody></table>
 
 #### Nivel 4 (2° y 3° de prepa) (Máxima calificación: 120)
