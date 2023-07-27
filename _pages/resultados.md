@@ -71,10 +71,11 @@ Los 5 mejores puntajes de cada categoría.
 <table class="results-table">
 <thead><tr class="tableizer-firstrow"><th>Nombre</th><th>Ciudad</th><th>Escuela</th><th>Grado Escolar</th><th>Puntuación</th></tr></thead><tbody>
  <tr><td>Dulce Paloma Romero Díaz</td><td>Huetamo</td><td>Colegio Huetamo</td><td>2° año de preparatoria</td><td>108</td></tr>
+ <tr><td>Bialy Calderón Magaña</td><td>Morelia</td><td>Universidad La Salle</td><td>3° año de preparatoria</td><td>100</td></tr>
  <tr><td>José Gael Reyna Sánchez</td><td>Lázaro Cárdenas</td><td>Preparatoria General Enrique Ramírez</td><td>3° año de preparatoria</td><td>100</td></tr>
  <tr><td>Victor Guzmán Rodríguez</td><td>Morelia</td><td>Universidad Latina De América</td><td>3° año de preparatoria</td><td>100</td></tr>
  <tr><td>Abraham Robledo Gómez</td><td>Queréndaro</td><td>Centro de Estudios de Bachillerato "Dr. Ignacio Chávez"</td><td>3° año de preparatoria</td><td>97</td></tr>
- <tr><td>Miguel Rangel Castillo</td><td>Morelia</td><td>Instituto Vasco de Quiroga</td><td>3° año de preparatoria</td><td>93</td></tr>
+<!--  <tr><td>Miguel Rangel Castillo</td><td>Morelia</td><td>Instituto Vasco de Quiroga</td><td>3° año de preparatoria</td><td>93</td></tr> -->
 </tbody></table>
 
 ### Estadísticas de participación 2023
