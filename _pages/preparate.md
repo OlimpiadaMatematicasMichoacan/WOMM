@@ -30,6 +30,7 @@ Esperamos que este año podamos organizar algunos entrenamientos presenciales en
             <li class="list-group-item"><a href="https://www.ommenlinea.org/">La página oficial de la Olimpiada Mexicana de Matemáticas</a> contiene exámenes previos, revistas, folletos, etc. que puedes usar para prepararte.</li>
             <li class="list-group-item"><a href="http://shi.matmor.unam.mx/omm/recursos/">Antígua página de la Olimpiada Mexicana de Matemáticas</a> contiene también varios exámenes previos. Busca tu nivel.</li>
             <li class="list-group-item"><a href="http://shi.matmor.unam.mx/omm/recursos/canguro/previos/">Exámenes del canguro matemático</a> <span style="color:red">(Recomendado para principiantes)</span></li>
+            <li class="list-group-item"><a href="https://www.kashic.net/">Kashic</a> es una página con miles de problemas y soluciones de olimpiada, desarrollada por Kevin "Willie" Beuchot.<span style="color:red">(Recomendado para intermedios y avanzados)</span></li>
             <li class="list-group-item"><a href="https://www.youtube.com/channel/UCAWipIx5EjS_P6GWn_hoBzw">Canal de Youtube de Ray Flores</a>, delegado de Nuevo León. Videos con explicaciones cortas, acertijos, etc.</li>
             <li class="list-group-item"><a href="https://es.khanacademy.org/">Khan Academy</a> para estudiar los conceptos básicos de aritmética, pre-álgebra y geometría.</li>
             <li class="list-group-item"><a href="https://brilliant.org">Brilliant.org</a> con problemas (en inglés)</li>
