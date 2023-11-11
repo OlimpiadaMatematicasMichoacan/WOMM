@@ -21,10 +21,10 @@ El Comité Estatal de la Olimpiada de Matemáticas en Michoacán <strong>convoca
 en todos sus niveles, asistiendo al <a class="text-info" data-toggle="modal" data-target="#loginModal">curso de entrenamiento</a> en línea, abierto para <strong>todo público</strong>, y presentando el <a class="text-info" data-toggle="modal" data-target="#loginModal">examen de colocación</a>.
 </center>
 
-Podrán participar estudiantes inscritos en cualquier institución de educación **pública** o **privada** del estado de Michoacán. Los exámenes de colocación están divididos en categorías que van <span style="color:#00a000">desde 4° de primaria hasta 2° año de preparatoria</span> o equivalente. Para participar, aparta <span style="color:#f00000">1 o 2 horas un día, en el horario que más te convenga</span> durante estas fechas:
+Podrán participar estudiantes inscritos en cualquier institución de educación **pública** o **privada** del estado de Michoacán. Los exámenes de colocación están divididos en cuatro categorías que van <span style="color:#00a000">desde 4° de primaria hasta 2° año de preparatoria</span> o equivalente. Para participar, aparta <span style="color:#f00000">1 o 2 horas un día, en el horario que más te convenga</span> durante estas fechas:
 
-- <span style="color:#00a000">Examen de colocación (primera fecha):</span> 10, 11 o 12 de febrero de 2023.
-- <span style="color:#00a000">Examen de colocación (segunda fecha):</span> 18,19,20 de marzo de 2023.
+- <span style="color:#00a000">Examen de colocación (primera fecha):</span> 2,3 o 4 de febrero de 2024.
+- <span style="color:#00a000">Examen de colocación (segunda fecha):</span> 8,9,10 de marzo de 2024.
 
 Si no obtienes cinta en la primera fecha, puedes entrenar e intentarlo de nuevo en la segunda.
 
@@ -359,15 +359,15 @@ Escríbenos a <a href="mailto:olimpiada.omm@gmail.com">este correo</a> y con muc
 
 Apúnta a todos tus conocidos a la página.
 
-Puedes descargar e imprimir el [póster en formato pdf](assets/images/poster/poster2023mobil.pdf):<br>
-<a href="assets/images/poster/poster2023mobil.pdf"><img src="assets/images/poster/poster2023mobil.jpg" alt="póster" width="60%"></a>
+Puedes descargar e imprimir el [póster en formato pdf](assets/images/poster/poster2024mobil.pdf):<br>
+<a href="assets/images/poster/poster2024mobil.pdf"><img src="assets/images/poster/poster2024mobil.png" alt="póster" width="60%"></a>
 
 <!-- O si prefieres enviar sólo una imagen rápida: -->
 
 <!-- #### Para móbil: -->
-<!-- <a href="assets/images/poster/poster2023mobil.pdf"><img src="assets/images/poster/poster2023mobil.jpg" alt="póster" width="50%"></a> -->
+<!-- <a href="assets/images/poster/poster2024mobil.pdf"><img src="assets/images/poster/poster2024mobil.jpg" alt="póster" width="50%"></a> -->
 <!-- #### Para web: -->
-<!-- <a href="assets/images/poster/poster2023web.jpg"><img src="assets/images/poster/poster2023web.jpg" alt="póster" width="90%"></a> -->
+<!-- <a href="assets/images/poster/poster2024web.jpg"><img src="assets/images/poster/poster2024web.jpg" alt="póster" width="90%"></a> -->
 
 <span style="color:#aa00fb">Somos una organización sin fines de lucro. Simplemente tenemos interés en aportar nuestro granito de arena a la educación matemática en Michoacán.</span>
 
