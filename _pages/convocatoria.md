@@ -360,7 +360,7 @@ Escríbenos a <a href="mailto:olimpiada.omm@gmail.com">este correo</a> y con muc
 Apúnta a todos tus conocidos a la página.
 
 Puedes descargar e imprimir el [póster en formato pdf](assets/images/poster/poster2024mobil.pdf):<br>
-<a href="assets/images/poster/poster2024mobil.pdf"><img src="assets/images/poster/poster2024mobil.png" alt="póster" width="60%"></a>
+<a href="assets/images/poster/poster2024mobil.pdf"><img src="assets/images/poster/poster2024mobil.jpg" alt="póster" width="60%"></a>
 
 <!-- O si prefieres enviar sólo una imagen rápida: -->
 
