@@ -33,8 +33,8 @@ title: Resultados 2023
 
 <table class="results-table">
 <thead><tr class="tableizer-firstrow"><th>Nombre</th><th>Ciudad</th><th>Escuela</th><th>Grado Escolar</th><th>Resultado en OMMEB 2023</th></tr></thead><tbody>
- <tr><td>Oscar Andrés Domínguez González</td><td>Morelia</td><td>Colegio Grenewic</td><td>6° primaria</td><td>Medalla de Plata / preselección nacional</td></tr>
- <tr><td>José Andrés Lemus Velázquez</td><td>Lázaro Cárdenas</td><td>Secundaria 113</td><td>3° secundaria</td><td>Medalla de Plata / preselección nacional</td></tr>
+ <tr><td>Oscar Andrés Domínguez González</td><td>Morelia</td><td>Colegio Grenewic</td><td>6° primaria</td><td>Medalla de Plata <img src="../../assets/images/icons/medal_2silver.png" alt="Plata" width="25" height="25">/ preselección nacional</td></tr>
+ <tr><td>José Andrés Lemus Velázquez</td><td>Lázaro Cárdenas</td><td>Secundaria 113</td><td>3° secundaria</td><td>Medalla de Plata <img src="../../assets/images/icons/medal_2silver.png" alt="Plata" width="25" height="25">/ preselección nacional</td></tr>
  <tr><td>Ingrid Naomi Robledo Gómez</td><td>Queréndaro</td><td>Escuela Secundaria Técnica 26</td><td>3° secundaria</td><td>Mención Honorífica</td></tr>
  <tr><td>Francisco Moreno Reynoso</td><td>Morelia</td><td>Colegio de las Américas</td><td>6° primaria</td><td>Mención Honorífica</td></tr>
  <tr><td>Max Oeckl Arumir</td><td>Morelia</td><td>Centro Educativo Morelia</td><td>1° secundaria</td><td>Mención Honorífica</td></tr>
@@ -47,9 +47,9 @@ title: Resultados 2023
 
 <table class="results-table">
 <thead><tr class="tableizer-firstrow"><th>Nombre</th><th>Ciudad</th><th>Escuela</th><th>Grado Escolar</th><th>Resultado en OMM 2023</th></tr></thead><tbody>
- <tr><td>Victor Guzmán Rodríguez</td><td>Morelia</td><td>Lancaster</td><td>2° preparatoria</td><td>Medalla de Bronce</td></tr>
- <tr><td>Miguel Enrique Rangel Castillo</td><td>Morelia</td><td>Instituo Vasco de Quiroga</td><td>3° preparatoria</td><td>Medalla de Bronce</td></tr>
- <tr><td>Bialy Calderón Magaña</td><td>Morelia</td><td>Universidad LaSalle</td><td>3° preparatoria</td><td>Mención Honorífica</td></tr>
+ <tr><td>Victor Guzmán Rodríguez</td><td>Morelia</td><td>Lancaster</td><td>2° año de preparatoria</td><td>Medalla de Bronce <img src="../../assets/images/icons/medal_3bronze.png" alt="Bronce" width="25" height="25"></td></tr>
+ <tr><td>Miguel Enrique Rangel Castillo</td><td>Morelia</td><td>Instituo Vasco de Quiroga</td><td>3° año de preparatoria</td><td>Medalla de Bronce <img src="../../assets/images/icons/medal_3bronze.png" alt="Bronce" width="25" height="25"></td></tr>
+ <tr><td>Bialy Calderón Magaña</td><td>Morelia</td><td>Universidad LaSalle</td><td>3° año de preparatoria</td><td>Mención Honorífica</td></tr>
 </tbody></table>
 
 
