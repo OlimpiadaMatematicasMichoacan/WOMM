@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Grupo de WhatsApp
+date:   2023-12-05 09:43:55 +0600
+image:  /assets/images/icons/wa.png
+author: Miguel Raggi
+tags:   OMM, OMMEB
+---
+
+Dado que la gente ya revisa poco su correo electrónico, creamos una [comunidad de WhatsApp](https://chat.whatsapp.com/EusFmjYySlF2E8tmZPZHss) para mantenerles informados. Se seguirán enviando correos como siempre. No habrá spam.

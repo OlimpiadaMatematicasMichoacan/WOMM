@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Comenzamos 2024
+date:   2023-12-05 10:05:55 +0600
+image:  /assets/images/blog/comenzamos2024.jpg
+author: Miguel Raggi
+tags:   OMM, OMMEB
+---
+
+Ya está disponible la [convocatoria](/convocatoria) 2024 para entrar a la Olimpiada de Matemáticas en Michoacán. ¡Ayúdanos a difundirla! [Descarga la imagen promocional](/assets/images/poster/PostFB2024.jpg).

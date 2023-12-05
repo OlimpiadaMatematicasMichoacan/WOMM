@@ -17,7 +17,7 @@ title: Convocatoria
 <center>
 <img src="assets/images/icons/logo-1.png" class="center-img">
 El Comité Estatal de la Olimpiada de Matemáticas en Michoacán <strong>convoca</strong> a participar en la
-<h3> Olimpiada Michoacana de Matemáticas</h3>
+<h3> Olimpiada Michoacana de Matemáticas 2024</h3>
 en todos sus niveles, asistiendo al <a class="text-info" data-toggle="modal" data-target="#loginModal">curso de entrenamiento</a> en línea, abierto para <strong>todo público</strong>, y presentando el <a class="text-info" data-toggle="modal" data-target="#loginModal">examen de colocación</a>.
 </center>
 
@@ -29,6 +29,7 @@ Podrán participar estudiantes inscritos en cualquier institución de educación
 Si no obtienes cinta en la primera fecha, puedes entrenar e intentarlo de nuevo en la segunda.
 
 En ambas fechas puedes escoger qué día haces el examen, y una vez que obtienes tu primera cinta ya no es necesario presentar el examen de colocación en una fecha posterior durante el mismo año. Los exámenes son diferentes, claro.
+
 
 ##### ¿Te interesa?
 
@@ -48,6 +49,8 @@ Si ya te registraste alguna vez (por ejemplo, el año pasado), no es necesario r
 </center>
 
 
+##### ¿Quieres recibir notificaciones o anuncios de la Olimpiada de matemáticas?
+<a href="https://chat.whatsapp.com/EusFmjYySlF2E8tmZPZHss"><img src="assets/images/icons/wa.png" height=20pt></a> Únete a la <a href="https://chat.whatsapp.com/EusFmjYySlF2E8tmZPZHss">comunidad de WhatsApp </a>.
 
 ### <span style="color:#00a000"> Objetivo</span>
 

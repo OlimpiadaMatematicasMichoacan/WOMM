@@ -48,6 +48,7 @@ hero:
 social:
 - {icon: "ti-facebook", link: "https://www.facebook.com/olimpiadamichoacanadematematicas"}
 - {icon: "ti-instagram", link: "https://www.facebook.com/olimpiadamichoacanadematematicas"}
+- {icon: "ti-themify-favicon", link: "https://chat.whatsapp.com/EusFmjYySlF2E8tmZPZHss"} 
 #- {icon: "ti-dribbble", link: "#"}
 #- {icon: "ti-twitter", link: "#"}
 
@@ -207,11 +208,6 @@ stats:
 
 events:
 - {name: <a href="/convocatoria">Examen inicial 2024</a>, icon: 'logo-3.png', date: '2-4 febrero 2024', organization: '<br>¡Para todas las categorías!<br><br><a href="/preparate">¡Prepárate!</a></br>'}
-# - {name: <a href="/convocatoria">Examen inicial 2023 (segunda vuelta)</a>, icon: 'logo-2.png', date: '18-20 marzo 2023', organization: '<br>¡Para todas las categorías!<br><br><a href="/preparate">¡Prepárate!</a></br>'}
-#- {name: <a href="/convocatoria">Examen inicial 2022</a>, icon: 'logo-3.png', date: '14-16 enero 2022', organization: '<br>¡Para todos los niveles!<br><br><a href="/preparate">¡Prepárate!</a></br>'}
-#- {name: Actividad, icon: 'camara.png', date: '15 de mayo 2021', organization: '¡Tenemos una actividad preparada para aquellas personas que avanzaron a la fase 3! Ve el sistema para más detalles.'}
-#- {name: Examen Semifinal OMMEB (fase 3 OMM), icon: 'logo-3.png', date: '22-23 mayo 2021', organization: 'En el <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">mismo sistema</a> donde fue el segundo examen será el tercero.'}
-#- {name: Final OMM, icon: 'icon-3.png', date: 'Mayo 2021', organization: 'UMICH'}
 
 
 #-------------------------------
@@ -222,34 +218,6 @@ events:
 #- {name: Miguel Raggi se hace cargo, date: '2021', organization: 'UMSNH'}
 #- {name: Hacemos una página bien chida, date: '2021', organization: 'Mi Casa'}
 #- {name: Resolvemos el analfabetismo matemático, date: '2022', organization: 'Planeta Tierra'}
-
-
-#-------------------------------
-# Services Section
-
-services-title: Problemas de Ejemplo
-services:
-
-- {
-    name: '<img src="assets/images/problemas/tablaSumas.png" width=95%>',
-    #icon: ti-vector,
-    description: 'A mi tabla de sumas le cayó tinta encima. ¿Qué número debe ir en lugar de la estrella?',
-    active:  false # Add true to select section
-  }
-  
-- {
-    name: '<img src="assets/images/problemas/cubosPagina.png" width=95%>',
-    #icon: 'assets/images/problemas/cubosPagina.png',
-    description: '¿Cuántos cubitos más deben agregarse para formar un cubo más grande?',
-    active:  false # Add true to select section
-  }
-  
-- {
-    name: '<img src="assets/images/problemas/pentagono.png" width=95%>',
-    #icon: ti-panel,
-    description: '¿Qué porcentaje del pentágono está sombreado?',
-    active: false # Add true to select section
-  }
 
 
 
@@ -338,6 +306,36 @@ services:
     #url: "#"
     #portfolio-type:
       #- type: "illustration"
+
+      
+
+#-------------------------------
+# Services Section
+
+services-title: Problemas de Ejemplo
+services:
+
+- {
+    name: '<img src="assets/images/problemas/tablaSumas.png" width=95%>',
+    #icon: ti-vector,
+    description: 'A mi tabla de sumas le cayó tinta encima. ¿Qué número debe ir en lugar de la estrella?',
+    active:  false # Add true to select section
+  }
+  
+- {
+    name: '<img src="assets/images/problemas/cubosPagina.png" width=95%>',
+    #icon: 'assets/images/problemas/cubosPagina.png',
+    description: '¿Cuántos cubitos más deben agregarse para formar un cubo más grande?',
+    active:  false # Add true to select section
+  }
+  
+- {
+    name: '<img src="assets/images/problemas/pentagono.png" width=95%>',
+    #icon: ti-panel,
+    description: '¿Qué porcentaje del pentágono está sombreado?',
+    active: false # Add true to select section
+  }
+
 
 
 #-------------------------------
