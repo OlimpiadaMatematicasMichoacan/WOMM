@@ -15,7 +15,7 @@ menu:
 - {name: Inicio, link: '/'}
 - {name: Acerca, link: '/acerca'}
 - {name: Resultados, link: '/resultados'}
-- {name: Convocatoria, link: '/convocatoria'}
+- {name: Convocatoria 2024, link: '/convocatoria'}
 - {name: Prepárate, link: '/preparate'}
 #- {name: Póster, link: '/poster'}
 #- {name: Noticias, link: '/noticias'}
