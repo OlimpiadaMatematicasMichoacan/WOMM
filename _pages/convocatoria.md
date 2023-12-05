@@ -315,7 +315,7 @@ Para tener la posibilidad de representar a Michoacán en cualquiera de estos con
 Quiero ayudarles a hacerle difusión al evento. ¿Cómo?
 </summary>
 <p>
-¡Muchas gracias! Dirige a quien puedas a esta página. Muy pronto podrás encontrar aquí pósters e imágenes promocionales para enviar a tus contactos, familiares, etc.
+¡Muchas gracias! Dirige a quien puedas a esta página. Abajo puedes encontrar pósters e imágenes promocionales para enviar a tus contactos, familiares, etc.
 </p>
 </details>
 
@@ -359,15 +359,15 @@ Escríbenos a <a href="mailto:olimpiada.omm@gmail.com">este correo</a> y con muc
 
 Apúnta a todos tus conocidos a la página.
 
-Puedes descargar e imprimir el [póster en formato pdf](assets/images/poster/poster2024mobil.pdf):<br>
-<a href="assets/images/poster/poster2024mobil.pdf"><img src="assets/images/poster/poster2024mobil.jpg" alt="póster" width="60%"></a>
+Puedes descargar e imprimir el [póster en formato pdf](assets/images/poster/Poster2024.pdf):<br>
+<a href="assets/images/poster/poster2024mobil.pdf"><img src="assets/images/poster/Poster2024.jpg" alt="póster" width="60%"></a>
 
-<!-- O si prefieres enviar sólo una imagen rápida: -->
+O si prefieres enviar sólo una imagen rápida:
+<a href="assets/images/poster/PostFB2024.pdf"><img src="assets/images/poster/PostFB2024.jpg" alt="póster" width="90%"></a>
 
 <!-- #### Para móbil: -->
 <!-- <a href="assets/images/poster/poster2024mobil.pdf"><img src="assets/images/poster/poster2024mobil.jpg" alt="póster" width="50%"></a> -->
 <!-- #### Para web: -->
-<!-- <a href="assets/images/poster/poster2024web.jpg"><img src="assets/images/poster/poster2024web.jpg" alt="póster" width="90%"></a> -->
 
 <span style="color:#aa00fb">Somos una organización sin fines de lucro. Simplemente tenemos interés en aportar nuestro granito de arena a la educación matemática en Michoacán.</span>
 
