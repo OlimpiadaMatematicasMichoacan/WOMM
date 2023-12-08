@@ -21,7 +21,7 @@ El Comité Estatal de la Olimpiada de Matemáticas en Michoacán <strong>convoca
 en todos sus niveles, asistiendo al <a class="text-info" data-toggle="modal" data-target="#loginModal">curso de entrenamiento</a> en línea, abierto para <strong>todo público</strong>, y presentando el <a class="text-info" data-toggle="modal" data-target="#loginModal">examen de colocación</a>.
 </center>
 
-Podrán participar estudiantes inscritos en cualquier institución de educación **pública** o **privada** del estado de Michoacán. Los exámenes de colocación están divididos en cuatro categorías que van <span style="color:#00a000">desde 4° de primaria hasta 2° año de preparatoria</span> o equivalente. Para participar, aparta <span style="color:#f00000">1 o 2 horas un día, en el horario que más te convenga</span> durante estas fechas:
+Podrán participar estudiantes inscritos en cualquier institución de educación **pública** o **privada** del estado de Michoacán. Los exámenes de colocación están divididos en cuatro categorías que van <span style="color:#00a000">desde 4° de primaria hasta 2° año de preparatoria</span> o equivalente. Para participar, aparta <span style="color:#f00000">unas 2 horas un día, en el horario que más te convenga</span> durante estas fechas:
 
 - <span style="color:#00a000">Examen de colocación:</span> 2,3 o 4 de febrero de 2024.
 <!-- - <span style="color:#00a000">Examen de colocación (segunda fecha):</span> 8,9,10 de marzo de 2024. -->
