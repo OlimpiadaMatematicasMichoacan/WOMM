@@ -28,12 +28,12 @@ Podrán participar estudiantes inscritos en cualquier institución de educación
 
 <!-- Si no obtienes cinta en la primera fecha, puedes entrenar e intentarlo de nuevo en la segunda. -->
 
-Puedes escoger qué día y a en qué horario haces el examen.
+Recuerda que puedes escoger qué día y a en qué horario haces el examen.
 
 
 ##### ¿Te interesa?
 
-Si ya te registraste alguna vez (por ejemplo, el año pasado), no es necesario registrarte de nuevo y puedes <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">acceder a la plataforma</a>.
+Si ya te registraste alguna vez (por ejemplo, el año pasado), no es necesario registrarte de nuevo y puedes <a href="https://registro.olimpiadamatematicasmichoacan.org:8443/login/index.php">acceder a la plataforma</a>. <strong>La plataforma te pedirá que actualices tu grado escolar.</strong>
 
 <center>
 
