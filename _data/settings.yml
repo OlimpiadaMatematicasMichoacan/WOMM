@@ -83,23 +83,11 @@ team:
   - title : "María del Río"
     image : "assets/images/team/maria.jpg"
     designation : "Codelegada, Coordinadora Físico-Matemáticas ENES"
-    
-  - title : "Manuel Alejandro Espinoza"
-    image : "assets/images/team/prima.jpg"
-    designation : "Estudiante Doctoral CCM, ex-olímpico"
-    
+
   - title : "María Luisa Pérez"
     image : "assets/images/team/malu.jpg"
     designation : "Profesora UMSNH"
- 
-  - title : "Luis Miguel García"
-    image : "assets/images/team/luismiguel.jpg"
-    designation : "Profesor ENES, ex-olímpico"
-     
-  - title : "Alondra Juárez"
-    image : "assets/images/team/alondra.jpg"
-    designation : "Artista, Diseñadora, Ex-olímpica"
-    
+
   - title : "Nelly Selem"
     image : "assets/images/team/nelly.jpg"
     designation : "Investigadora, Centro de Ciencias Matemáticas"
@@ -107,7 +95,11 @@ team:
   - title : "Edgardo Roldán"
     image : "assets/images/team/edgardo.jpg"
     designation: "Investigador, Centro de Ciencias Matemáticas"
-       
+    
+  - title : "Manuel Alejandro Espinoza"
+    image : "assets/images/team/prima.jpg"
+    designation : "Estudiante Doctoral CCM, ex-olímpico"
+           
   - title : "Arnoldo Chue"
     image : "assets/images/team/arnoldo.jpg"
     designation : "Estudiante de LTICs, 2do semestre / Servicio Social"
@@ -116,42 +108,57 @@ team:
     image : "assets/images/team/ash.jpg"
     designation : "Estudiante de LTICs, 4do semestre / Servicio Social"
     
-
+  - title : "Alondra Juárez"
+    image : "assets/images/team/alondra.jpg"
+    designation : "Artista, Diseñadora, Ex-olímpica"
+    
 # Entrenadores
 entrenadores:
+  - title : "Luis Miguel García"
+    image : "assets/images/team/luismiguel.jpg"
+    designation : "Profesor ENES, ex-olímpico"
+
   - title : "Jorge Luis López López"
     image : "assets/images/team/jorge.jpg"
     designation: "Profesor UMSNH"
-    
-  - title : "Marisol Flores"
-    image : "assets/images/team/marisol.jpg"
-    designation : "Profesora, ENES Morelia"
     
   - title : "Adriana Menchaca"
     image : "assets/images/team/adriana.jpg"
     designation : "Profesora, ENES Morelia"
     
-  - title : "Paola González"
-    image : "assets/images/team/paola.jpg"
-    designation : "Graduada LTICs, ENES Morelia"
-    
-  - title : "Kaori Ureña"
-    image : "assets/images/team/kaori.jpg"
-    designation : "Ex-olímpica, Selección Michoacana"
-    
   - title : "Héctor Alonso Guzmán"
     image : "assets/images/team/hectoralonso.jpg"
     designation : "Profesor, ENES Morelia"
     
-  - title : "Mirna Gómez"
-    image : "assets/images/team/mirna.jpg"
-    designation: "Profesora, ENES Morelia"
-    
-    
-  - title : "Eric Pauli"
-    image : "assets/images/team/eric.jpg"
-    designation : "Doctor en Matemáticas"
+  - title : "Paola González"
+    image : "assets/images/team/paola.jpg"
+    designation : "Graduada LTICs, ENES Morelia"
+        
+  - title : "Kaori Ureña"
+    image : "assets/images/team/kaori.jpg"
+    designation : "Ex-olímpica, Selección Michoacana"
 
+  - title : "Bialy Calderón Magaña"
+    image : "assets/images/team/bialy.jpg"
+    designation : "Ex-olímpica, Selección Michoacana"
+    
+  - title : "Miguel Rangel Castillo"
+    image : "assets/images/team/mike.jpg"
+    designation : "Ex-olímpica, Selección Michoacana"
+    
+  - title : "Alexis Aguilar"
+    image : "assets/images/team/alexis.jpg"
+    designation : "Ex-olímpica, Selección Michoacana"
+    
+  - title : "Luis Alberto García"
+    image : "assets/images/team/luisalberto.jpg"
+    designation : "Ex-olímpica, Selección Michoacana"
+
+
+  - title : "Marisol Flores"
+    image : "assets/images/team/marisol.jpg"
+    designation : "Profesora, ENES Morelia"
+    
 exmiembros:
   - title : "Rodrigo Cortez"
     image : "assets/images/team/rodrigo.jpg"
@@ -192,6 +199,14 @@ exmiembros:
   - title : "Francisco Fonseca"
     image : "assets/images/team/fonseca.jpg"
     designation: "Egresado LTICs / Servicio Social"
+    
+  - title : "Mirna Gómez"
+    image : "assets/images/team/mirna.jpg"
+    designation: "Profesora, ENES Morelia"
+    
+  - title : "Eric Pauli"
+    image : "assets/images/team/eric.jpg"
+    designation : "Doctor en Matemáticas"
     
 #-------------------------------
 # Stats Section
