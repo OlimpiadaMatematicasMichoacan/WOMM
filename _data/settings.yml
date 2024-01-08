@@ -102,11 +102,11 @@ team:
            
   - title : "Arnoldo Chue"
     image : "assets/images/team/arnoldo.jpg"
-    designation : "Estudiante de LTICs, 2do semestre / Servicio Social"
+    designation : "Estudiante de LTICs, 4to semestre / Servicio Social"
     
   - title : "Ashley Aguilar"
     image : "assets/images/team/ash.jpg"
-    designation : "Estudiante de LTICs, 4do semestre / Servicio Social"
+    designation : "Estudiante de LTICs, 6to semestre / Servicio Social"
     
   - title : "Alondra Juárez"
     image : "assets/images/team/alondra.jpg"
@@ -140,19 +140,19 @@ entrenadores:
 
   - title : "Bialy Calderón Magaña"
     image : "assets/images/team/bialy.jpg"
-    designation : "Ex-olímpica, Selección Michoacana"
+    designation : "Ex-olímpico, Selección Michoacana"
     
   - title : "Miguel Rangel Castillo"
     image : "assets/images/team/mike.jpg"
-    designation : "Ex-olímpica, Selección Michoacana"
+    designation : "Ex-olímpico, Selección Michoacana"
     
   - title : "Alexis Aguilar"
     image : "assets/images/team/alexis.jpg"
-    designation : "Ex-olímpica, Selección Michoacana"
+    designation : "Estudiante de LTICs, 2do semestre / Ex-olímpico, Selección Michoacana"
     
   - title : "Luis Alberto García"
     image : "assets/images/team/luisalberto.jpg"
-    designation : "Ex-olímpica, Selección Michoacana"
+    designation : "Estudiante de LTICs, 2do semestre / Ex-olímpico, Selección Michoacana"
 
 
   - title : "Marisol Flores"
