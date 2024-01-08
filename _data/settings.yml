@@ -99,6 +99,14 @@ team:
   - title : "Alondra Juárez"
     image : "assets/images/team/alondra.jpg"
     designation : "Artista, Diseñadora, Ex-olímpica"
+    
+  - title : "Nelly Selem"
+    image : "assets/images/team/nelly.jpg"
+    designation : "Investigadora, Centro de Ciencias Matemáticas"
+    
+  - title : "Edgardo Roldán"
+    image : "assets/images/team/edgardo.jpg"
+    designation: "Investigador, Centro de Ciencias Matemáticas"
        
   - title : "Arnoldo Chue"
     image : "assets/images/team/arnoldo.jpg"
@@ -139,13 +147,6 @@ entrenadores:
     image : "assets/images/team/mirna.jpg"
     designation: "Profesora, ENES Morelia"
     
-  - title : "Nelly Selem"
-    image : "assets/images/team/nelly.jpg"
-    designation : "Investigadora, Centro de Ciencias Matemáticas"
-    
-  - title : "Edgardo Roldán"
-    image : "assets/images/team/edgardo.jpg"
-    designation: "Investigador, Centro de Ciencias Matemáticas"
     
   - title : "Eric Pauli"
     image : "assets/images/team/eric.jpg"
