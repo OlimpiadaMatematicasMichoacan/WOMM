@@ -335,7 +335,7 @@ Para apoyar con el entrenamiento podrías también, por ejemplo, ayudar a estudi
 </p>
 
 <p>
-Y claro, te alentamos a organizar que todos los grupos <span style="color:#00a000">presenten el examen en la misma escuela</span>, de ser viable, <span style="color:#00a000">el viernes 17 de febrero</span> en cualquier horario. Sin embargo, toma en cuenta que la participación es individual, y <strong><span style="color:magenta">cada estudiante deberá registrarse por separado en la plataforma</span></strong>.
+Y claro, te alentamos a organizar que todos los grupos <span style="color:#00a000">presenten el examen en la misma escuela</span>, de ser viable, <span style="color:#00a000">el viernes 2 de febrero</span> en cualquier horario. Sin embargo, toma en cuenta que la participación es individual, y <strong><span style="color:magenta">cada estudiante deberá registrarse por separado en la plataforma</span></strong>.
 </p>
 
 <p>
