@@ -33,4 +33,4 @@ Recientemente la Olimpiada recibió una generosa donación de un automóvil Niss
 
 ¡Muchas gracias por considerarlo y por tu valioso apoyo!
 
-<img src="https://www.ommenlinea.org/wp-content/uploads/2024/03/Rifa-%C3%B7-amistades-600x800.png">
+<a href="https://www.ommenlinea.org/rifa-entre-amigos/"><img alt="https://www.ommenlinea.org/rifa-entre-amigos/" src="https://www.ommenlinea.org/wp-content/uploads/2024/03/Rifa-%C3%B7-amistades-600x800.png"></a>
