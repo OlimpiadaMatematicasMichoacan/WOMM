@@ -19,6 +19,8 @@ Todos los boletos tienen la misma probabilidad (1/5000) de ganar, pero si tienes
 3. Nombre Completo
 4. Celular
 5. Correo
+
+
 Te responderemos en 1 (o 2) días máximo con tus números.
 
 También estamos distribuyendo boletos físicos para aquellos que prefieran tenerlos en mano, aunque no es obligatorio.
