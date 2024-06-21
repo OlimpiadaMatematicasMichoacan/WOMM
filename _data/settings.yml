@@ -223,8 +223,9 @@ stats:
 #-------------------------------
 # Events Section
 
-events:
-- {name: <a href="/convocatoria">Examen inicial 2024</a>, icon: 'logo-3.png', date: '2-4 febrero 2024', organization: '<br>¡Para todas las categorías!<br><br><a href="/preparate">¡Prepárate!</a></br>'}
+# events:
+# - {name: <a href="/convocatoria">Examen inicial 2024</a>, icon: 'logo-3.png', date: '2-4 febrero 2024', organization: '<br>¡Para todas las categorías!<br><br><a href="/preparate">¡Prepárate!</a></br>'}
+# - {name: <a href="/convocatoria">Preparación 2024</a>, icon: 'logo-3.png', date: '2-4 febrero 2024', organization: '<br>¡Estudia por tu cuenta! ¡Entra a las sesiones de zoom!<br><br><a href="/preparate">¡Prepárate!</a></br>'}
 
 
 #-------------------------------
