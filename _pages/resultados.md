@@ -21,7 +21,7 @@ title: Resultados 2024
 	}
 </style>
 
-## Resultados OMMEB
+## Selección OMMEB 2024
 
 Este es el equipo que representará a Michoacán en la Olimpiada Mexicana de Matemáticas para la Educación Básica:
 
@@ -37,3 +37,7 @@ Este es el equipo que representará a Michoacán en la Olimpiada Mexicana de Mat
  <tr><td>Daniela Palacios Martínez</td><td>Sahuayo</td><td>Colegio Interamericano De Sahuayo</td><td>3° secundaria</td><td>3</td></tr>
  <tr><td>Josué García Pérez</td><td>Purépero</td><td>Escuela Secundaria Particular Cázares</td><td>3° secundaria</td><td>3</td></tr>
 </tbody></table>
+
+¡Mucha suerte al equipo!
+
+¡Y muchas felicidades a todos los participantes que presentaron el examen final!
