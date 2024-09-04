@@ -21,50 +21,19 @@ title: Resultados 2023
 	}
 </style>
 
-### Resultados previos
+## Resultados OMMEB
 
-- [Resultados 2021](resultados2021)
-- [Resultados 2022](resultados2022)
-
-### Resultados OMMEB
-
-¡Muchas felicidades a nuestros equipos OMMEB! En particular a:
-
+Este es el equipo que representará a Michoacán en la Olimpiada Mexicana de Matemáticas para la Educación Básica:
 
 <table class="results-table">
-<thead><tr class="tableizer-firstrow"><th>Nombre</th><th>Ciudad</th><th>Escuela</th><th>Grado Escolar</th><th>Resultado en OMMEB 2023</th></tr></thead><tbody>
- <tr><td>Oscar Andrés Domínguez González</td><td>Morelia</td><td>Colegio Grenewic</td><td>6° primaria</td><td>Medalla de Plata <img src="../../assets/images/icons/medal_2silver.png" alt="Plata" width="25" height="25">/ preselección nacional</td></tr>
- <tr><td>José Andrés Lemus Velázquez</td><td>Lázaro Cárdenas</td><td>Secundaria 113</td><td>3° secundaria</td><td>Medalla de Plata <img src="../../assets/images/icons/medal_2silver.png" alt="Plata" width="25" height="25">/ preselección nacional</td></tr>
- <tr><td>Ingrid Naomi Robledo Gómez</td><td>Queréndaro</td><td>Escuela Secundaria Técnica 26</td><td>3° secundaria</td><td>Mención Honorífica</td></tr>
- <tr><td>Francisco Moreno Reynoso</td><td>Morelia</td><td>Colegio de las Américas</td><td>6° primaria</td><td>Mención Honorífica</td></tr>
- <tr><td>Max Oeckl Arumir</td><td>Morelia</td><td>Centro Educativo Morelia</td><td>1° secundaria</td><td>Mención Honorífica</td></tr>
+<thead><tr class="tableizer-firstrow"><th>Nombre</th><th>Ciudad</th><th>Escuela</th><th>Grado Escolar</th><th>Nivel</th></tr></thead><tbody>
+ <tr><td>Carlos Aguilar Santos</td><td>Morelia</td><td>Instituto Antonio De Mendoza</td><td>6° primaria</td><td>2</td></tr>
+ <tr><td>Inés Raggi Patiño</td><td>Morelia</td><td>Centro Educativo Morelia</td><td>4° primaria</td><td>2</td></tr>
+ <tr><td>Gretel Valderrama Aguilera</td><td>Morelia</td><td>Colegio Mano Amiga</td><td>6° primaria</td><td>2</td></tr>
+ <tr><td>Oscar Andrés Domínguez González</td><td>Morelia</td><td>Colegio Grenewic</td><td>1° secundaria</td><td>2</td></tr>
+ <tr><td>Daniela Estefania Amezcua Gálvez</td><td>Sahuayo</td><td>Colegio Interamericano De Sahuayo</td><td>2° secundaria</td><td>2</td></tr>
+ <tr><td>Fátima Rangel Castillo</td><td>Morelia</td><td>Instituto Vasco De Quirpga</td><td>2° secundaria</td><td>2</td></tr>
+ <tr><td>Ángel Garcia</td><td>Morelia</td><td>Colegio Americano Morelia</td><td>3° secundaria</td><td>2</td></tr>
+ <tr><td>Daniela Palacios Martínez</td><td>Sahuayo</td><td>Colegio Interamericano De Sahuayo</td><td>3° secundaria</td><td>2</td></tr>
+ <tr><td>Josué García Pérez</td><td>Purépero</td><td>Escuela Secundaria Particular Cázares</td><td>3° secundaria</td><td>2</td></tr>
 </tbody></table>
-
-
-### Resultados OMMEB
-
-¡Muchas felicidades a nuestro equipo OMM! En particular a:
-
-<table class="results-table">
-<thead><tr class="tableizer-firstrow"><th>Nombre</th><th>Ciudad</th><th>Escuela</th><th>Grado Escolar</th><th>Resultado en OMM 2023</th></tr></thead><tbody>
- <tr><td>Victor Guzmán Rodríguez</td><td>Morelia</td><td>Lancaster</td><td>2° año de preparatoria</td><td>Medalla de Bronce <img src="../../assets/images/icons/medal_3bronze.png" alt="Bronce" width="25" height="25"></td></tr>
- <tr><td>Miguel Enrique Rangel Castillo</td><td>Morelia</td><td>Instituo Vasco de Quiroga</td><td>3° año de preparatoria</td><td>Medalla de Bronce <img src="../../assets/images/icons/medal_3bronze.png" alt="Bronce" width="25" height="25"></td></tr>
- <tr><td>Bialy Calderón Magaña</td><td>Morelia</td><td>Universidad LaSalle</td><td>3° año de preparatoria</td><td>Mención Honorífica</td></tr>
-</tbody></table>
-
-
-
-### Estadísticas de participación 2023
-
-#### Mejores escuelas
-Cintas por escuelita hasta junio 2023 (mejores 40 resultados):
-
-<iframe src="../assets/iframes/2023/cintas_por_escuela_Mayo.html" class="plot" height=625 width=1080></iframe>
-
-#### Participación por sexo
-
-<iframe src="../assets/iframes/2023/Sexo.html" class="plot" height=420 width="70%"></iframe>
-
-#### Participación por Ciudad
-
-<iframe src="../assets/iframes/2023/Ciudad.html" class="plot" height=420 width="70%"></iframe>
