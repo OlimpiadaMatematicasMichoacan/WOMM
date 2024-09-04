@@ -1,6 +1,6 @@
 ---
 layout: pageformat
-title: Resultados 2023
+title: Resultados 2024
 ---
 
 <style type="text/css">
