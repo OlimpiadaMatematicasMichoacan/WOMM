@@ -17,14 +17,14 @@ title: Convocatoria
 <center>
 <img src="assets/images/icons/logo-1.png" class="center-img">
 El Comité Estatal de la Olimpiada de Matemáticas en Michoacán <strong>convoca</strong> a participar en la
-<h3> Olimpiada Michoacana de Matemáticas 2024</h3>
+<h3> Olimpiada Michoacana de Matemáticas 2025</h3>
 en todos sus niveles, asistiendo al <a class="text-info" data-toggle="modal" data-target="#loginModal">curso de entrenamiento</a> en línea, abierto para <strong>todo público</strong>, y presentando el <a class="text-info" data-toggle="modal" data-target="#loginModal">examen de colocación</a>.
 </center>
 
 Podrán participar estudiantes inscritos en cualquier institución de educación **pública** o **privada** del estado de Michoacán. Los exámenes de colocación están divididos en cuatro categorías que van <span style="color:#00a000">desde 4° de primaria hasta 2° año de preparatoria</span> o equivalente. Para participar, aparta <span style="color:#f00000">unas 2 horas un día, en el horario que más te convenga</span> durante estas fechas:
 
-- <span style="color:#00a000">Examen de colocación:</span> 2,3 o 4 de febrero de 2024.
-<!-- - <span style="color:#00a000">Examen de colocación (segunda fecha):</span> 8,9,10 de marzo de 2024. -->
+- <span style="color:#00a000">Examen de colocación:</span> 1,2 o 3 de febrero de 2025.
+<!-- - <span style="color:#00a000">Examen de colocación (segunda fecha):</span> 8,9,10 de marzo de 2025. -->
 
 <!-- Si no obtienes cinta en la primera fecha, puedes entrenar e intentarlo de nuevo en la segunda. -->
 
@@ -59,8 +59,6 @@ La Olimpiada de Matemáticas tiene como objetivo promover el aprendizaje de las 
 Existe la falsa creencia de que las matemáticas sólo le sirven a personas interesadas en estudiar disciplinas que tradicionalmente se asocian con la ciencia e ingeniería, pero esto está muy alejado de la realidad. Todas las áreas del conocimiento, e incluso tu vida cotidiana, prosperarán con un poco más de razonamiento lógico, creatividad y pensamiento crítico. La Olimpiada de Matemáticas aspira a fortalecer estas habilidades en la sociedad.
 
 ### <span style="color:#00a000"> Proceso</span>
-
-##### <strong><span style="color:red">Nota</span></strong>: Este año cambió considerablemente el proceso de la Olimpiada de Matemáticas con respecto a años anteriores.  
 
 Para participar en la Olimpiada de Matemáticas en Michoacán, deberás resolver un examen sencillo, con preguntas de ingenio. Te recomendamos <a href="/preparate">prepararte</a> resolviendo ejercicios, acertijos, viendo videos, etc. 
 
@@ -164,7 +162,7 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 <details>
 <summary>¿Cuánto dura el examen de colocación?</summary>
 <p> 
-   Dependiendo de tu grado escolar, el examen durará entre 1 y 2 horas. Tú decides a qué hora iniciar y tu tiempo comienza a correr una vez que abres el examen. Te recomendamos apartar el tiempo suficiente para resolver el examen.
+   Dependiendo de tu grado escolar, el examen durará entre 1 y 2 horas. Tú decides a qué hora iniciar y tu tiempo comienza a correr una vez que abres el examen. Te recomendamos apartar el tiempo suficiente para resolver el examen, en un lugar silencioso.
 </p>
 </details>
 
@@ -172,7 +170,7 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 <details>
 <summary>¿Qué documentos necesito presentar para participar?</summary>
 <p> 
-   Puedes presentar el examen de colocación sin presentar documentación. Si avanzas a la siguiente etapa, te pediremos algún documento que compruebe tu fecha de nacimiento y una constancia de inscripción en alguna escuela de Michoacán antes de poder emitir tu diploma.
+   Puedes presentar el examen de colocación sin presentar documentación. Te pediremos algún documento que compruebe tu fecha de nacimiento y una constancia de inscripción en alguna escuela de Michoacán antes de poder emitir tu diploma.
 </p>
 </details>
 
@@ -211,23 +209,6 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 <p><span style="color:magenta">TL;DR:</span> El tiempo que quieras y puedas está bien.</p>
 </details>
 
-
-
-<details>
-<summary>¿Qué ocurre en caso de lograr avanzar a la siguiente etapa? </summary>
-<p> 
-   Unos días después de que concluya el examen los resultados aparecerán en la misma página y te enviaremos un correo electrónico. Posteriormente recibirás en tu correo una liga de invitación a entrenamientos más avanzados. Posiblemente organizaremos, en algunas ciudades, entrenamientos presenciales opcionales. Además te enviaremos un diploma, una vez que recibamos tus documentos.
-</p>
-</details>
-
-<details>
-<summary>¿Y si no avanzo? ¿Habrá otra oportunida?</summary>
-<p> 
-   No te desanimes. Continúa preparándote e intenta a la segunda vuelta.
-</p>
-</details>
-
-
 <details>
 <summary>¿Qué pasa si ya tenía asignada una cinta el año pasado?</summary>
 <p> 
@@ -237,7 +218,7 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
   Si ahora estás en 6to de primaria, el año pasado participabas en la categoría 1 (4 y 5 de primaria), así que tu cinta bajaría a blanca.
 <p> 
 </p>  
-  En ambos casos simplemente estás iniciando tu viaje avanzado y puedes subir muy rápido si no has olvidado los conocimientos que adquiriste el año pasado :)
+  En ambos casos simplemente estás iniciando tu viaje ya avanzado, así que puedes subir muy rápido si no has olvidado los conocimientos que adquiriste el año pasado :)
 </p>
 </details>
 
@@ -250,28 +231,17 @@ Cuando Michoacán participe en algún concurso (nacional, regional, nacional OMM
 </details>
 
 <details>
-<summary>
-    ¿Cuál es la diferencia de este año con los años anteriores y por qué el cambio?
-</summary>
-
-<p>
-En años anteriores veíamos a la Olimpiada de Matemáticas en "fases", donde había un examen al final de cada fase y se eliminaba a quienes obtenían menores puntajes en cada examen, pero esto cambió el año pasado.
+<summary>Se me pasó el examen de colocación. ¿Qué hago?</summary>
+<p> 
+  No te preocupes. Inscríbete y escríbe un correo a <a href="mailto:olimpiada.omm@gmail.com">olimpiada.omm@gmail.com</a>. Si no es muy tarde en el año y tienes disposición de ponerte al corriente, todavía puedes participar.
 </p>
+</details>
 
-<p>
-Continuaremos trabajando en la Olimpiada de Matemáticas (en Michoacán) de forma "continua": hay algunos exámenes para ingresar, y dependiendo de tus resultados y experiencia te acomodaremos uno de varios grupos de entrenamiento. Periódicamente habrá exámenes y otras oportunidades para avanzar a un grupo superior. Si no avanzas, no serás "eliminado", simplemente es una indicación que te falta preparación para iniciar entrenamientos más avanzados en ese momento.
-</p>
 
+<details>
+<summary>Entonces si no avanzo de cinta en un examen, o no presento un examen, ¿me descalifican?</summary>
 <p>
-¿Por qué el cambio? Pues realmente por muchas razones. Quisimos hacer más amigable todo el proceso, haciendo énfasis en que todas las personas que participan en la Olimpiada (incluyendo profes, familiares, etc.) son importantes para nosotros. Aunque la Olimpiada técnicamente es un concurso, el objetivo real es enseñar las matemáticas de manera divertida, creativa y lógica, teniendo el mayor alcance posible. Algo que no nos gustaba en ocasiones anteriores era que cuando alguien no avanzaba a la siguiente fase, ya no seguía entrenando y aprendiendo durante todo el periodo, así que cuando llegaba el año siguiente, ya había olvidado muchas cosas.
-</p>
-
-<p>
-Ahora entrenaremos todo el año. Cuando tengamos que seleccionar a un grupo para que represente a Michoacán en un examen nacional, tomaremos a quienes hayan tenido mejor desempeño durante los entrenamientos y exámenes selectivos.
-</p>
-
-<p>
-La Olimpiada acaba para ti cuando ya no queden más concursos en los que participe Michoacán en donde cumplas los requisitos para concursar.
+¡Claro que no! La Olimpiada acaba para ti cuando ya no queden más concursos en los que participe Michoacán en donde cumplas los requisitos para concursar.
 </p>
 </details>
 
@@ -335,7 +305,7 @@ Para apoyar con el entrenamiento podrías también, por ejemplo, ayudar a estudi
 </p>
 
 <p>
-Y claro, te alentamos a organizar que todos los grupos <span style="color:#00a000">presenten el examen en la misma escuela</span>, de ser viable, <span style="color:#00a000">el viernes 2 de febrero</span> en cualquier horario. Sin embargo, toma en cuenta que la participación es individual, y <strong><span style="color:magenta">cada estudiante deberá registrarse por separado en la plataforma</span></strong>.
+Y claro, te alentamos a organizar que todos los grupos <span style="color:#00a000">presenten el examen en la misma escuela</span>, de ser viable, <span style="color:#00a000">el lunes 3 de febrero</span> en cualquier horario. Sin embargo, toma en cuenta que la participación es individual, y <strong><span style="color:magenta">cada estudiante deberá registrarse por separado en la plataforma</span></strong>.
 </p>
 
 <p>
@@ -362,14 +332,14 @@ Escríbenos a <a href="mailto:olimpiada.omm@gmail.com">este correo</a> y con muc
 
 Apúnta a todos tus conocidos a la página.
 
-Puedes descargar e imprimir el [póster en formato pdf](assets/images/poster/Poster2024.pdf):<br>
-<a href="assets/images/poster/poster2024mobil.pdf"><img src="assets/images/poster/Poster2024.jpg" alt="póster" width="60%"></a>
+Puedes descargar e imprimir el [póster en formato pdf](assets/images/poster/Poster2025.pdf):<br>
+<a href="assets/images/poster/Poster2025.pdf"><img src="assets/images/poster/Poster2025.jpg" alt="póster" width="60%"></a>
 
-O si prefieres enviar sólo una imagen rápida:
-<a href="assets/images/poster/PostFB2024.pdf"><img src="assets/images/poster/PostFB2024.jpg" alt="póster" width="90%"></a>
+<!-- O si prefieres enviar sólo una imagen rápida: -->
+<!-- <a href="assets/images/poster/PostFB2025.pdf"><img src="assets/images/poster/PostFB2025.jpg" alt="póster" width="90%"></a> -->
 
 <!-- #### Para móbil: -->
-<!-- <a href="assets/images/poster/poster2024mobil.pdf"><img src="assets/images/poster/poster2024mobil.jpg" alt="póster" width="50%"></a> -->
+<!-- <a href="assets/images/poster/poster2025mobil.pdf"><img src="assets/images/poster/poster2025mobil.jpg" alt="póster" width="50%"></a> -->
 <!-- #### Para web: -->
 
 <span style="color:#aa00fb">Somos una organización sin fines de lucro. Simplemente tenemos interés en aportar nuestro granito de arena a la educación matemática en Michoacán.</span>
