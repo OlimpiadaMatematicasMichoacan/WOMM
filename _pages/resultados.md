@@ -36,6 +36,12 @@ Este es el equipo que representó a Michoacán en el Concurso Nacional Femenil d
  <tr><td>Andrea Espinosa Sierra</td><td>Morelia</td><td>Colegio Primitivo y Nacional de San Nicolás de Hidalgo</td><td>2° preparatoria</td></tr>
 </tbody></table>
 
+<strong>Equipo femenil de Michoacán 2024.</strong>
+<img src="{{ site.baseurl }}/assets/images/about/femenil2024.jpg" alt="Miguel, Ana (Oro), Paulina (Mención honorífica), Bialy (bronce), Andrea, Paloma (Plata), Adriana" class="img-fluid rounded-lg border-thick border-white" width="90%">
+<br>
+Miguel (delegado), Ana (Oro), Paulina (Mención honorífica), Bialy (bronce), Andrea, Paloma (Plata), Adriana<br>
+¡Octavo lugar nacional por equipos para Michoacán! <br><strong>¡¡¡Muchas felicidades!!!</strong><br>
+
 ## Selección OMMEB 2024
 
 Este es el equipo que representó a Michoacán en la Olimpiada Mexicana de Matemáticas para la Educación Básica:
@@ -53,6 +59,12 @@ Este es el equipo que representó a Michoacán en la Olimpiada Mexicana de Matem
  <tr><td>Josué García Pérez</td><td>Purépero</td><td>Escuela Secundaria Particular Cázares</td><td>3° secundaria</td><td>3</td><td></td></tr>
 </tbody></table>
 
+<strong>Equipo femenil de Michoacán 2024.</strong>
+<img src="{{ site.baseurl }}/assets/images/about/ommeb2024.jpg" alt="Josué, Óscar, Ángel, Fátima, Daniela A., Daniela P., Gretel. Adelante: Inés, Carlos" class="img-fluid rounded-lg border-thick border-white" width="90%">
+<br>
+Josué, Óscar, Ángel, Fátima, Daniela A., Daniela P., Gretel. Adelante: Inés, Carlos<br>
+
+
 
 ## Selección OMM 2024
 
@@ -66,4 +78,11 @@ Este es el equipo que representó a Michoacán en la Olimpiada Mexicana de Matem
  <tr><td>Óscar Domínguez</td><td>Morelia</td><td>Colegio Herbart</td><td>1° secundaria</td><td></td></tr>
  <tr><td>Paulina Ruíz Rubio</td><td>Tarímbaro</td><td>Colegio Primitivo y Nacional de San Nicolás de Hidalgo </td><td>2° preparatoria</td><td></td></tr>
 </tbody></table>
+
+<strong>Equipo de Michoacán 2024.</strong>
+<img src="{{ site.baseurl }}/assets/images/about/omm2024.jpg" alt="Miguel (delegado), Ángel, José Andrés (Bronce), Víctor (plata), Ana (bronce), Paulina, Óscar, Paola (codelegada)" class="img-fluid rounded-lg border-thick border-white" width="90%">
+<br>
+Miguel (delegado), Ángel, José Andrés (Bronce), Víctor (plata), Ana (bronce), Paulina, Óscar, Paola (codelegada)<br>
+¡Decimo-séptimo lugar nacional para Michoacán! <br><strong>¡¡¡Muchas felicidades!!!</strong><br>
+Nota: No encontramos fotos con Ángel o José Andrés sonriendo, pero prometemos que estaban muy contentos.
 
