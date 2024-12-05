@@ -24,6 +24,7 @@ en todos sus niveles, asistiendo al <a class="text-info" data-toggle="modal" dat
 Podrán participar estudiantes inscritos en cualquier institución de educación **pública** o **privada** del estado de Michoacán. Los exámenes de colocación están divididos en cuatro categorías que van <span style="color:#00a000">desde 4° de primaria hasta 2° año de preparatoria</span> o equivalente. Para participar, aparta <span style="color:#f00000">unas 2 horas un día, en el horario que más te convenga</span> durante estas fechas:
 
 - <span style="color:#00a000">Examen de colocación:</span> 1,2 o 3 de febrero de 2025.
+- <span style="color:#00a000">Segundo examen de colocación:</span> Por anunciar, PERO te recomendamos que hagas el primero para que no te pierdas de nada.
 <!-- - <span style="color:#00a000">Examen de colocación (segunda fecha):</span> 8,9,10 de marzo de 2025. -->
 
 <!-- Si no obtienes cinta en la primera fecha, puedes entrenar e intentarlo de nuevo en la segunda. -->
@@ -333,7 +334,7 @@ Escríbenos a <a href="mailto:olimpiada.omm@gmail.com">este correo</a> y con muc
 Apúnta a todos tus conocidos a la página.
 
 Puedes descargar e imprimir el [póster en formato pdf](assets/images/poster/Poster2025.pdf):<br>
-<a href="assets/images/poster/Poster2025.pdf"><img src="assets/images/poster/Poster2025.jpg" alt="póster" width="60%"></a>
+<a href="assets/images/poster/Poster2025.pdf"><img src="assets/images/poster/Poster2025.jpg" alt="póster" width="90%"></a>
 
 <!-- O si prefieres enviar sólo una imagen rápida: -->
 <!-- <a href="assets/images/poster/PostFB2025.pdf"><img src="assets/images/poster/PostFB2025.jpg" alt="póster" width="90%"></a> -->

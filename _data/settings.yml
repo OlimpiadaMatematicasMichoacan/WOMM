@@ -16,7 +16,7 @@ menu:
 - {name: Acerca, link: '/acerca'}
 # - {name: Rifa, link: '/rifa'}
 - {name: Resultados, link: '/resultados'}
-- {name: Convocatoria 2024, link: '/convocatoria'}
+- {name: Convocatoria 2025, link: '/convocatoria'}
 - {name: Prepárate, link: '/preparate'}
 #- {name: Póster, link: '/poster'}
 #- {name: Noticias, link: '/noticias'}
@@ -224,8 +224,7 @@ stats:
 # Events Section
 
 # events:
-# - {name: <a href="/convocatoria">Examen inicial 2024</a>, icon: 'logo-3.png', date: '2-4 febrero 2024', organization: '<br>¡Para todas las categorías!<br><br><a href="/preparate">¡Prepárate!</a></br>'}
-# - {name: <a href="/convocatoria">Preparación 2024</a>, icon: 'logo-3.png', date: '2-4 febrero 2024', organization: '<br>¡Estudia por tu cuenta! ¡Entra a las sesiones de zoom!<br><br><a href="/preparate">¡Prepárate!</a></br>'}
+# - {name: <a href="/convocatoria">Examen inicial 2025</a>, icon: 'logo-3.png', date: '1-3 febrero 2025', organization: '<br>¡Para todas las categorías!<br><br><a href="/preparate">¡Prepárate!</a></br>'}
 
 
 #-------------------------------
