@@ -112,6 +112,10 @@ team:
   - title : "Alondra Juárez"
     image : "assets/images/team/alondra.jpg"
     designation : "Artista, Diseñadora, Ex-olímpica"
+  
+  - title : "Gerardo Zabdiel Martinez Zavala"
+    image : "assets/images/team/Zabdiel.jpg"
+    designation : "Estudiante de LTICs, 6to semestre / Servicio Social"
     
 # Entrenadores
 entrenadores:
