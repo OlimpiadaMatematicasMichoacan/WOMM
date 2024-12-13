@@ -414,6 +414,9 @@ client-slider-items:
 
   - logo: "assets/images/clients-logo/ICTI.png"
     url: "https://icti.michoacan.gob.mx/"
+
+  - logo: "assets/images/clients-logo/CCUNAM.png"
+    url: "https://www.enesmorelia.unam.mx/unam-centro-cultural-morelia/"
     
   - logo: "assets/images/clients-logo/smm.png" #Important!
     url: "https://www.smm.org.mx" #Se necesita esta cantidad de Logos para que funcione el carrousel.
