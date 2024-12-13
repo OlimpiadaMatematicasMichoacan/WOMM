@@ -15,7 +15,7 @@ title: Convocatoria
 
 <br>
 <center>
-<img src="assets/images/icons/logo-1.png" class="center-img">
+<img src="assets/images/olimpiada.png" class="center-img">
 El Comité Estatal de la Olimpiada de Matemáticas en Michoacán <strong>convoca</strong> a participar en la
 <h3> Olimpiada Michoacana de Matemáticas 2025</h3>
 en todos sus niveles, asistiendo al <a class="text-info" data-toggle="modal" data-target="#loginModal">curso de entrenamiento</a> en línea, abierto para <strong>todo público</strong>, y presentando el <a class="text-info" data-toggle="modal" data-target="#loginModal">examen de colocación</a>.
