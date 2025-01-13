@@ -103,11 +103,15 @@ team:
            
   - title : "Arnoldo Chue"
     image : "assets/images/team/arnoldo.jpg"
-    designation : "Estudiante de LTICs, 4to semestre / Servicio Social"
+    designation : "Estudiante de LTICs, 6to semestre / Servicio Social"
     
   - title : "Ashley Aguilar"
     image : "assets/images/team/ash.jpg"
-    designation : "Estudiante de LTICs, 6to semestre / Servicio Social"
+    designation : "Estudiante de LTICs, 8avo semestre / Servicio Social"
+
+  - title : "Bialy Calderón Magaña"
+    image : "assets/images/team/bialy.jpg"
+    designation : "Ex-olímpica, Selección Michoacana, Estudiante LTICs. Relaciones Públicas."
     
   - title : "Alondra Juárez"
     image : "assets/images/team/alondra.jpg"
@@ -141,10 +145,6 @@ entrenadores:
         
   - title : "Kaori Ureña"
     image : "assets/images/team/kaori.jpg"
-    designation : "Ex-olímpica, Selección Michoacana"
-
-  - title : "Bialy Calderón Magaña"
-    image : "assets/images/team/bialy.jpg"
     designation : "Ex-olímpica, Selección Michoacana"
     
   - title : "Miguel Rangel Castillo"
