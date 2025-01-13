@@ -100,6 +100,10 @@ team:
   - title : "Manuel Alejandro Espinoza"
     image : "assets/images/team/prima.jpg"
     designation : "Estudiante Doctoral CCM, ex-olímpico"
+
+  - title : "Bialy Calderón Magaña"
+    image : "assets/images/team/bialy.jpg"
+    designation : "Relaciones Públicas. Ex-olímpica, Estudiante LTICs. "
            
   - title : "Arnoldo Chue"
     image : "assets/images/team/arnoldo.jpg"
@@ -109,10 +113,6 @@ team:
     image : "assets/images/team/ash.jpg"
     designation : "Estudiante de LTICs, 8avo semestre / Servicio Social"
 
-  - title : "Bialy Calderón Magaña"
-    image : "assets/images/team/bialy.jpg"
-    designation : "Ex-olímpica, Selección Michoacana, Estudiante LTICs. Relaciones Públicas."
-    
   - title : "Alondra Juárez"
     image : "assets/images/team/alondra.jpg"
     designation : "Artista, Diseñadora, Ex-olímpica"
