@@ -169,6 +169,9 @@ entrenadores:
     image : "assets/images/team/luisalberto.jpg"
     designation : "Estudiante de LTICs, 2do semestre / Ex-olímpico, Selección Michoacana"
 
+  - title : "Alinne Solano"
+    image : "assets/images/team/alinne.jpg"
+    designation : "Profesora, ENES Morelia"
 
   - title : "Marisol Flores"
     image : "assets/images/team/marisol.jpg"
