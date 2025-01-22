@@ -100,6 +100,10 @@ team:
   - title : "Manuel Alejandro Espinoza"
     image : "assets/images/team/prima.jpg"
     designation : "Estudiante Doctoral CCM, ex-olímpico"
+    
+  - title : "Alondra Juárez"
+    image : "assets/images/team/alondra.jpg"
+    designation : "Artista, Diseñadora, Ex-olímpica"
 
   - title : "Bialy Calderón Magaña"
     image : "assets/images/team/bialy.jpg"
@@ -113,13 +117,19 @@ team:
     image : "assets/images/team/ash.jpg"
     designation : "Estudiante de LTICs, 8avo semestre / Servicio Social"
 
-  - title : "Alondra Juárez"
-    image : "assets/images/team/alondra.jpg"
-    designation : "Artista, Diseñadora, Ex-olímpica"
-  
   - title : "Gerardo Zabdiel Martinez Zavala"
-    image : "assets/images/team/Zabdiel.jpg"
+    image : "assets/images/team/zabdiel.jpg"
     designation : "Estudiante de LTICs, 6to semestre / Servicio Social"
+    
+  - title: "Mariana Cabrera Vázquez"
+    image: "assets/images/team/mariana.jpg"
+    designation: "Difusión CSAM"
+
+  - title: "Erandi Torres Martínez"
+    image: "assets/images/team/erandi.jpg"
+    designation: "Difusión CSAM"
+
+
     
 # Entrenadores
 entrenadores:
