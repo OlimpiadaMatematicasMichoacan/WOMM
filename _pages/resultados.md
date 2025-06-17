@@ -32,9 +32,9 @@ title: Resultados 2025
 ### Estadísticas de participación 2025
 
 #### Mejores escuelas
-Cintas por escuelita hasta abril (mejores 30 resultados):
+Cintas por escuelita hasta junio (mejores 30 resultados):
 
-<iframe src="../assets/iframes/2025/cintas_por_escuela_Abril.html" class="plot" height=710 width=1280></iframe>
+<iframe src="../assets/iframes/2025/cintas_por_escuela_Junio.html" class="plot" height=710 width=1280></iframe>
 
 #### Participación por sexo
 
