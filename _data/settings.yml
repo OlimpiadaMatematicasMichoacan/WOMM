@@ -177,6 +177,15 @@ entrenadores:
     image : "assets/images/team/marisol.jpg"
     designation : "Profesora, ENES Morelia"
     
+  - title : "Teresa Patiño Cárdenas"
+    image : "assets/images/team/tere.jpg"
+    designation : "Estudiante de Agroforestales, ENES Morelia"
+
+  - title : "Karime Ochoa Jacinto"
+    image : "assets/images/team/karime.jpg"
+    designation : "Estudiante de LTICs"
+
+    
 exmiembros:
   - title : "Rodrigo Cortez"
     image : "assets/images/team/rodrigo.jpg"
