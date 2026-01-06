@@ -16,7 +16,7 @@ menu:
 - {name: Acerca, link: '/acerca'}
 # - {name: Rifa, link: '/rifa'}
 - {name: Resultados, link: '/resultados'}
-- {name: Convocatoria 2025, link: '/convocatoria'}
+- {name: Convocatoria 2026, link: '/convocatoria'}
 - {name: Prepárate, link: '/preparate'}
 #- {name: Póster, link: '/poster'}
 #- {name: Noticias, link: '/noticias'}
@@ -250,7 +250,7 @@ stats:
 # Events Section
 
 # events:
-# - {name: <a href="/convocatoria">Examen inicial 2025</a>, icon: 'logo-3.png', date: '1-5 febrero 2025', organization: '<br>¡Para todas las categorías!<br><br><a href="/preparate">¡Prepárate!</a></br>'}
+# - {name: <a href="/convocatoria">Examen inicial 2026</a>, icon: 'logo-3.png', date: '12-14 febrero 2026', organization: '<br>¡Para todas las categorías!<br><br><a href="/preparate">¡Prepárate!</a></br>'}
 
 
 #-------------------------------

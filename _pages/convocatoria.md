@@ -17,15 +17,14 @@ title: Convocatoria
 <center>
 <img src="assets/images/olimpiada.png" class="center-img">
 El Comité Estatal de la Olimpiada de Matemáticas en Michoacán <strong>convoca</strong> a participar en la
-<h3> Olimpiada Michoacana de Matemáticas 2025</h3>
+<h3> Olimpiada Michoacana de Matemáticas 2026</h3>
 en todos sus niveles, asistiendo al <a class="text-info" data-toggle="modal" data-target="#loginModal">curso de entrenamiento</a> en línea, abierto para <strong>todo público</strong>, y presentando el <a class="text-info" data-toggle="modal" data-target="#loginModal">examen de colocación</a>.
 </center>
 
 Podrán participar estudiantes inscritos en cualquier institución de educación **pública** o **privada** del estado de Michoacán. Los exámenes de colocación están divididos en cuatro categorías que van <span style="color:#00a000">desde 4° de primaria hasta 2° año de preparatoria</span> o equivalente. Para participar, aparta <span style="color:#f00000">unas 2 horas un día, en el horario que más te convenga</span> durante estas fechas:
 
-- <span style="color:#00a000">Examen de colocación:</span> 1,2,3,4 o 5 de febrero de 2025.
-- <span style="color:#00a000">Segundo examen de colocación:</span> 21-24 de marzo de 2025.
-<!-- - <span style="color:#00a000">Examen de colocación (segunda fecha):</span> 8,9,10 de marzo de 2025. -->
+- <span style="color:#00a000">Examen de colocación:</span> 12, 13 o 14 de febrero de 2026.
+- <span style="color:#00a000">Segundo examen de colocación:</span> TBD.
 
 <!-- Si no obtienes cinta en la primera fecha, puedes entrenar e intentarlo de nuevo en la segunda. -->
 
@@ -306,7 +305,7 @@ Para apoyar con el entrenamiento podrías también, por ejemplo, ayudar a estudi
 </p>
 
 <p>
-Y claro, te alentamos a organizar que todos los grupos <span style="color:#00a000">presenten el examen en la misma escuela</span>, de ser viable, <span style="color:#00a000">el lunes 3 de febrero</span> en cualquier horario. Sin embargo, toma en cuenta que la participación es individual, y <strong><span style="color:magenta">cada estudiante deberá registrarse por separado en la plataforma</span></strong>.
+Y claro, te alentamos a organizar que todos los grupos <span style="color:#00a000">presenten el examen en la misma escuela</span>, de ser viable, <span style="color:#00a000">el jueves 12 de febrero o el viernes 13 de febrero</span> en cualquier horario. Sin embargo, toma en cuenta que la participación es individual, y <strong><span style="color:magenta">cada estudiante deberá registrarse por separado en la plataforma</span></strong>.
 </p>
 
 <p>
@@ -333,14 +332,14 @@ Escríbenos a <a href="mailto:olimpiada.omm@gmail.com">este correo</a> y con muc
 
 Apúnta a todos tus conocidos a la página.
 
-Puedes descargar e imprimir el [póster en formato pdf](assets/images/poster/Poster2025.pdf):<br>
-<a href="assets/images/poster/Poster2025.pdf"><img src="assets/images/poster/Poster2025.jpg" alt="póster" width="90%"></a>
+Puedes descargar e imprimir el [póster en formato pdf](assets/images/poster/Poster2026.pdf):<br>
+<a href="assets/images/poster/Poster2026.pdf"><img src="assets/images/poster/Poster2026.jpg" alt="póster" width="90%"></a>
 
 <!-- O si prefieres enviar sólo una imagen rápida: -->
-<!-- <a href="assets/images/poster/PostFB2025.pdf"><img src="assets/images/poster/PostFB2025.jpg" alt="póster" width="90%"></a> -->
+<!-- <a href="assets/images/poster/PostFB2026.pdf"><img src="assets/images/poster/PostFB2026.jpg" alt="póster" width="90%"></a> -->
 
 <!-- #### Para móbil: -->
-<!-- <a href="assets/images/poster/poster2025mobil.pdf"><img src="assets/images/poster/poster2025mobil.jpg" alt="póster" width="50%"></a> -->
+<!-- <a href="assets/images/poster/poster2026mobil.pdf"><img src="assets/images/poster/poster2026mobil.jpg" alt="póster" width="50%"></a> -->
 <!-- #### Para web: -->
 
 <span style="color:#aa00fb">Somos una organización sin fines de lucro. Simplemente tenemos interés en aportar nuestro granito de arena a la educación matemática en Michoacán.</span>
