@@ -332,8 +332,8 @@ Escríbenos a <a href="mailto:olimpiada.omm@gmail.com">este correo</a> y con muc
 
 Apúnta a todos tus conocidos a la página.
 
-Puedes descargar e imprimir el [póster en formato pdf](assets/images/poster/Poster2026.pdf):<br>
-<a href="assets/images/poster/Poster2026.pdf"><img src="assets/images/poster/Poster2026.jpg" alt="póster" width="90%"></a>
+Puedes descargar e imprimir el [póster en formato pdf](assets/images/poster/Poster2026_highres.webp):<br>
+<a href="assets/images/poster/Poster2026_highres.webp"><img src="assets/images/poster/Poster2026.webp" alt="póster" width="90%"></a>
 
 <!-- O si prefieres enviar sólo una imagen rápida: -->
 <!-- <a href="assets/images/poster/PostFB2026.pdf"><img src="assets/images/poster/PostFB2026.jpg" alt="póster" width="90%"></a> -->
