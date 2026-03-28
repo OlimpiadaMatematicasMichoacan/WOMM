@@ -8,3 +8,5 @@ gem 'base64'
 gem 'logger'
 gem 'ostruct'
 gem 'csv'
+
+gem "erb", "~> 6.0"
